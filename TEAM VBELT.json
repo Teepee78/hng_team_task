@@ -1,0 +1,43 @@
+{
+    "format": "CHIP-0007",
+    "name": "nguyen the foreigner",
+    "description": "Meet Nguyen, the Asian Aunt that's addicted to Waakaye.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "380",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "dark brown."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Squinted"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "none. Clothing:none."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "none."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0381301b-b5a3-42c1-9f73-2c43c0b8493f"
+    }
+}

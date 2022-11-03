@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "Yemaya",
+    "description": "Yemaya is the Ghana goddess of rivers and waters.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "400",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Orange Afro."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow Patterned Kento."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Hopeful."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "9609d0f4-d9d3-4cff-aa06-a9c459fefa39"
+    }
+}

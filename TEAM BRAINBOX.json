@@ -1,0 +1,35 @@
+{
+    "format": "CHIP-0007",
+    "name": "ada chewing bubble gum",
+    "description": "Ada always chewing gum",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "140",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "none,eyes",
+            "value": null
+        },
+        {
+            "trait_type": "none,teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothings",
+            "value": "traditional wear, accessories:cap, expression:sassy, strength:decisive"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "15309dc5-e483-4658-b503-db85ba2c1722"
+    }
+}

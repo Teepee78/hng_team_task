@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "lumusi pro technician",
+    "description": "The electrician well known for wiring burnt buildings",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "160",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b07676a6-c611-410d-8426-46c9c525189a"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007",
+    "name": "jude shadow fighter",
+    "description": "a ninja warrior, the last samurai standing",
+    "minting_tool": "TEAM ENGINE",
+    "sensitive_content": false,
+    "series_number": "60",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black. Eyes:brown ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "none ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "ankara . Accessories:none ."
+        },
+        {
+            "trait_type": "Expression",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a47b2ed7-d4aa-4404-ac40-0ecea464cf3f"
+    }
+}

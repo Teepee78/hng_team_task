@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "Amaka the tailor",
+    "description": "She sews the most beautiful dress in the hood",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "320",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "cef9091a-5afc-11ed-9b6a-0242ac120002"
+    }
+}
