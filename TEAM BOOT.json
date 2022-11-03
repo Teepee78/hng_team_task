@@ -1,57 +1,19 @@
 {
     "format": "CHIP-0007",
-    "name": "Olofi",
-    "description": "Olofi is the Yoruba creator god and messenger.",
-    "minting_tool": "TEAM AXE",
+    "name": "smirky becky",
+    "description": "Becky ends every statement she makes with a smirk.",
+    "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
-    "series_number": "381",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Eyes",
-            "value": "Hair:None. Sky Blue."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "None."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "FaceMask."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "None."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Creation God."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "26340cc4-e334-494e-a737-f2b4bb9bb22e"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Amadioha",
-    "description": "Amadioha is the Igbo high god of thunder.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "382",
+    "series_number": "401",
     "series_total": 420,
     "attributes": [
         {
             "trait_type": "Hair",
-            "value": "Bald. Eyes:Shut."
+            "value": "Black low cut."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
         },
         {
             "trait_type": "Teeth",
@@ -59,19 +21,19 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "None."
+            "value": "Animal print dress."
         },
         {
             "trait_type": "Accessories",
-            "value": "FaceMask."
+            "value": "Ankara beret."
         },
         {
             "trait_type": "Expression",
-            "value": "None."
+            "value": "Smirking."
         },
         {
             "trait_type": "Strength",
-            "value": "Thunder Bolt."
+            "value": "Curiosity."
         },
         {
             "trait_type": "Weakness",
@@ -80,62 +42,24 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "a0586a93-7aff-43cc-8282-d081b8d6fe90"
+        "id": "87bcc41f-eb3e-4ba2-9645-223c949a9b50"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Sango",
-    "description": "Sango is the yoruba diety of thunder.",
-    "minting_tool": "TEAM AXE",
+    "name": "ankara scarlett",
+    "description": "Scarlett is a tailor at yaba market and she loves what she does.",
+    "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
-    "series_number": "383",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Teeth",
-            "value": "Hair:Shiny Bald. Eyes:None. None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "AsoOke."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "None."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Cunning."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Thunder Clap."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "15e1775c-74fe-4a0b-b79c-49f6b730fa89"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Agwu",
-    "description": "Agwu is the Igbo deity of health and divination.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "384",
+    "series_number": "402",
     "series_total": 420,
     "attributes": [
         {
             "trait_type": "Hair",
-            "value": "Shiny Bald."
+            "value": "Orange bun."
         },
         {
             "trait_type": "Eyes",
-            "value": "Aquamarine."
+            "value": "Closed."
         },
         {
             "trait_type": "Teeth",
@@ -143,7 +67,7 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "None."
+            "value": "Ankara mixed with black material dress."
         },
         {
             "trait_type": "Accessories",
@@ -151,11 +75,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Childlike."
+            "value": "Unethusiastic."
         },
         {
             "trait_type": "Strength",
-            "value": "Healing."
+            "value": "Fashion."
         },
         {
             "trait_type": "Weakness",
@@ -164,24 +88,24 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "311a6713-66c9-43ce-82d8-e3ce03a87a81"
+        "id": "66d0149f-5f2a-4ded-8e6b-9bd7d7631c39"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Tano",
-    "description": "Tano is the master of the Ghana river Tano.",
-    "minting_tool": "TEAM AXE",
+    "name": "sea rastafaria",
+    "description": "Ronke is the ghetto goddess that nobody wants to mess with. Stay clear!",
+    "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
-    "series_number": "385",
+    "series_number": "403",
     "series_total": 420,
     "attributes": [
         {
             "trait_type": "Hair",
-            "value": "None."
+            "value": "Purple dreadlocks."
         },
         {
             "trait_type": "Eyes",
-            "value": "Squinted."
+            "value": "Closed."
         },
         {
             "trait_type": "Teeth",
@@ -189,7 +113,7 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "Yellow Danshiki with patterns."
+            "value": "Blue one hand dress."
         },
         {
             "trait_type": "Accessories",
@@ -197,11 +121,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "None."
+            "value": "Unfazed."
         },
         {
             "trait_type": "Strength",
-            "value": "None."
+            "value": "Intellect."
         },
         {
             "trait_type": "Weakness",
@@ -210,24 +134,24 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "9c34a73f-33ee-4577-aba8-0982c1656ba7"
+        "id": "d1556c97-9075-49fc-8bde-1826bfc2dbe1"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Anansi",
-    "description": "Anansi is a trickster god of stories of the Ghana people.",
-    "minting_tool": "TEAM AXE",
+    "name": "pretty betty",
+    "description": "Betty is always proud of her beauty.",
+    "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
-    "series_number": "386",
+    "series_number": "404",
     "series_total": 420,
     "attributes": [
         {
             "trait_type": "Hair",
-            "value": "None."
+            "value": "Orange bob."
         },
         {
             "trait_type": "Eyes",
-            "value": "Sleepy."
+            "value": "Closed."
         },
         {
             "trait_type": "Teeth",
@@ -235,19 +159,19 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "Black Danshiki with patterns."
+            "value": "Orange one hand ankara print."
         },
         {
             "trait_type": "Accessories",
-            "value": "FaceMask."
-        },
-        {
-            "trait_type": "Expression",
             "value": "None."
         },
         {
+            "trait_type": "Expression",
+            "value": "Stoic."
+        },
+        {
             "trait_type": "Strength",
-            "value": "Illusions."
+            "value": "Beauty."
         },
         {
             "trait_type": "Weakness",
@@ -256,66 +180,24 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "784f0f6b-4273-4a31-88d7-2455b96c9011"
+        "id": "6a4f5b7c-914d-42c5-8e5f-d1c34ca48886"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Nyame",
-    "description": "Nyame is the omnipotent god of the Ghana region.",
-    "minting_tool": "TEAM AXE",
+    "name": "lola medusa",
+    "description": "Lola knows how to seduce every guys she is into.",
+    "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
-    "series_number": "387",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Teeth",
-            "value": "Hair:Bald. Eyes:Black, None."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Serious."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Yellow Patterned Danshiki with black lining."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Facemask."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "None."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "HeatBlast."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "f3af0bbd-0724-4696-89ff-ed67f63e6b4f"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Obatala",
-    "description": "Obatala is the lord of all gods in the Yoruba land.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "388",
+    "series_number": "405",
     "series_total": 420,
     "attributes": [
         {
             "trait_type": "Hair",
-            "value": "None."
+            "value": "Long red braids."
         },
         {
             "trait_type": "Eyes",
-            "value": "Pitch Black."
+            "value": "Closed."
         },
         {
             "trait_type": "Teeth",
@@ -323,7 +205,7 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "Yellowish Blue Native."
+            "value": "Geometric ankara print."
         },
         {
             "trait_type": "Accessories",
@@ -331,183 +213,7 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Mysterious."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Oro Ase."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "c447c120-830e-4543-9cb3-5917ba36bce8"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Erinle",
-    "description": "Erinle is a powerful hunter of the Yoruba land.,",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "389",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Shiny Bald."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Midnight black."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "None. Accessories:None."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Angry."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Irongrip."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "dacbbb38-087d-4248-8085-13b619da0ef9"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Ogun",
-    "description": "Ogun is the Yoruba God of iron and metal work.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "390",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Shiny Bald."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "None."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Whitish Blue Ankara."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "None."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Amused."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Ironclaw."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "94c607b3-791e-40df-bd93-50926f094143"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Abosom",
-    "description": "Abosom is the goddess of wisdom and knowledge of the Ghana people.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "391",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Fuzzy Brown."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "None."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Patterned Danshiki."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Glasses and Pipe."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Baddie."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "All knowing."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "b3427836-627b-41e4-a2d0-c29473448343"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Oya",
-    "description": "Oya is the goddess of violent storms and winds of the Yoruba people.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "392",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Eyes",
-            "value": "Hair; Purple Braids. None."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Darkish Blue Buba."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Glasses."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Bitchy."
+            "value": "Unfazed."
         },
         {
             "trait_type": "Strength",
@@ -520,338 +226,20 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "22aaebe4-4659-44de-ab3d-c4dae11fe9f5"
+        "id": "32ec57f7-8272-4671-ad2d-db3dff99fe9f"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Agbala",
-    "description": "Agbala is the stylish goddess of the future for the Igbo region.",
-    "minting_tool": "TEAM AXE",
+    "name": "bukola nosend",
+    "description": "Bukola is friends with many but always get moody.",
+    "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
-    "series_number": "393",
+    "series_number": "406",
     "series_total": 420,
     "attributes": [
         {
             "trait_type": "Hair",
-            "value": "Black Knob."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "None."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Patterned Kente."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Berret, Glasses and Gum."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Unbothered."
-        },
-        {
-            "trait_type": "Stength",
-            "value": "Foresight."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "ca720bf9-5e47-4421-b38f-bc62162ae99e"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Njoku-ji",
-    "description": "Njoku-ji is the goddess of new yam of the Igbo people.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "394",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Light brown Cornrows."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "None."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Patterned Isiagu."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Glasses."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Blank."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "None."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "3b795bad-91b4-4d0e-8ed8-bccbb226fc55"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Akonadi",
-    "description": "Akonadi is the goddess of justice and prophesies of the Ghana people.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "395",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Brown Wavy."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "None."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "Vampiric."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Yellow patterned Kento."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Glasses."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Scale Of Justice."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "2aebd094-3be5-4773-a7a0-361f6332a7d4"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Onyame",
-    "description": "Onyame is the goddess of the moon of the ghana region",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "396",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Wavy Brown Curls."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Aquamarine."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Drum Patterned Danshiki."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Earrings."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "None."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Moonbeam."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "fb148f97-d309-45a4-b902-4e066ca13f96"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Ibeji",
-    "description": "Ibeji is the goddess of balance and twin of the Yoruba people.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "397",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Purple Bun."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Midnight Black."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "Vampiric."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Purpulish Black Buba."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Berret."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Scary."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Hammer of Justice."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "7b210c03-5446-462d-980e-c73dbbc1e386"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Asase-ya",
-    "description": "Asase-ya is the goddess of fertility and love of the Ghanaian people",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "398",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Brown Curly bun."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Deep Brown."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Multicoloured Kento."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Pipe."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Amused."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "Lovefist."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "80b51092-3fbc-4d0c-8518-fc461ccb6c80"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Yemoja",
-    "description": "Yemoja is the stylish yoruba goddess of the rivers.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "399",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Orange Pigtail."
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Dark brown."
-        },
-        {
-            "trait_type": "Teeth",
-            "value": "None."
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Black Patterned Kento."
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "Hair Clip."
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Dismayed."
-        },
-        {
-            "trait_type": "Strength",
-            "value": "None."
-        },
-        {
-            "trait_type": "Weakness",
-            "value": 0
-        }
-    ],
-    "collection": {
-        "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "1693b44d-96cf-4c2d-89be-9f4219c28447"
-    }
-}{
-    "format": "CHIP-0007",
-    "name": "Yemaya",
-    "description": "Yemaya is the Ghana goddess of rivers and waters.",
-    "minting_tool": "TEAM AXE",
-    "sensitive_content": false,
-    "series_number": "400",
-    "series_total": 420,
-    "attributes": [
-        {
-            "trait_type": "Hair",
-            "value": "Orange Afro."
+            "value": "Brunette bob."
         },
         {
             "trait_type": "Eyes",
@@ -863,7 +251,7 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "Yellow Patterned Kento."
+            "value": "Blue and yellow ankara print dress."
         },
         {
             "trait_type": "Accessories",
@@ -871,11 +259,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Hopeful."
+            "value": "Moody."
         },
         {
             "trait_type": "Strength",
-            "value": "None."
+            "value": "Ideation."
         },
         {
             "trait_type": "Weakness",
@@ -884,6 +272,646 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "9609d0f4-d9d3-4cff-aa06-a9c459fefa39"
+        "id": "59d19b13-09e2-412e-a669-df020e03ae10"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "burna morgan",
+    "description": "Morgan paints the town red with her red hair.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "407",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Two brunette buns."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ankara dungarees."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Tobacco pipe."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Happy."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Fighting."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d08af477-de20-4780-8449-46b87840b9fa"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "afro star",
+    "description": "Bimbo is an afro star with great affluence.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "408",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Orange afro."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ghana kente cloth."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Inspired."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Money."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "40743b16-ae12-4b4a-989c-e5fbf1e2e0ca"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "fiesty sandra",
+    "description": "Sandra is a social animal, correct owambe ambassador.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "409",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown bun."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow ankara dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Purple bubblegum."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "None."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Relating with people."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d875aa6c-3e4a-4450-b09c-e9f1cdcc3947"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "sister nkechi sabi",
+    "description": "Nkechi is the true definition of amebo, always in peoples business.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "410",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black low cut."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow patterned ankara dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Ankara beret."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "None."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Amebo."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a728a380-1d33-4080-841d-80b041474d8f"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "unfriendly gina",
+    "description": "Gina is an angry one, she has no friends but she has a lot of money.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "411",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Orange bun."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Animal print dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Stoic."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Anger."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "dd30a327-8a74-40a5-8207-19a790508ccc"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "dada ganster",
+    "description": "Dada respects no one, always finds pleasure terrorising others.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "412",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Purple dreadlocks."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Vampiric"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ankara mixed with black material dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Annoyed."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Finding trouble."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e1a43f65-aad2-4385-ac5e-bc159c6e0f2a"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "idoncare linda",
+    "description": "Linda is a beautiful but very annoying girl, she turns every thing into an argument.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "413",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Orange bob."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue one hand dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Mischievous."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Instigationg arguments."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ed04b47c-ae98-4db2-b71b-04d7bb976d45"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "doubting vivian",
+    "description": "Vivian just like the thomas in the bible, she doubts all.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "414",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Long red braids."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red ankara one hand dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Pissed."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Logic."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a0282797-44ef-4bfb-a701-e4ed5e727d63"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "simbi side eyed",
+    "description": "Simbi is reserved but doesn't allow anyone intimidate her.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "415",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Two orange buns."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Geometric ankara dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Annoyed."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Communication."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1f99104c-e98b-4c9a-9891-00a481e86008"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "bambi tekno",
+    "description": "Bambi is the dancer of the team.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "416",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown low buns."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Brown ankara dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Yellow sunglasses."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Cool."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Dancing."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "95ff5e2c-1ff2-4d58-890b-de0f39f9d8ce"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "saka portable",
+    "description": "Saka is forever convinced that his toothless smile is the icing on his cake.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "417",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "None."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black and blue shirt."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Purple cap and yellow sunglasses."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "None."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Confidence."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "bd98f74f-e42e-494e-8298-3183555ca666"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "king of boys",
+    "description": "Busayo finds her way in ruling the boys and that's why she's king of boys.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "418",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black buns."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "One hand patterned ankara dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Cigarette pipe and yellow sunglasses."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Stoned."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Confidence."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a650e79c-f964-4eb1-aa89-f9c1dbdede76"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "funky alte pop",
+    "description": "Funke is always the life of every party, strong gen z advocate.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "419",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Two red buns."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "One hand patterned ankara dress. Acessories Yellow sun shades"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rugged."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Music."
+        },
+        {
+            "trait_type": "Weakess",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b6753a8b-6127-4e97-812b-99e465791ba3"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "madame ngozi",
+    "description": "Ngozi make heads turn with her beautiful collection of materials from all over africa.",
+    "minting_tool": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_number": "420",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Red afro."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ghana kente dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Yellow sunglasses."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Pissed."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Money."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7ecdbb1d-9a89-4136-b240-499051836979"
     }
 }

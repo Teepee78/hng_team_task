@@ -1,5 +1,923 @@
 {
     "format": "CHIP-0007",
+    "name": "omunyinyi the stoic",
+    "description": "omunyinyi wears a Kitenge coat",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "321",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": null
+        },
+        {
+            "trait_type": "tearyTeeth",
+            "value": null
+        },
+        {
+            "trait_type": "noneSkin",
+            "value": null
+        },
+        {
+            "trait_type": "brownskinClothing",
+            "value": "checked ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c2d6a3ac-1d4d-4268-ba7f-4f0f8f50c1ab"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kamau the sleeper",
+    "description": "closed eyes meditating",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "322",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Blad"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "noneSkin",
+            "value": "brownskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "black ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "flat"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "open to suggestion"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "20330f5c-40c2-4f6a-b9d8-d1d04fb97daf"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mutiso the lastborn",
+    "description": "masked up mutiso dozing off",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "323",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Hair:bald closed"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "brownskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "yellow ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "consistency"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0706c338-42eb-4d26-84ea-c24b39628200"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "omondi the vegeterian",
+    "description": "omondi wears a green coat",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "324",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Hair:bald sharp eyed"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "brownskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "green ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "alert"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "leader"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "bfb5e8d5-d7a7-4aa8-85e8-d7d9afd4adb3"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "barasa the optimist",
+    "description": "looks up to the sky and makes a wish",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "325",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "dark skin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "brown ankara Accessories:none"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "awake"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "strong willed"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "2da4bef4-38cc-4414-99ad-7361fac04b2b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mwembu the elder",
+    "description": "old but not so old, with yellow his favorite color",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "326",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "dark skin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "dark ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "plain"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "fulfilled"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "36181230-6ac9-417f-af5c-23bdd2c25ecb"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mbogi the fighter",
+    "description": "masked up mbogi after capture",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "327",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": null
+        },
+        {
+            "trait_type": "baldEyes",
+            "value": null
+        },
+        {
+            "trait_type": "blackTeeth",
+            "value": null
+        },
+        {
+            "trait_type": "noneSkin",
+            "value": "darkskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "onesideankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "noneExpression",
+            "value": "willfull"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "fighter"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3a7bc3c4-1463-42ce-84c9-07337da64435"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mrosho the runner",
+    "description": "masked up mrosho",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "328",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "sea blue"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "darkskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "purple ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "alert"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "visionary"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b2ca2c76-3b6d-43f1-8cc9-089b6ab83876"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "milele the african",
+    "description": "milele with a nice african print in orange",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "329",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "dark skin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "orange ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "timid"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "leader"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "644b0259-d75c-456d-934c-ce7c052bad3a"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "olebon the oloibon",
+    "description": "olebon in customized buba sokoto",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "330",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "darkskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "animal print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "empathy"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "de261efe-731d-461e-b2e4-42edd2f48f72"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chifu the maasai",
+    "description": "clothing inspired by maasai shuka",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "331",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "ankara shirt"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "visionary"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "authentic"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "239933c4-7177-4b5b-86e8-e6f952301344"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mwangaa the voice",
+    "description": "mwangaa the chief",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "332",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "darkskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "white lined ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "kindness"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "49179b62-812d-4d0f-b518-4af7fa79f8bc"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "waforte the first",
+    "description": "masked up man who does sleep a lot",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "333",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closedTeeth:none"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "darkskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "jean ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "shy"
+        },
+        {
+            "trait_type": "Strength",
+            "value": null
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "871912a8-d96e-4594-b7b3-450d94ee6924"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kariuki the prayerful one",
+    "description": "kariuki closes his eyes",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "334",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed eyes"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": null
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "bored"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "intelligent"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "6a5b6fa6-0f91-4b01-957f-c766945eb704"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kenyanese the priest",
+    "description": "masked up man with with white cloth",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "335",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "darkskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "white jean shirt"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "calculative"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "kind"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0706c338-42eb-4d26-84ea-c24b39628200"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nyimbo the singer",
+    "description": "glasses and a pot for the night",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "336",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Hair:dreadlocks glassed up Teeth:none"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "brownskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "off shoulder ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "a pot"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "free spirited"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "fair"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d05af807-b3e9-4ad3-8df1-b7864d2daa33"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "maathai the nobel winner",
+    "description": "mathaai the warrior",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "337",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "pink afro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "glassed up"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "brownskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "colored ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "noneExpression",
+            "value": "strict"
+        },
+        {
+            "trait_type": "Strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0871cb8c-8d56-445d-92c7-01793f327707"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tish the angry one",
+    "description": "angry tish with specs on",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "338",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black huge afro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": null
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "broken teeth"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "brownskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "offshoulder ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "disgusted"
+        },
+        {
+            "trait_type": "Strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "750a89dc-44ff-43bf-8211-b7776f1b5e52"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "wamenza the winner",
+    "description": "wamenza the leader",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "339",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "laid back"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": null
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Skin",
+            "value": "brownskin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "offshoulder ankara"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "noneExpression",
+            "value": "meditative"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "strict"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7348c9ed-4ac9-4785-9434-0a1f0dcaf8d8"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "isaya the track king",
     "description": "isaya the traveller",
     "minting_tool": "TEAM SANDPAPER",

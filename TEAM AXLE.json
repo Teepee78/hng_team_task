@@ -1,5 +1,252 @@
 {
     "format": "CHIP-0007",
+    "name": "bobo alinco",
+    "description": "Alinco always in the mood for play",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "241",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede853c4-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chi lastborn",
+    "description": "Baby of the house, the lastborn of an average Nigerian family",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "242",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede85964-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "uju robo robo",
+    "description": "An aso-oke business woman at balogun market",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "243",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede85f90-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "yetunde anifowose",
+    "description": "Old money lady who was in UK before UK was UK",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "244",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede861b6-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "dumebi jjc",
+    "description": "Innocent 100 level girl wey never spoil",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "245",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede865da-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ukwu nengi",
+    "description": "Well endowed woman who will always make heads turn",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "246",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede86800-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nonso malay",
+    "description": "Man on the move. It is either ego, or money my bloder",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "247",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede86a12-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "saro texaco",
+    "description": "An oil tycoon who dominates",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "248",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede86c2e-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "akpos agbero",
+    "description": "A Warri boy always in the mood for violence",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "249",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede86e22-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kasali danfo",
+    "description": "A danfo driver popular for his positive outlook of life",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "250",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede86fbc-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "osaz benz",
+    "description": "an Internet fraudster who hails from Edo state",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "251",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede87fca-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kareem kasanova",
+    "description": "Abuja big boy who knows he can get any lady he wants",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "252",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede8820e-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mayor of uyo",
+    "description": "Essien is a top Lagos businessman who hails from Uyo",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "253",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede883c6-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chinedu china",
+    "description": "An Nnewi blooded spareparts importer and exporter with goods from china",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "254",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede885f6-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "papa ekene",
+    "description": "The oldest man of the Akwauzu clan",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "255",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede88808-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ogbeni rauf",
+    "description": "Minister of enjoyment for Freedom state",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "256",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede889fc-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "koffi banku",
+    "description": "E be Charlie wey no dey use en stomach play",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "257",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede88c2c-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "alhaji bello",
+    "description": "Rich hausa business mongul controlling half of cow production in Nigeria",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "258",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede88efc-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "toju mafejopami",
+    "description": "Toju is a street hustler wey no like stress",
+    "minting_tool": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_number": "259",
+    "series_total": 420,
+    "attributes": [],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ede895d2-5abd-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "femi maserati",
     "description": "Rich kid who resides in lekki, known by everybody because he drives a Maserati",
     "minting_tool": "TEAM AXLE",

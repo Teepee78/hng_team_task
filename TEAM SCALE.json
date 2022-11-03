@@ -1,5 +1,855 @@
 {
     "format": "CHIP-0007",
+    "name": "wendy the  banker",
+    "description": "Wendy loves working in the bank, as she gets to meet different people.",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "301",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Dark red ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue. Teeth:None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue and yellow ankara ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "shocked."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "587645e2-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "uduak the dark horse",
+    "description": "Uduak looks innocent and has the whole apartment bugged",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "302",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue . Teeth:none ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "multi-colored ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Witty."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58764862-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "timeyin the eccentic",
+    "description": "Timeyin is as eccentric as they come with no care for others opinions",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "303",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue . Teeth:none ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "multi-colored ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Smoking pipe."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "High."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58764a2e-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "omawunmi the businesswoman",
+    "description": "Omawunmi is a no-nonsense woman with a shop in idumota",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "304",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Pink ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "white teeth ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Angry."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58764b78-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "halima the housewife",
+    "description": "Halima loves to bake and cook for her children",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "305",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "ankara designed with yellow, red and green."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Tired ."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58764d8a-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "muna the block sister",
+    "description": "Muna loves to tell everyone in the block about her younger escapades",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "306",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Wolf-skin ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Headgear."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Shocked."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58764ea2-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "stella the gossip",
+    "description": "Nobody gossips on the block like stella when smoking.",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "307",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Red."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Covered eyes."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black ankara with bright design ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58764fd8-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "agbani the wannabe",
+    "description": "Agbani loves to shop antique ndecorations for her mansion in idi-iroko",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "308",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Purple hair."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "covered eyes ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue one-armed dress ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Happy."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5876542e-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "asante the warrior",
+    "description": "Asante came from along line of warriors in Ghana",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "309",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Pink braids."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Covered eyes ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "One-armed brightly colored dress."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm ."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58765578-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "hilda the insomaniac",
+    "description": "Hilda prefers to sleep during the day",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "310",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Pink ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Covered eyes ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Multi colored ankara ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None. Expression:Calm ."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5876569a-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "sisi yemi the street aunty",
+    "description": "Sisi Yemi is everyone's favourite street aunty.",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "311",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Dark brown ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown eyes."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue and yellow ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Shocked ."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "587657a8-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chiamaka the bully",
+    "description": "Chiamaka hates people in her business and likes to scare the kids on the block",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "312",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Pink."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "multi-colored ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Smoking pipe."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "strong."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "587658ca-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "gift the fashionista",
+    "description": "Gift has always been bold and that spreads to her fashion sense too.",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "313",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown . Teeth :none ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "multi-colored ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Witty."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58765adc-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "omoyene the weirdo",
+    "description": "Omoyene likes to murmur to herself and talks about seeing ghosts",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "314",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow ankara."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58765bea-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "maria the freshface",
+    "description": "Maria likes to believe the world is sunshine and rainbows while blowing gum",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "315",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Pink."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown eyes."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "white teeth. Clothing:Yellow, greem and red ankara ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Furious ."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58765d02-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "monica the smoker",
+    "description": "Monica is never found without a pipe and loves to interject in every conversation",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "316",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58765e24-5ace-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "janet the singer",
+    "description": "Janet is always found singing in whatever activity she\u2019s doing",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "317",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "cef902bc-5afc-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "emi the reggae girl",
+    "description": "EMi is a beautiful dancer",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "318",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "cef9060e-5afc-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "Aisha love the life of the party",
+    "description": "Aisha always party during the weekend",
+    "minting_tool": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_number": "319",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "cef907a8-5afc-11ed-9b6a-0242ac120002"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "Amaka the tailor",
     "description": "She sews the most beautiful dress in the hood",
     "minting_tool": "TEAM SCALE",

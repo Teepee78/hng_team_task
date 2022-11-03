@@ -1,5 +1,875 @@
 {
     "format": "CHIP-0007",
+    "name": "adewale the amebo",
+    "description": "adewale the amebo",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "1",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "red"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "cad316c3-37f8-4b27-9f53-9d803bfcfee7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "alli the queeny",
+    "description": "Alli is an LGBT Stan.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "2",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a57ecda4-a26f-4e97-a757-e1800af39aab"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "aminat the snnobish",
+    "description": "Aminat never really wants to talk to anyone.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "3",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": "blank"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "aminu the carpenter",
+    "description": "Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "4",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chibuike the kudibag",
+    "description": "Chibuike is too rich. Everyone wonders how he got it.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "5",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "blue"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "hustler"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chidinma the model",
+    "description": "From Paris' runways, to London's streets, she's always in demand.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "6",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown hair"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "hardworking"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c98db72e-49ac-4ca6-89d5-e00f5fbbcc45"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chioma pretty girl",
+    "description": "Chioma's face card is a 100.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "7",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "dreads"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "182ea888-a85b-42ca-ad73-ed4f8f9aa5c7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "damilare the handsome",
+    "description": "He's a fine boy. Everyone loves his face(and him).",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "8",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "27eca2dc-d7df-474a-8f8f-1858152c711e"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ebiowie the planter",
+    "description": "Ebiowei has a reputation for nurturing plants.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "9",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "f1df8270-4d60-4bd4-8959-ba7c384db5c4"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "emeka the businessman",
+    "description": "Emeka only cares about containers. No time to waste.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "10",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "orange"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "hard worker"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "9b3d75da-4887-4089-aee4-50de3954fdc9"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "gbeminyi the monk",
+    "description": "He lives in a monastery off the coast. No one has heard him speak in years.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "11",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c8b1fd1d-8551-4bb4-8dc4-923a9aeb39fb"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "henry the sportsman",
+    "description": "He's played every sport known to man. Even cricket.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "12",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "agility"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e1225451-bfdf-4a1f-8d37-9cce3a0bd67b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mayowa the smallie",
+    "description": "Mayowa is so small but everyone loves him even still.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "13",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "dfbb4163-df24-4d54-b74c-6218a68df8bd"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "muyiwa the stylish",
+    "description": "Muyiwa has a motto which is never to be caught unfresh.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "14",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "ash"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "creativity"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nina paper chaser",
+    "description": "Nina na Igbo girl wey like money. Finish.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "15",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown double bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "animal print"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "hustler"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "59524227-dc52-407c-8cca-e9e8c5fb3018"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "oluwaseun spicy",
+    "description": "He loves spicy foods. He cooks pepper and sprinkles rice on top.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "16",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none, clothing; yellow and purple agbada"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "808f7007-6552-4efa-bd13-4b7c337b102b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "sesan the smartie",
+    "description": "Sesan always comes first in competitions.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "17",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "orange"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "intelligence"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ba3edda7-8940-4ca4-97ba-826398d5909f"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tiwa london",
+    "description": "If she says she's in London and you see her, you're in London too.",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "18",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "78da7aeb-8352-4e25-89ac-dc48b5984089"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tunde yoruba demon",
+    "description": "Tunde derives joy in breaking girls heart. It's a lifestyle.\"",
+    "minting_tool": "TEAM BEVEL",
+    "sensitive_content": false,
+    "series_number": "19",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple and yellow agbada"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "53b46bd7-a537-402b-b249-0b4074a8faae"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "yakubu the zombie",
     "description": "Yakubu earned his zombie title because na only dust full him head.",
     "minting_tool": "TEAM BEVEL",

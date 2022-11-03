@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 This module converts a CSV to a CHIP_0007 representation
+
+How to run;
+	./csvtojson.py `csvfilepath`
 """
 import csv
 import json
@@ -13,13 +16,15 @@ def parse_attributes(attributes):
 	result = []
 
 	attributes = attributes.split()
-	i = 0
 	key = ""
 	value = ""
 	pair = [0, 0]
 	for i, word in enumerate(attributes):
+
 		if word.endswith(":"):
+
 			if pair[0] != 0:
+				
 				# new key value pair
 				if value == "":
 					pair[1] = None
@@ -28,16 +33,19 @@ def parse_attributes(attributes):
 					if value == 'none' or value == 'None':
 						value = None
 					pair[1] = value
+				
 				# reset value and pair
 				value = ""
 				pair = [0, 0]
+			
 			key = word.strip(",").strip(":")
 			pair[0] = key
 		else:
 			value = value + " " + word
 			continue
 		result.append(pair)
-	
+
+	# remove empty key value pairs
 	for i, pair in enumerate(result):
 		if pair[0] == 'none':
 			result.pop(i)
@@ -52,7 +60,7 @@ def make_json(csvFilePath):
 	
 	# create dictionary of data and result list
 	data = []
-	result = []
+	result_list = []
 	
 	# Open a csv reader called DictReader
 	with open(csvFilePath, encoding='utf-8') as csvf:
@@ -77,11 +85,15 @@ def make_json(csvFilePath):
 				# Open a json writer, and use the json.dumps()
 				# function to dump data
 				if jsonFilePath != "":
-					with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
-						jsonf.write(json.dumps(nft, indent=4))
+					with open(jsonFilePath, 'a', encoding='utf-8') as jsonf:
+						for result in result_list:
+							jsonf.write(json.dumps(result, indent=4))
+						result_list = []
 				team = row["Series Number"]
-				jsonFilePath = f"{team}.json"
+				if team != "":
+					jsonFilePath = f"{team}.json"
 				continue
+			
 			# create nft dictionary
 			nft = {}
 			nft["format"] = "CHIP-0007"
@@ -100,15 +112,14 @@ def make_json(csvFilePath):
 			nft["collection"] = {}
 			nft["collection"]["name"] = "Zuri NFT Tickets for Free Lunch"
 			nft["collection"]["id"] = row["UUID"]
+			result_list.append(nft)
 		
-# # Driver Code
-
-# # Decide the two file paths according to your
-# # computer system
-# csvFilePath = r'Names.csv'
-# jsonFilePath = r'Names.json'
-
-# # Call the make_json function
-# make_json(csvFilePath, jsonFilePath)
-make_json(argv[1])
-
+		with open(jsonFilePath, 'a', encoding='utf-8') as jsonf:
+			for result in result_list:
+				jsonf.write(json.dumps(result, indent=4))
+		
+# Driver Code
+# csvFilePath = first argument to script
+# Call the make_json function
+if __name__ == "__main__":
+	make_json(argv[1])

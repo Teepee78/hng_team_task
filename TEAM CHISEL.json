@@ -1,5 +1,875 @@
 {
     "format": "CHIP-0007",
+    "name": "adebola omo oba",
+    "description": "Adebola loves soft life with her fathers wealth",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "101",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "ankara print , Accessories:none"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "staring"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "bold, outspoken"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "fbf43611-f267-4cba-bf4b-a3ffdc122589"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chichi the dancer",
+    "description": "Chichi loves dancing and party",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "102",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue,opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "ankara print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "shocked"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "dancing"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e7c32b06-7022-49b4-bbe5-81e8c1d58583"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "hammed the farmer",
+    "description": "Hammed owns a farm with his family",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "103",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": null
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "brown and cream buba"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "nose mask"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "innocent"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "farming"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e57d8985-599e-49da-8d62-fc16b7ac93f2"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "farida the tivlady",
+    "description": "Farada is a traditional TIv woman",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "104",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "ankara print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "lipgloss"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "cool"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "cooking"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "31d3e229-003e-43c8-ba82-38f49cf58ccb"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "hannah the singer",
+    "description": "Hannah loves singing and belongs to choir",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "105",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "flower print dress"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "earrings"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "angry"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "singing"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "281f5bd7-5282-458b-9811-e369980e7dee"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nonso the igbogirl",
+    "description": "Nonso is an Igbo girl that loves money",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "106",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "leopard print blouse"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "business"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5cfa76df-8376-4505-af12-78af24f108d6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "shade olori",
+    "description": "Shade loves soft life and makeup",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "107",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "blue,opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "ankara print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1a07ca73-d39b-43e9-a0f1-ef9f5e57d3a9"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "quadri the teacher",
+    "description": "Quadri is a devoted teacher that teaches mathematics",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "108",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": null
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "yellow on blue jean"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "nose mask"
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "teaching"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d96a93e7-17a4-4efe-b09b-02185cc81ce8"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "Ifeanyi the dj",
+    "description": "Ifeanyi is a music dj that performs at events",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "109",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": null
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "animal print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "red cap"
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "mixing songs"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "030f665d-2cd7-4376-aef5-4030dad9f2d6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "fayo the yorubademon",
+    "description": "Fayo is a youruba demon that breaks hearts",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "110",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "africa print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "determined"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e270e278-a9b5-408d-b527-d518239a997b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nkechi the actress",
+    "description": "Nkechi is an internation actress that acts in hollywood",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "111",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "purpule short hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "native print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "smoking"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "rugged"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "love"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "34b1136d-00b1-4f29-8a03-5b02291d47d5"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "hamzat the mallam",
+    "description": "Hamsat is a mallam that changes money",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "112",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "wrapper"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "straight"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "traditional"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "592eff9f-93b2-4452-a2ed-5d44ebc969db"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nnena pretty girl",
+    "description": "Nnena is beautiful girl that loves to talk about her beauty",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "113",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown bob marley"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "open"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "covered"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "african print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "giver"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d9477612-ad63-408e-8d12-24679c647b32"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tunde the boss",
+    "description": "Tunde is a boss that orders her helps around",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "114",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "capped"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "native cloth"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "cooks well"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7635c4ee-04f6-4872-bfc9-37e5a73c8fc6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nnamdi the barber",
+    "description": "Nnamdi is a baber that does celebrity haircuts",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "115",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown afro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "open"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "smokey"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "africa print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "determined"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "152758f3-9414-45a2-a809-95cb05a3de13"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "amaka the hypepriestess",
+    "description": "Amaka is a very hyper that she hypes in the clubs",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "116",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "open teeth"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "africa print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "independent"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c7726e84-3c5c-4e66-8677-cbfb5c9ee850"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kemi foodie",
+    "description": "Kemi loves food but cannot cook",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "117",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black har with scarf"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "partly opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "one hand style"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "can cook very well"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3116cb6f-14c4-4d5a-af57-54253b72a309"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ada the fashionister",
+    "description": "Ada loves fashion that she rarely repeats cloths",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "118",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown afro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "africa print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "successful"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a14df1c1-7a5a-4a33-8780-0fb01c593da6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kayode the baller",
+    "description": "Kayode loves life and lives it",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "119",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "wide opened"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "yellow on jeans"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": "swaggy"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "fe17bfdc-c251-4654-8313-1ab793e11748"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "kola of lagos",
     "description": "Kola is the life of the party everywhere he is",
     "minting_tool": "TEAM CHISEL",

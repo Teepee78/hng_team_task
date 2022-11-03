@@ -1,5 +1,879 @@
 {
     "format": "CHIP-0007",
+    "name": "osas the ceo",
+    "description": "Meet Osas, a Gen-Z CEO with the British accent.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "361",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "purple dreadlocks."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "danshiki."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "gold glasses."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "none."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "none."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b10f7e42-4778-49db-820b-dabbad75504a"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nneka the rainbow babe",
+    "description": "Nneka, the happy rainbow babe with the vibes",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "362",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "pink."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "blue and black bichrome."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pink."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "none."
+        },
+        {
+            "trait_type": "trength",
+            "value": "none."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e7e20ab8-03e0-4e0a-80aa-6e193f84426e"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "temitope the spoilt girl",
+    "description": "Temitope, our favourite Daddy's girl.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "363",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "none."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "none."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "vampire teeth."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "right one-shoulder wax print."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "gold glasses."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "none."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "none."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "10cbcbcb-754e-4175-b85d-d0c7eafa16a2"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "bekeh the party animal",
+    "description": "Baby Bekeh, Life of the party that goes home with your charger.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "364",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "dark brown."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "left one-shoulder wax print."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "gold glasses."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "none."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "none."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "f0558235-3043-46e5-b26c-5bde83cc67fb"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nana the tech lady",
+    "description": "Nana, the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "365",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "None."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "gold glasses, beret"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e0858913-7050-4c4a-a2a0-442a88463334"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "rofiat the marketer",
+    "description": "Rofiat, the distressed marketing intern.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "366",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Purple dreadlocks."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "danshiki"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "none."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1e4d9bda-f6f9-4e7a-9381-bee4b074b56d"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "zarifa the righteous",
+    "description": "Meet Zarifa, a proper baddie for Christ.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "367",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Pink."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "teth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c6955d16-c343-46bc-9bed-c069ea8cc65a"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "modinat the troublesome",
+    "description": "Modinat, The queen of Gbas Gbos.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "368",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "long maroon hair"
+        },
+        {
+            "trait_type": "Eye",
+            "value": null
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "vampire teeth"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "right one-shoulder wax print"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "brown glasses"
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": null
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "49eb44e8-1117-463b-b7b3-1bcea4258362"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "amaka our mummy g.o",
+    "description": "Here's Amaka, our one and only mummy G.O who's been to hell and back.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "369",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "dark"
+        },
+        {
+            "trait_type": "brown..Eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "853edc40-0f9d-40c5-ba78-46067dfd7f68"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mawusi the patient",
+    "description": "Meet Mawusi, the sweet sister waiting for her Canadian bobo.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "370",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "beret"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ca9ddc30-141a-493d-851b-71d34f599641"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nesta the difficult",
+    "description": "Meet Nesta,the National Chairlady, Shege Administrators of Nigeria. (SAN)",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "371",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "double puffy hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown."
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "hair bands."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "fc3b7ca7-efdb-45b2-b7c9-e69107484a43"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "adaora the choir mistress",
+    "description": "Adaora, our able choir mistress that will take your boyfriend for vanishing.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "372",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "choker necklace"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "df944505-da1a-424e-88aa-b9d365bd2775"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "busayo the husband snatcher",
+    "description": "Miss Busayo, Can transplant your husband with the blink of her eyes",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "373",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "73c8d935-4a71-41d2-a1de-066ae8d548e6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "wangari the waitress",
+    "description": "Wangari, the aspiring musician that doubles as a waitress.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "374",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple dreadlocks."
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple earrings."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "4bd7a15b-cc66-4e2d-8fdb-d550f2dd645c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "charlene the shy lady",
+    "description": "Meet Charlene, the shy sweetheart next door.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "375",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown afro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown."
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black dress"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "36539b84-ada0-43cb-92d4-30596e07a39a"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "addae the unretired",
+    "description": "Mummy Addae, the hot grandma that has refused to retire.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "376",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "danshiki"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "choker necklace"
+        },
+        {
+            "trait_type": "Expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ced7b53c-73de-4fc7-a652-2b17ebfe68c9"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "abena the slay queen",
+    "description": "Abena, the gang's slay queen",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "377",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "long brown braids."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "squinting"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1e4728e1-3e45-4972-9755-4a38e784ff91"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "gasira the violence mama",
+    "description": "Sister Gasira, wipes people Oraimo cord for a living.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "378",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "brown bun."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "none."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "vampire teeth"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "right one-shoulder wax print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ea72337f-658f-4198-9ad6-39bc6212c20d"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "salamatou the exchange student",
+    "description": "Salamatou, An Ivorian exchange student who's in love with Amala.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "379",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Squinted."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "Cothing",
+            "value": "none."
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "beret."
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0e216fd1-d96a-4e3c-a59b-c807f772c5b3"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "nguyen the foreigner",
     "description": "Meet Nguyen, the Asian Aunt that's addicted to Waakaye.",
     "minting_tool": "TEAM VBELT",

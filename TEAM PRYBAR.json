@@ -1,5 +1,867 @@
 {
     "format": "CHIP-0007",
+    "name": "segun baller",
+    "description": "a man who loves to party hard",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "81",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "kente"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Cool"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Jovial"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "58ac5cf6-b644-41c6-af79-ec9aa5f6bdd1"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "bolanle pepper dem",
+    "description": "a money spender",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "82",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "kente"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Proud"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "strong"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "46966104-775b-4443-90bb-b35afd121653"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tayo tailor",
+    "description": "a professional fashion designer, in quote",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "83",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Orange Shirt"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Inquisitive"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Creativity"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "70828783-ac38-48cf-b966-cfebc92ebd86"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ajasco comedian",
+    "description": "he thinks he's funny but he's not",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "84",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green Shirt"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Bold"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Optimistic"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "8bebdb3a-f0a8-47ba-892f-39aa275fbd0d"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tobi babyboy",
+    "description": "he's currently in his babyboy era",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "85",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Shirt, Accessories:glasses"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Friendly"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Outgoing"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3da592d4-5dec-4bc5-8412-f1b2a0269f95"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "esther sassy",
+    "description": "her motto is everybody must collect",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "86",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Grey, Teeth:None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Animal Print"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Necklace and Earrings"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Bold"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Confident"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0642a25a-966d-446f-b021-a6d18e7fa0c5"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ozo fineboi",
+    "description": "she's currently in her babyboy era",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "87",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "fdb0a5b6-7367-48bb-bd6b-720ec8c15226"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ade party girl",
+    "description": "the life of every party",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "88",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Gap-tooth"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "One-sleeved blue top"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": null
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Scary"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Adventurous"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7e3db30c-9faf-430d-ab48-b854fe0456b9"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "john casco",
+    "description": "silent killer",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "89",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "One-sleeved Ankara top"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Earrings & Necklace."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Unpredictable"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "2eff88ef-5bc2-4779-917a-533e952e2953"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "agha uwa",
+    "description": "senior woman, may do back flips",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "90",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue, Teeth:None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ankara top with strap and full sleeve ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Earrings & Pink"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Daring"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "8478a002-1eba-4a05-8b98-7170c6e39254"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "udeme great",
+    "description": "an alcoholic",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "91",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ankara top with blue sleeves ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Green Necklace, Green Earrings."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Clueless"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Decisive"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d1476409-6f8b-4be9-8c93-24d9123749c5"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "femi tech bro",
+    "description": "broke tech bro actually, no money",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "92",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ankara top with blue suspenders"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Green Necklace"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Mischievous"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Creativity"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ba3ec22a-13d5-4e19-9b7f-aac764fda28c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "sai baba",
+    "description": "bts leader of 3rd world",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "93",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": null
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Off shoulder Ankara top"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Earrings and Necklace"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Anxious"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Trend Spotter"
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "fdfff369-5b57-4612-9f89-f5d408f24a35"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "omo pastor",
+    "description": "a woman with the morals of a man",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "94",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown hair (in two high buns) ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Spaghetti strap Ankara top."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Green Earrings and Green Necklace ."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Happy."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Happiness."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": "Too emotional ."
+        },
+        {
+            "trait_type": "Extras",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "49e09559-61a6-41ff-811a-272721a7475c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "obi container",
+    "description": "a rich woman from the east",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "95",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown hair into a high bun . Eyes:Black ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Animal Print Top."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Green Necklace ."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Suprised ."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Wealthy ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "4b64cf48-94fa-4aed-8cf2-452974b48ee3"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "erigga international",
+    "description": "Super star from south-south",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "96",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown hair in two high buns tied with a red scrunchie."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None ."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Half Ankara, Half black top. ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Green Necklace ."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Curious ."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Talented ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3ac39a5e-7b0c-4371-b0c8-7cb4b68aed2c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ayo web3 bro",
+    "description": "no actual knowledge of basic computer principles",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "97",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown Afro ."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue and Black."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Two teeth (Gap Tooth)."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "One sleeveless arm Ankara top."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Green Necklace ."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Terrified."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Adapts easily ."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c137ec2b-18cd-4c29-a194-af29ac9e6c1c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "phoebe queen bee",
+    "description": "a self-centered woman, only thinks about herself",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "98",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Brown flowing hair."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue ."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "none."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ankara top."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Polka face."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Attractive."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1277e9c0-81dc-4747-89df-a9d2ae4fcf96"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "rachel warri babe",
+    "description": "a woman who doesn't take nonsense",
+    "minting_tool": "TEAM PRYBAR",
+    "sensitive_content": false,
+    "series_number": "99",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Red braids."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "None."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "yellow Danshiki ."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Straight Face."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "Assertive."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "19e6af3b-ef2d-46ba-ba05-59fb612ebbee"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "adun preacher",
     "description": "a woman who preaches in buses",
     "minting_tool": "TEAM PRYBAR",

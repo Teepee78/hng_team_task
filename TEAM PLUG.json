@@ -1,5 +1,879 @@
 {
     "format": "CHIP-0007",
+    "name": "viganem the drummer girl",
+    "description": "she loves jumping a fence to play drums after school",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "141",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "lenusuka the big woman",
+    "description": "The lady that loves spending money and buying everybody asaobi",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "142",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "e564a43a-ef77-487d-a88e-749d20a09fd8"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "enepua the clout queen",
+    "description": "The lady that travels all day and enjoys snapping food at restaurants",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "143",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "6dc7e452-0626-4f4c-a28c-f5db3532e305"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "usifong queen of mushin",
+    "description": "Changes her hair every 2 weeks and cannot finish one pure water",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "144",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "221263d0-8775-49f8-bbf8-4b08b49e1482"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "akinyim the agbaya",
+    "description": "Always playing with small childrens and mostly small girls",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "145",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c1070dce-48a1-4ae8-b9a4-d070859a8377"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "zawadi mr sleep everywhere",
+    "description": "Likes sleeping in the weirdest places especially in clubs",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "146",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c22489fe-574b-47f3-9667-c9c798b2d4df"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chepkirui mr self love",
+    "description": "Likes taking care of himself and spending on himself",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "147",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1a91e778-d214-476b-a667-94e9ecb8b5ce"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "naserian mr fear fear",
+    "description": "Has never slept with anyone and can not kill cockroach",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "148",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "8177cf38-8284-4eb4-b19c-04473bcb3b5e"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "wawuda the ashawo of africa",
+    "description": "Brags about his body count and follows skirt anywhere",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "149",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0554bf35-f588-4009-aafc-ef875b878c29"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kerubo the igbo smoker",
+    "description": "Loves only his igbo and is happy when he finds an old blunt",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "150",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "33ba8e73-7949-4bc7-ba27-37ee1d573946"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "rehema the olodo",
+    "description": "Failed primary 5 eight times and like playing football after school",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "151",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1fb33783-4898-48cf-8a73-f81afc71e1a8"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nekesa the brainbox",
+    "description": "A proposed elite who cannot write a simple speech",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "152",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7ba909bd-19a1-454d-a86c-a45e85cb94a6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kiokoli the slowrunner",
+    "description": "Always running in every race but never making it to the first 5",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "153",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d7027b6c-ae53-4cce-b80d-67aeb7ceb1ba"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "adjuani uncle wire wire",
+    "description": "Mugu money spender that loves spending on women extravagantly",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "154",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "36cd959f-d280-41f6-af76-765715c72527"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ajobaru a serial killer",
+    "description": "High end assasin who cannot survive a day without sex",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "155",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "9d262f55-73d7-4b95-9a82-42356dbb085c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "effiadem the fireman",
+    "description": "A retired military general who always loves shooting at sight",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "156",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a4534fe0-b5ed-41ab-af72-1f2d0ff0fc64"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "deladem the commandoo",
+    "description": "The nerd who has watched all war movies but cannot fight a kid",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "157",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "88106b92-da30-46ad-a3cc-d528683b9e33"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "dogbeda the monger",
+    "description": "A fisherman who pracitically live in the river",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "158",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "66a09968-cb92-4378-a588-49947f68c537"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "enyonyam our slay mama",
+    "description": "Posts new pictures everyday and can snub for africa",
+    "minting_tool": "TEAM PLUG",
+    "sensitive_content": false,
+    "series_number": "159",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "."
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "."
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "."
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "."
+        },
+        {
+            "trait_type": "Expression",
+            "value": "."
+        },
+        {
+            "trait_type": "Strength",
+            "value": "."
+        },
+        {
+            "trait_type": "Weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5e7c7f9d-d631-4759-9b27-cbaccd33d39f"
+    }
+}{
+    "format": "CHIP-0007",
     "name": "lumusi pro technician",
     "description": "The electrician well known for wiring burnt buildings",
     "minting_tool": "TEAM PLUG",
