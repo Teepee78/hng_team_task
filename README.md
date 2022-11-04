@@ -2,11 +2,9 @@ A simple Python Script to generate CHIP-0007 compatible json files from CSV file
 
 ## Installation
 
-The app's dependencies are managed using composer. Make sure that the latest versions of [php](http://php.net) and [composer](https://getcomposer.org) are installed then run:
+Install python if you don't already have it installed
 
-```bash
-composer install
-```
+https://www.python.org/downloads/
 
 ## Usage
 Run shell script, pass in one argument (path to csv file)
@@ -15,11 +13,11 @@ Run shell script, pass in one argument (path to csv file)
 ./csvtojson.sh pathtocsv
 ```
 
-	### example
+### example
 
-	```bash
-	./csvtojson.sh "HNGi9 CSV FILE - Sheet1.csv"
-	```
+```bash
+./csvtojson.sh "HNGi9 CSV FILE - Sheet1.csv"
+```
 
 Here is the json file with the default values:
 
