@@ -1,0 +1,873 @@
+{
+    "format": "CHIP-0007",
+    "name": "mansur the partyrider",
+    "description": "Mansur is the life of a party and never caught dulling.",
+    "minting_tool": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_number": "341",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "ash grey"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "agbda"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "studs; expression:happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "intelligent"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tola the businessman",
+    "description": "Tola loves business and owns several shops in Idumota.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "342",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "midnightblack"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple blowse"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask; expression:furious"
+        },
+        {
+            "trait_type": "strength",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1c5d5a6b-cf04-4bf9-978e-22a7e9bc5819"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "abdullahi the honorable",
+    "description": "Popularly called \"buje budanu\" a godfather who lavishes money on young gees.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "343",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue-blackish"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yoruba attire"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none; expression:anxious"
+        },
+        {
+            "trait_type": "strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "dd708276-445f-4483-8357-fc08e999328f"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ojukwu the badguy",
+    "description": "Ojukwu is a business minded guy but fun to be with.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "344",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eagle eyeball"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow lining blowse"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "good eyes for fashion"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "76c1eabf-15ea-446a-8426-472982c4d800"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "odunsi the egbonadugbo",
+    "description": "Odunsi loves to advise and people in the community rely on him.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "345",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dark brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "one shoulder gown"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "elegant"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "2912ab8b-5875-4277-a5c2-a0209aee90ae"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ogogo the sugardaddy",
+    "description": "A rich oil magnate who loves to solve young women's problems with his millions.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "346",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "cat eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple danshiki; accessories:nose mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": "straight face"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "aa575f30-04ad-45f9-a798-199465117793"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "suli the amalaseller",
+    "description": "Suli sells amala with respect and people say that's the secret to her sweet food.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "347",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "low punk"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "cat eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none; clothing:brown babarigai; accessories:none"
+        },
+        {
+            "trait_type": "expression",
+            "value": "furious"
+        },
+        {
+            "trait_type": "strength",
+            "value": "wealthy"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "46fd4821-04dd-4f65-9290-c130a00c4c93"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "dolapo the afrocentric",
+    "description": "Dolapo loves African prints and loves to showcase culture.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "348",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "eyes",
+            "value": "hair:bald; brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "one sided blowse"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "nose mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "beautiful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "cbab232b-5c62-4df8-867b-018a2e496cd4"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "danjuma-the-saddist",
+    "description": "Danjuma is a grumpy man no one likes to associate with him.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "349",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "sky blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none; clothing:purple agbada"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "neck beads"
+        },
+        {
+            "trait_type": "expression",
+            "value": "excited"
+        },
+        {
+            "trait_type": "strength",
+            "value": "outspoken"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5a42af57-186e-425b-b6b1-f72bda4911ef"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "chinedu the farmer",
+    "description": "A hardworking farmer who has 6 boys who help out on the farm.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "350",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "one sided gown"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "blushy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "easily loved"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "9e8a55d7-0d8d-465d-a628-08ddd387a2c6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kola the baldguy",
+    "description": "Kola is every girls dream man because of his hair style.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "351",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "low cut"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "mouse eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "gbariye style"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "nose mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": "unhappy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "good eyes for details"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c32f1757-da9c-49e8-bd79-510a42b6971a"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "bola the bosslady",
+    "description": "A lady who supports the boy child by providing scholarship to young talented males.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "352",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "low cut"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "short orange gown"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "nose mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "09ff910d-a2be-49d5-8b27-b9378458701c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kunle the alienguy",
+    "description": "Kunle is special and easily get noticed even in the midst of crowd.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "353",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "green punk"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "green"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple agbada"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "purple beads"
+        },
+        {
+            "trait_type": "expression",
+            "value": "unbothered"
+        },
+        {
+            "trait_type": "strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "dea2f5d8-e3ba-4d3f-9a17-0a7edfd0c100"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "segun the sharp",
+    "description": "Segun drives with caution and people love him for that.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "354",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "green punk"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "orange buba"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "nose mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": "bitchy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "team player"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "f9159a9c-f48d-4aee-bcc1-63c86209f806"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ola the hardguy",
+    "description": "Ola may be feared but he is such a coolheaded champ.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "355",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple buba"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "sick"
+        },
+        {
+            "trait_type": "strength",
+            "value": "quick recovery power"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a814fc77-bdfa-4e50-8ba8-3e4e4bcfb3c0"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "emeka the chief",
+    "description": "Crowd are always at Emeka's house because of his selflessness.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "356",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "pakaja attire"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "bossing"
+        },
+        {
+            "trait_type": "strength",
+            "value": "easily comman respect"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "195e89c8-0b6f-43ad-9a2c-d20f03439e96"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ugochukwu the celeb",
+    "description": "Ugochukwu is an online celebrity with many followers on social media.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "357",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "white blode"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "closed teeth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black gown"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "gold shades"
+        },
+        {
+            "trait_type": "expression",
+            "value": "bitchy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "enterprising"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "74775cda-cff4-4d21-8819-693127598eca"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "adekunle the yoruba demon",
+    "description": "He might be every woman's man but faithful and loyal to one.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "358",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "gobi cap"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "closed teeth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ghana dansiki"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "gold shades"
+        },
+        {
+            "trait_type": "expression",
+            "value": "owanbe mood"
+        },
+        {
+            "trait_type": "strength",
+            "value": "from a walthy home"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5c98c2d8-3144-4e08-8a0f-9b8d7e4f5aa7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "favour the fashionista",
+    "description": "Combining dresses is not a problem for Favour.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "359",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black ghana weaving"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "cat eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "senegalese blowse"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "gold shades"
+        },
+        {
+            "trait_type": "expression",
+            "value": "party rider"
+        },
+        {
+            "trait_type": "strength",
+            "value": "smart"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "19fc15c3-80fe-4d45-a2fe-be8f087d57c4"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "jane the slayqueen",
+    "description": "Jane is always found in the midst of men and loves partying.",
+    "minting_tool": "TEAM RULER",
+    "sensitive_content": false,
+    "series_number": "360",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "long grey braids"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "black lips"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black short gown"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "gold shades"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy; strength:very intelligent"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "74775cda-cff4-4d21-8819-693127598eca"
+    }
+}

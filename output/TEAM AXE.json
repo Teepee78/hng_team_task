@@ -1,0 +1,897 @@
+{
+    "format": "CHIP-0007",
+    "name": "baba ijebu the gambler",
+    "description": "Baba Ijebu likes to spend all his money playing ayo; he plays till the moon is high.",
+    "minting_tool": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_number": "381",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "eyes",
+            "value": "hair:none; sky blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": "facemask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "creation god"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "26340cc4-e334-494e-a737-f2b4bb9bb22e"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "amadi the palmwine tapper",
+    "description": "Amadi sells his palmwine at the village square.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "382",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald; eyes:shut"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": "facemask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "none;strength",
+            "value": "thunder bolt"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a0586a93-7aff-43cc-8282-d081b8d6fe90"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "saro the betrayer",
+    "description": "Saro is mean; wicked and serves breakfast on a weekly basis.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "383",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "teeth",
+            "value": "hair:shiny bald; eyes:none; none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "asooke"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "cunning"
+        },
+        {
+            "trait_type": "strength",
+            "value": "thunder clap"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "15e1775c-74fe-4a0b-b79c-49f6b730fa89"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "tope the baller",
+    "description": "Tope is an alte fashion king in Lagos who spends most of his nights at the club.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "384",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "shiny bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "aquamarine"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "childlike"
+        },
+        {
+            "trait_type": "strength",
+            "value": "healing"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "311a6713-66c9-43ce-82d8-e3ce03a87a81"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "kwame the maths teacher",
+    "description": "Kwame teaches maths and is well known for punishing students.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "385",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "squinted"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow danshiki with patterns"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "9c34a73f-33ee-4577-aba8-0982c1656ba7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "jagaban of afrobeats",
+    "description": "Jagaban is a party mover who wows the crowd with his theatrics.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "386",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black danshiki with patterns"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "facemask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "illusions"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "784f0f6b-4273-4a31-88d7-2455b96c9011"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nyame the traveller",
+    "description": "Nyame and adventure loving traveller who loves to explore the African continent.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "387",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "teeth",
+            "value": "hair:bald; eyes:black; none"
+        },
+        {
+            "trait_type": "expression",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow patterned danshiki with black lining"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "facemask"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "heatblast"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "f3af0bbd-0724-4696-89ff-ed67f63e6b4f"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "adewale the gardner",
+    "description": "Adewale is a hardworking and resourceful lover of plants.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "388",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "pitch black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellowish blue native"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "mysterious"
+        },
+        {
+            "trait_type": "strength",
+            "value": "oro ase"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c447c120-830e-4543-9cb3-5917ba36bce8"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "emeka the driver",
+    "description": "Emeka is a fixture on the bustling streets of Lagos.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "389",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "print kente"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "gold glasses and beret"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "dacbbb38-087d-4248-8085-13b619da0ef9"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "abang the wordsmith",
+    "description": "Abang is a storyteller and connoisseur of words.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "390",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "shiny bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "whitish blue ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "amused"
+        },
+        {
+            "trait_type": "strength",
+            "value": "ironclaw"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "94c607b3-791e-40df-bd93-50926f094143"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "onome the stylist",
+    "description": "Onome is a fashionista with a pereferece for pipes over cigars.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "391",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "fuzzy brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "patterned danshiki"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses and pipe"
+        },
+        {
+            "trait_type": "expression",
+            "value": "baddie"
+        },
+        {
+            "trait_type": "strength",
+            "value": "all knowing"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b3427836-627b-41e4-a2d0-c29473448343"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "adaeze the developer",
+    "description": "Adaeze is a gen-z software engineer whose favourite colour is purple.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "392",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple braids"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "darkish blue buba"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": "bitchy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "seduction"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "22aaebe4-4659-44de-ab3d-c4dae11fe9f5"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "precious the sidechick",
+    "description": "Precious can be found in every happening party in the cities of Lagos & Abuja. A Small girl with a big God.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "393",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black knob"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "patterned kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "berret and glasses and gum"
+        },
+        {
+            "trait_type": "expression",
+            "value": "unbothered"
+        },
+        {
+            "trait_type": "stength",
+            "value": "foresight"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "ca720bf9-5e47-4421-b38f-bc62162ae99e"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "elle the creative",
+    "description": "Ella is a smart, resourceful and an intellligent copywriter in a marketing firm.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "394",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "light brown cornrows"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "patterned isiagu"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": "blank"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3b795bad-91b4-4d0e-8ed8-bccbb226fc55"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "maame the starter",
+    "description": "Maame is a no nonsense tough cookie who is never afraid to start something.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "395",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown wavy"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": "vampiric"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow patterned kento"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "strength",
+            "value": "scale of justice"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "2aebd094-3be5-4773-a7a0-361f6332a7d4"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "abigail the beautiful",
+    "description": "Abigail is the k-pop stan who loves comic books.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "396",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "wavy brown curls"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "aquamarine"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "drum patterned danshiki"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "earrings"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "moonbeam"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "fb148f97-d309-45a4-b902-4e066ca13f96"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "abike the iya loja",
+    "description": "Abike is a well known trader & the iya-loja of the largest market in Lagos.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "397",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "midnight black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "vampiric"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purpulish black buba"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "berret"
+        },
+        {
+            "trait_type": "expression",
+            "value": "scary"
+        },
+        {
+            "trait_type": "strength",
+            "value": "hammer of justice"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7b210c03-5446-462d-980e-c73dbbc1e386"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ashanti the gold seller",
+    "description": "Ashanti is a well known gold trader whose trinkets are one of a kind.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "398",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown curly bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "deep brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicoloured kento"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "pipe"
+        },
+        {
+            "trait_type": "expression",
+            "value": "amused"
+        },
+        {
+            "trait_type": "strength",
+            "value": "lovefist"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "80b51092-3fbc-4d0c-8518-fc461ccb6c80"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "yemoja the cool",
+    "description": "Yemoja is a content creator who is known for her cool girl aesthetic.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "399",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "orange pigtail"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dark brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black patterned kento"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "hair clip"
+        },
+        {
+            "trait_type": "expression",
+            "value": "dismayed"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "1693b44d-96cf-4c2d-89be-9f4219c28447"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "nana the dancer",
+    "description": "Nana is a dancer from Kumasi who performes at well known events all over Ghana.",
+    "minting_tool": "TEAM AXE",
+    "sensitive_content": false,
+    "series_number": "400",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "orange afro"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow patterned kento"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "hopeful"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "9609d0f4-d9d3-4cff-aa06-a9c459fefa39"
+    }
+}

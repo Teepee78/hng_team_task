@@ -85,7 +85,7 @@ def make_json(csvFilePath):
         i = 0
         team = data[0]["TEAM NAMES"]
         nft = {}
-        jsonFilePath = f"{team}.json"
+        jsonFilePath = f"output/{team}.json"
         attributes = "Attributes"
         saved = True
         for index, row in enumerate(data):
@@ -119,7 +119,7 @@ def make_json(csvFilePath):
             result_list.append(nft)
             if row['TEAM NAMES'] != "" and row['TEAM NAMES'] != team:
                 team = row["TEAM NAMES"]
-                jsonFilePath = f"{team}.json"
+                jsonFilePath = f"output/{team}.json"
 
         with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
             for result in result_list:
@@ -132,7 +132,7 @@ def hash_jsonfile():
 
     hasher = hashlib.sha256()
     for team in team_list:
-        with open(f"{team}.json", 'rb') as f:
+        with open(f"output/{team}.json", 'rb') as f:
             buf = f.read()
             hasher.update(buf)
             team_dict[team] = hasher.hexdigest()
@@ -157,7 +157,7 @@ def add_hash_to_csv():
             new_dict = row
             result_list.append(new_dict)
 
-    with open("sample.output.csv", 'w', newline='') as file:
+    with open("output/filename.output.csv", 'w', newline='') as file:
         fieldlist = [
             'TEAM NAMES', 'Series Number',
             'Filename', 'Name', 'Description',

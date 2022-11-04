@@ -1,0 +1,917 @@
+{
+    "format": "CHIP-0007",
+    "name": "beauty of town",
+    "description": "She is the most beautiful in the neighbourhood.",
+    "minting_tool": "TEAM HEADLIGHT",
+    "sensitive_content": false,
+    "series_number": "181",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "pitch"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "bow-tie"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strengths",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "2ae282e6-9400-43cb-bbdd-f4e61fec96b3"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "lola babe",
+    "description": "You will always see her in tight fittted dresses; she loves the exquisite life.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "182",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "aso-oke"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "strengths",
+            "value": "calculative"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7c80747e-9ba7-4fb7-ab69-ff09c7f75d58"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "cardy h sharp babe",
+    "description": "Cardy is the sharpest amongst her friends.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "183",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "two brown bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "aso-oke"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "blank"
+        },
+        {
+            "trait_type": "strength",
+            "value": "free spirit"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "14792397-de9d-4f18-b46c-f168605d09e8"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "bella the baller",
+    "description": "Bella earns big; she is always out partying and buying bottles.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "184",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "patterned top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "determined"
+        },
+        {
+            "trait_type": "strength",
+            "value": "adaptation"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "535199d1-0705-4652-8e00-6d33db7aa4a7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "milly of roses",
+    "description": "She is very attractive but doesn't have a social life.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "185",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "beige"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "cool headed"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3882bf86-4fe7-4b45-af74-8cd6b2fa3be7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "preciousjada the viper",
+    "description": "Her opinions are great but her words sting like viper.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "186",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "ginger afro"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "white teeth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "aso-oke"
+        },
+        {
+            "trait_type": "expression",
+            "value": "strong-willed"
+        },
+        {
+            "trait_type": "strength",
+            "value": "confidence"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "0d736b37-d6c9-492b-92a1-a682da4dd149"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "lolly of ny",
+    "description": "Most popular visual artist; alway gets praised for her creativity.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "187",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple braids"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black and blue top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "calculative"
+        },
+        {
+            "trait_type": "strength",
+            "value": "strong willed"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c41d20a9-19d6-498e-9246-e5bbb299d713"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "disy the dancer",
+    "description": "A dancer that brings the spotlight on her.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "188",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "one arm top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "scarf"
+        },
+        {
+            "trait_type": "expression",
+            "value": "bad girl vibes"
+        },
+        {
+            "trait_type": "strength",
+            "value": "cleaniness"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "850f407d-d106-4b0e-89cd-e35d9261aedd"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "jenny the great",
+    "description": "Loves burna boy; you will always catch him on his tracks.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "189",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": "scalf"
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "badass"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3caaefcd-329e-4e25-af9e-21bb07c52380"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "lolly the pop",
+    "description": "Everywhere she goes she shines like a star.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "190",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "peaceful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "a3c79502-5fbe-45af-a498-4670fdfff629"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "disy the queen",
+    "description": "An introvert that loves her own space.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "191",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "one bun dark brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "beauty"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c2807d94-0192-4dca-be02-1e5ac8a42d74"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "jennyp of lagos",
+    "description": "She knows all the celebrities in lagos but she stays lowkey.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "192",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "super powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "94a06683-6ce5-4c5f-8820-968654168980"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "jada of life",
+    "description": "She started a night club in lekki and now she is a millionaire.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "193",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "male"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "calm"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c92fad1d-521e-44e0-9a56-d07ca5e77fe5"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "sandy the rapper",
+    "description": "She just loves to rap and Quavo is her super star.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "194",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "clean"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "778b0412-b5b9-4b0c-bbcd-5c0fbb360fd7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "dahila the genius",
+    "description": "The genius in the family; she always wins awards.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "195",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "activist"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d46f7da0-73e6-4100-b9b2-6c08d5ad561a"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "rosemary of yaba",
+    "description": "She is always travellling to cotonou to buy clothes for her store.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "196",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "mind games"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "583fa7c2-583f-4fc6-8176-473e5c2aa92b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "jennifer of island",
+    "description": "She loves travelling; she is in maldives this year.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "197",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "strong"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "37552438-fdda-483a-a1a4-bdfa6ddd3ec2"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "opeyemi of lekki",
+    "description": "She is a lekki socialite; braids her hairfor 85k.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "198",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "conversationist"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "65cdbeee-071a-4700-bccf-cb437f3d066d"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "vicky the artist",
+    "description": "An artist; she brings drawings to life.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "199",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "strong willed"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7247e175-bca1-4cd8-a8bb-b97cad9781a7"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "afrogirl sailor",
+    "description": "She loves water and sails the ocean yearly.",
+    "minting_tool": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_number": "200",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": null
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": "height"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "3973c584-f922-4b80-abb7-13b66d9518fa"
+    }
+}

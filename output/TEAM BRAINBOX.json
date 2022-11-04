@@ -1,0 +1,585 @@
+{
+    "format": "CHIP-0007",
+    "name": "azikiwe popular trader",
+    "description": "Azikiwe is a popular trader.",
+    "minting_tool": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_number": "121",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple and yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy; strength:strong"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "7ebde325-8efc-4997-811a-b5686269929e"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "obasanjo funny guy",
+    "description": "Obasanjo is such a sweet guy loves by all. ",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "122",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none black; teeth:small open teeth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "sleeveless yellow ankara; accessories:none"
+        },
+        {
+            "trait_type": "expression",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c136a120-a339-4080-96ca-1c93845c5848"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "yakubu village chief",
+    "description": "Yakubu is the best village chieftain.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "123",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:open white teeth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5b0c0d26-d204-4264-b579-081ff9df935b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "abacha loves smoking",
+    "description": "Abacha loves taking cigarettes.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "124",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:cute braided hair black ball white eye; teeth:none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "mixed colors ankara wear; accessories:none; expression:happy; strength:strong"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "8ac6d95f-0cf3-4f54-9cf2-be8834b3004c"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "johnathan the humanitarian ",
+    "description": "Johnathan is very progressive young man.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "125",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:punk bearded man closed; teeth:none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "241e3713-4ce3-48d0-827f-b282ae2db6c4"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "johnathan genz kid",
+    "description": "Johnathan is zealous young man.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "126",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none"
+        },
+        {
+            "trait_type": "blue;teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow ankara wear"
+        },
+        {
+            "trait_type": "accessories",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "90c0ae09-a35f-42ad-b93c-dcf30169acd9"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "eddy the community leader",
+    "description": "Eddy has so much positive energy.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "127",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black isiagu wear"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5cabf9d9-882b-459e-9253-8c07eb045e2d"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "olu the oba",
+    "description": "Olu the great ruler in our land.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "128",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple braided hair"
+        },
+        {
+            "trait_type": ";eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "mixed color traditional wear"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "04c4b28a-aca0-44b1-a064-ed0d9d2a31ca"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "edu the biggest trader",
+    "description": "Edu is the biggest merchant in west coast.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "129",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:closed"
+        },
+        {
+            "trait_type": "clothing",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "48d1de5f-5f3f-46aa-b2fd-68420a8e802b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "james importer and exporter",
+    "description": "James is the sole importer and exporter of spare parts.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "130",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "22541251-022f-480c-8c1e-cf754dce16d6"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "lanre the dreaded guy",
+    "description": "Lanre has a great reputation.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "131",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": ";eyes",
+            "value": "none; teeth:white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara; accessories:cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "66a054cd-5541-4000-98aa-8f2e9892d880"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "olamide the street boy",
+    "description": "Olamide has a sweet voice.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "132",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "green and blue"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "d50a35b1-b42e-4e0c-8dd8-9b892b56d371"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "uche peace loving man",
+    "description": "Uche man of peace and discipline.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "133",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "yellow"
+        },
+        {
+            "trait_type": ";eyes",
+            "value": "blue;teeth:none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "6c9d6eae-2ea2-468c-a2c8-928aaafc084b"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "dave the tech bro",
+    "description": "Dave is a web3 enthusiast.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "134",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": ";eyes",
+            "value": "none; teeth:white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "none; accessories:cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "c0857b11-bf0e-46a4-9108-b8eb93d83e74"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "obi the biggest humanitarian",
+    "description": "Obi loves service to humanity.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "135",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brown; accessories:cap; expression:happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "201a408c-7a2e-42d9-a62c-0136c885c211"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "precious the emotional girl",
+    "description": "Precious is soft hearted and sensitive.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "136",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:none white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b6a41ff1-51ce-42f7-9933-85d0a22ced68"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ella serious minded",
+    "description": "Ella a dedicated young lady.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "137",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": ";eyes",
+            "value": null
+        },
+        {
+            "trait_type": "white;teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "04036447-f43e-4bfb-9503-f55c9064b14e"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "cynthia cute eyes",
+    "description": "Cynthia with priceless cute eyes.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "138",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": ";eyes",
+            "value": "hair:yellow blue;teeth:none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "blue and yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "serious face"
+        },
+        {
+            "trait_type": "strength",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "5d12847b-6d71-4691-8337-2e6ef3e283b2"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "mary with hair",
+    "description": "Mary with her beautiful Afro.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "139",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "none;eyes",
+            "value": "none;teeth:none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "casual ankara; accessories:cap; expression:scared; strength:sensitive"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "98035e8b-6540-4464-8a3c-fdac9f07b168"
+    }
+}{
+    "format": "CHIP-0007",
+    "name": "ada chewing bubble gum",
+    "description": "Ada always chewing gum.",
+    "minting_tool": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_number": "140",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "none;eyes",
+            "value": null
+        },
+        {
+            "trait_type": "none;teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "traditional wear; accessories:cap; expression:sassy; strength:decisive"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "15309dc5-e483-4658-b503-db85ba2c1722"
+    }
+}
