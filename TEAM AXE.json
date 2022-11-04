@@ -1,38 +1,38 @@
 {
     "format": "CHIP-0007",
-    "name": "Olofi",
-    "description": "Olofi is the Yoruba creator god and messenger.",
-    "minting_tool": "TEAM AXE",
+    "name": "baba ijebu the gambler",
+    "description": "Baba Ijebu likes to spend all his money playing ayo; he plays till the moon is high.",
+    "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "381",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Eyes",
-            "value": "Hair:None. Sky Blue."
+            "trait_type": "eyes",
+            "value": "hair:none; sky blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "None."
+            "trait_type": "clothing",
+            "value": null
         },
         {
-            "trait_type": "Accessories",
-            "value": "FaceMask."
+            "trait_type": "accessories",
+            "value": "facemask"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Creation God."
+            "trait_type": "strength",
+            "value": "creation god"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -42,39 +42,39 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Amadioha",
-    "description": "Amadioha is the Igbo high god of thunder.",
+    "name": "amadi the palmwine tapper",
+    "description": "Amadi sells his palmwine at the village square.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "382",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Bald. Eyes:Shut."
+            "trait_type": "hair",
+            "value": "bald; eyes:shut"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "None."
+            "trait_type": "clothing",
+            "value": null
         },
         {
-            "trait_type": "Accessories",
-            "value": "FaceMask."
+            "trait_type": "accessories",
+            "value": "facemask"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Thunder Bolt."
+            "trait_type": "none;strength",
+            "value": "thunder bolt"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -84,35 +84,35 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Sango",
-    "description": "Sango is the yoruba diety of thunder.",
+    "name": "saro the betrayer",
+    "description": "Saro is mean; wicked and serves breakfast on a weekly basis.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "383",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Teeth",
-            "value": "Hair:Shiny Bald. Eyes:None. None."
+            "trait_type": "teeth",
+            "value": "hair:shiny bald; eyes:none; none"
         },
         {
-            "trait_type": "Clothing",
-            "value": "AsoOke."
+            "trait_type": "clothing",
+            "value": "asooke"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Cunning."
+            "trait_type": "expression",
+            "value": "cunning"
         },
         {
-            "trait_type": "Strength",
-            "value": "Thunder Clap."
+            "trait_type": "strength",
+            "value": "thunder clap"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -122,43 +122,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Agwu",
-    "description": "Agwu is the Igbo deity of health and divination.",
+    "name": "tope the baller",
+    "description": "Tope is an alte fashion king in Lagos who spends most of his nights at the club.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "384",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Shiny Bald."
+            "trait_type": "hair",
+            "value": "shiny bald"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Aquamarine."
+            "trait_type": "eyes",
+            "value": "aquamarine"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "None."
+            "trait_type": "clothing",
+            "value": null
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Childlike."
+            "trait_type": "expression",
+            "value": "childlike"
         },
         {
-            "trait_type": "Strength",
-            "value": "Healing."
+            "trait_type": "strength",
+            "value": "healing"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -168,43 +168,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Tano",
-    "description": "Tano is the master of the Ghana river Tano.",
+    "name": "kwame the maths teacher",
+    "description": "Kwame teaches maths and is well known for punishing students.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "385",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "None."
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Eyes",
-            "value": "Squinted."
+            "trait_type": "eyes",
+            "value": "squinted"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow Danshiki with patterns."
+            "trait_type": "clothing",
+            "value": "yellow danshiki with patterns"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "None."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -214,43 +214,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Anansi",
-    "description": "Anansi is a trickster god of stories of the Ghana people.",
+    "name": "jagaban of afrobeats",
+    "description": "Jagaban is a party mover who wows the crowd with his theatrics.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "386",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "None."
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Eyes",
-            "value": "Sleepy."
+            "trait_type": "eyes",
+            "value": "sleepy"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Black Danshiki with patterns."
+            "trait_type": "clothing",
+            "value": "black danshiki with patterns"
         },
         {
-            "trait_type": "Accessories",
-            "value": "FaceMask."
+            "trait_type": "accessories",
+            "value": "facemask"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Illusions."
+            "trait_type": "strength",
+            "value": "illusions"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -260,39 +260,39 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Nyame",
-    "description": "Nyame is the omnipotent god of the Ghana region.",
+    "name": "nyame the traveller",
+    "description": "Nyame and adventure loving traveller who loves to explore the African continent.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "387",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Teeth",
-            "value": "Hair:Bald. Eyes:Black, None."
+            "trait_type": "teeth",
+            "value": "hair:bald; eyes:black; none"
         },
         {
-            "trait_type": "Expression",
-            "value": "Serious."
+            "trait_type": "expression",
+            "value": "serious"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow Patterned Danshiki with black lining."
+            "trait_type": "clothing",
+            "value": "yellow patterned danshiki with black lining"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Facemask."
+            "trait_type": "accessories",
+            "value": "facemask"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "HeatBlast."
+            "trait_type": "strength",
+            "value": "heatblast"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -302,43 +302,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Obatala",
-    "description": "Obatala is the lord of all gods in the Yoruba land.",
+    "name": "adewale the gardner",
+    "description": "Adewale is a hardworking and resourceful lover of plants.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "388",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "None."
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Eyes",
-            "value": "Pitch Black."
+            "trait_type": "eyes",
+            "value": "pitch black"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellowish Blue Native."
+            "trait_type": "clothing",
+            "value": "yellowish blue native"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Mysterious."
+            "trait_type": "expression",
+            "value": "mysterious"
         },
         {
-            "trait_type": "Strength",
-            "value": "Oro Ase."
+            "trait_type": "strength",
+            "value": "oro ase"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -348,39 +348,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Erinle",
-    "description": "Erinle is a powerful hunter of the Yoruba land.,",
+    "name": "emeka the driver",
+    "description": "Emeka is a fixture on the bustling streets of Lagos.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "389",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Shiny Bald."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Midnight black."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "None. Accessories:None."
+            "trait_type": "clothing",
+            "value": "print kente"
         },
         {
-            "trait_type": "Expression",
-            "value": "Angry."
+            "trait_type": "accessory",
+            "value": "gold glasses and beret"
         },
         {
-            "trait_type": "Strength",
-            "value": "Irongrip."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -390,43 +394,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Ogun",
-    "description": "Ogun is the Yoruba God of iron and metal work.",
+    "name": "abang the wordsmith",
+    "description": "Abang is a storyteller and connoisseur of words.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "390",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Shiny Bald."
+            "trait_type": "hair",
+            "value": "shiny bald"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Whitish Blue Ankara."
+            "trait_type": "clothing",
+            "value": "whitish blue ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Amused."
+            "trait_type": "expression",
+            "value": "amused"
         },
         {
-            "trait_type": "Strength",
-            "value": "Ironclaw."
+            "trait_type": "strength",
+            "value": "ironclaw"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -436,43 +440,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Abosom",
-    "description": "Abosom is the goddess of wisdom and knowledge of the Ghana people.",
+    "name": "onome the stylist",
+    "description": "Onome is a fashionista with a pereferece for pipes over cigars.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "391",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Fuzzy Brown."
+            "trait_type": "hair",
+            "value": "fuzzy brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Patterned Danshiki."
+            "trait_type": "clothing",
+            "value": "patterned danshiki"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Glasses and Pipe."
+            "trait_type": "accessories",
+            "value": "glasses and pipe"
         },
         {
-            "trait_type": "Expression",
-            "value": "Baddie."
+            "trait_type": "expression",
+            "value": "baddie"
         },
         {
-            "trait_type": "Strength",
-            "value": "All knowing."
+            "trait_type": "strength",
+            "value": "all knowing"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -482,39 +486,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Oya",
-    "description": "Oya is the goddess of violent storms and winds of the Yoruba people.",
+    "name": "adaeze the developer",
+    "description": "Adaeze is a gen-z software engineer whose favourite colour is purple.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "392",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Eyes",
-            "value": "Hair; Purple Braids. None."
+            "trait_type": "hair",
+            "value": "purple braids"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Darkish Blue Buba."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Accessories",
-            "value": "Glasses."
+            "trait_type": "clothing",
+            "value": "darkish blue buba"
         },
         {
-            "trait_type": "Expression",
-            "value": "Bitchy."
+            "trait_type": "accessories",
+            "value": "glasses"
         },
         {
-            "trait_type": "Strength",
-            "value": "Seduction."
+            "trait_type": "expression",
+            "value": "bitchy"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "seduction"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -524,43 +532,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Agbala",
-    "description": "Agbala is the stylish goddess of the future for the Igbo region.",
+    "name": "precious the sidechick",
+    "description": "Precious can be found in every happening party in the cities of Lagos & Abuja. A Small girl with a big God.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "393",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Black Knob."
+            "trait_type": "hair",
+            "value": "black knob"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Patterned Kente."
+            "trait_type": "clothing",
+            "value": "patterned kente"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Berret, Glasses and Gum."
+            "trait_type": "accessories",
+            "value": "berret and glasses and gum"
         },
         {
-            "trait_type": "Expression",
-            "value": "Unbothered."
+            "trait_type": "expression",
+            "value": "unbothered"
         },
         {
-            "trait_type": "Stength",
-            "value": "Foresight."
+            "trait_type": "stength",
+            "value": "foresight"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -570,43 +578,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Njoku-ji",
-    "description": "Njoku-ji is the goddess of new yam of the Igbo people.",
+    "name": "elle the creative",
+    "description": "Ella is a smart, resourceful and an intellligent copywriter in a marketing firm.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "394",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Light brown Cornrows."
+            "trait_type": "hair",
+            "value": "light brown cornrows"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Patterned Isiagu."
+            "trait_type": "clothing",
+            "value": "patterned isiagu"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Glasses."
+            "trait_type": "accessories",
+            "value": "glasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "Blank."
+            "trait_type": "expression",
+            "value": "blank"
         },
         {
-            "trait_type": "Strength",
-            "value": "None."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -616,39 +624,39 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Akonadi",
-    "description": "Akonadi is the goddess of justice and prophesies of the Ghana people.",
+    "name": "maame the starter",
+    "description": "Maame is a no nonsense tough cookie who is never afraid to start something.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "395",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown Wavy."
+            "trait_type": "hair",
+            "value": "brown wavy"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "Vampiric."
+            "trait_type": "teeth",
+            "value": "vampiric"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow patterned Kento."
+            "trait_type": "clothing",
+            "value": "yellow patterned kento"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Glasses."
+            "trait_type": "accessories",
+            "value": "glasses"
         },
         {
-            "trait_type": "Strength",
-            "value": "Scale Of Justice."
+            "trait_type": "strength",
+            "value": "scale of justice"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -658,43 +666,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Onyame",
-    "description": "Onyame is the goddess of the moon of the ghana region",
+    "name": "abigail the beautiful",
+    "description": "Abigail is the k-pop stan who loves comic books.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "396",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Wavy Brown Curls."
+            "trait_type": "hair",
+            "value": "wavy brown curls"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Aquamarine."
+            "trait_type": "eyes",
+            "value": "aquamarine"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Drum Patterned Danshiki."
+            "trait_type": "clothing",
+            "value": "drum patterned danshiki"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Earrings."
+            "trait_type": "accessories",
+            "value": "earrings"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Moonbeam."
+            "trait_type": "strength",
+            "value": "moonbeam"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -704,43 +712,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Ibeji",
-    "description": "Ibeji is the goddess of balance and twin of the Yoruba people.",
+    "name": "abike the iya loja",
+    "description": "Abike is a well known trader & the iya-loja of the largest market in Lagos.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "397",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Purple Bun."
+            "trait_type": "hair",
+            "value": "purple bun"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Midnight Black."
+            "trait_type": "eyes",
+            "value": "midnight black"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Vampiric."
+            "trait_type": "teeth",
+            "value": "vampiric"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Purpulish Black Buba."
+            "trait_type": "clothing",
+            "value": "purpulish black buba"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Berret."
+            "trait_type": "accessories",
+            "value": "berret"
         },
         {
-            "trait_type": "Expression",
-            "value": "Scary."
+            "trait_type": "expression",
+            "value": "scary"
         },
         {
-            "trait_type": "Strength",
-            "value": "Hammer of Justice."
+            "trait_type": "strength",
+            "value": "hammer of justice"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -750,43 +758,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Asase-ya",
-    "description": "Asase-ya is the goddess of fertility and love of the Ghanaian people",
+    "name": "ashanti the gold seller",
+    "description": "Ashanti is a well known gold trader whose trinkets are one of a kind.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "398",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown Curly bun."
+            "trait_type": "hair",
+            "value": "brown curly bun"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Deep Brown."
+            "trait_type": "eyes",
+            "value": "deep brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Multicoloured Kento."
+            "trait_type": "clothing",
+            "value": "multicoloured kento"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Pipe."
+            "trait_type": "accessories",
+            "value": "pipe"
         },
         {
-            "trait_type": "Expression",
-            "value": "Amused."
+            "trait_type": "expression",
+            "value": "amused"
         },
         {
-            "trait_type": "Strength",
-            "value": "Lovefist."
+            "trait_type": "strength",
+            "value": "lovefist"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -796,43 +804,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Yemoja",
-    "description": "Yemoja is the stylish yoruba goddess of the rivers.",
+    "name": "yemoja the cool",
+    "description": "Yemoja is a content creator who is known for her cool girl aesthetic.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "399",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Orange Pigtail."
+            "trait_type": "hair",
+            "value": "orange pigtail"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Dark brown."
+            "trait_type": "eyes",
+            "value": "dark brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Black Patterned Kento."
+            "trait_type": "clothing",
+            "value": "black patterned kento"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Hair Clip."
+            "trait_type": "accessories",
+            "value": "hair clip"
         },
         {
-            "trait_type": "Expression",
-            "value": "Dismayed."
+            "trait_type": "expression",
+            "value": "dismayed"
         },
         {
-            "trait_type": "Strength",
-            "value": "None."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -842,43 +850,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Yemaya",
-    "description": "Yemaya is the Ghana goddess of rivers and waters.",
+    "name": "nana the dancer",
+    "description": "Nana is a dancer from Kumasi who performes at well known events all over Ghana.",
     "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "400",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Orange Afro."
+            "trait_type": "hair",
+            "value": "orange afro"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow Patterned Kento."
+            "trait_type": "clothing",
+            "value": "yellow patterned kento"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Hopeful."
+            "trait_type": "expression",
+            "value": "hopeful"
         },
         {
-            "trait_type": "Strength",
-            "value": "None."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],

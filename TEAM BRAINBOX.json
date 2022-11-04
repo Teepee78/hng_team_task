@@ -1,18 +1,38 @@
 {
     "format": "CHIP-0007",
     "name": "azikiwe popular trader",
-    "description": "Azikiwe is a popular trader",
-    "minting_tool": "TEAM BRAINBOX",
+    "description": "Azikiwe is a popular trader.",
+    "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "121",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none blue,teeth:none"
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple and yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy; strength:strong"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -23,19 +43,19 @@
 }{
     "format": "CHIP-0007",
     "name": "obasanjo funny guy",
-    "description": "Obasanjo is so hilarious ",
+    "description": "Obasanjo is such a sweet guy loves by all. ",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "122",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none black,teeth:small open teeth"
+            "trait_type": ";eyes",
+            "value": "hair:none black; teeth:small open teeth"
         },
         {
-            "trait_type": "clothings",
-            "value": "sleeveless yellow ankara, accessories:none"
+            "trait_type": "clothing",
+            "value": "sleeveless yellow ankara; accessories:none"
         },
         {
             "trait_type": "expression",
@@ -49,18 +69,18 @@
 }{
     "format": "CHIP-0007",
     "name": "yakubu village chief",
-    "description": "Yakubu is the village chieftain",
+    "description": "Yakubu is the best village chieftain.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "123",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none blue,teeth:open white teeth"
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:open white teeth"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": 0
         }
     ],
@@ -71,18 +91,22 @@
 }{
     "format": "CHIP-0007",
     "name": "abacha loves smoking",
-    "description": "Abacha loves taking pipe",
+    "description": "Abacha loves taking cigarettes.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "124",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:cute braided hair black ball white eye, teeth:none"
+            "trait_type": ";eyes",
+            "value": "hair:cute braided hair black ball white eye; teeth:none"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
+            "value": "mixed colors ankara wear; accessories:none; expression:happy; strength:strong"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -92,19 +116,19 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "johnathan good leader",
-    "description": "A very progressive young man with positivity ",
+    "name": "johnathan the humanitarian ",
+    "description": "Johnathan is very progressive young man.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "125",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:punk bearded man closed, teeth:none"
+            "trait_type": ";eyes",
+            "value": "hair:punk bearded man closed; teeth:none"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": 0
         }
     ],
@@ -115,22 +139,22 @@
 }{
     "format": "CHIP-0007",
     "name": "johnathan genz kid",
-    "description": "A child of the moment , all fun and cruise ",
+    "description": "Johnathan is zealous young man.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "126",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
+            "trait_type": ";eyes",
             "value": "hair:none"
         },
         {
-            "trait_type": "blue,teeth",
+            "trait_type": "blue;teeth",
             "value": "white"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "yellow ankara wear"
         },
         {
@@ -144,19 +168,19 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "eddy the community",
-    "description": "Man of the people ",
+    "name": "eddy the community leader",
+    "description": "Eddy has so much positive energy.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "127",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none blue, teeth:none"
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:none"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "black isiagu wear"
         },
         {
@@ -179,7 +203,7 @@
 }{
     "format": "CHIP-0007",
     "name": "olu the oba",
-    "description": "The oba of Ofuk kingdom ",
+    "description": "Olu the great ruler in our land.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "128",
@@ -190,7 +214,7 @@
             "value": "purple braided hair"
         },
         {
-            "trait_type": "eyes",
+            "trait_type": ";eyes",
             "value": "black"
         },
         {
@@ -198,7 +222,7 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "mixed color traditional wear"
         },
         {
@@ -217,18 +241,18 @@
 }{
     "format": "CHIP-0007",
     "name": "edu the biggest trader",
-    "description": "The biggest merchant in west coast ",
+    "description": "Edu is the biggest merchant in west coast.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "129",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none blue, teeth:closed"
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:closed"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": 0
         }
     ],
@@ -239,18 +263,18 @@
 }{
     "format": "CHIP-0007",
     "name": "james importer and exporter",
-    "description": "Sole importer and exporter of spare parts in Africa ",
+    "description": "James is the sole importer and exporter of spare parts.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "130",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none blue,teeth:none"
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:none"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": 0
         }
     ],
@@ -261,7 +285,7 @@
 }{
     "format": "CHIP-0007",
     "name": "lanre the dreaded guy",
-    "description": "The wayward tout",
+    "description": "Lanre has a great reputation.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "131",
@@ -272,12 +296,12 @@
             "value": null
         },
         {
-            "trait_type": "eyes",
-            "value": "none, teeth:white"
+            "trait_type": ";eyes",
+            "value": "none; teeth:white"
         },
         {
-            "trait_type": "clothings",
-            "value": "ankara, accessories:cap"
+            "trait_type": "clothing",
+            "value": "ankara; accessories:cap"
         },
         {
             "trait_type": "expression",
@@ -291,14 +315,14 @@
 }{
     "format": "CHIP-0007",
     "name": "olamide the street boy",
-    "description": "Friendly street gang",
+    "description": "Olamide has a sweet voice.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "132",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
+            "trait_type": ";eyes",
             "value": "hair:none white"
         },
         {
@@ -306,7 +330,7 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "green and blue"
         },
         {
@@ -325,7 +349,7 @@
 }{
     "format": "CHIP-0007",
     "name": "uche peace loving man",
-    "description": "A man of peace and discipline ",
+    "description": "Uche man of peace and discipline.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "133",
@@ -336,11 +360,11 @@
             "value": "yellow"
         },
         {
-            "trait_type": "eyes",
-            "value": "blue,teeth:none"
+            "trait_type": ";eyes",
+            "value": "blue;teeth:none"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": 0
         }
     ],
@@ -351,7 +375,7 @@
 }{
     "format": "CHIP-0007",
     "name": "dave the tech bro",
-    "description": "Dave the web3 geng",
+    "description": "Dave is a web3 enthusiast.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "134",
@@ -362,12 +386,12 @@
             "value": null
         },
         {
-            "trait_type": "eyes",
-            "value": "none, teeth:white"
+            "trait_type": ";eyes",
+            "value": "none; teeth:white"
         },
         {
-            "trait_type": "clothings",
-            "value": "none, accessories:cap"
+            "trait_type": "clothing",
+            "value": "none; accessories:cap"
         },
         {
             "trait_type": "expression",
@@ -381,19 +405,19 @@
 }{
     "format": "CHIP-0007",
     "name": "obi the biggest humanitarian",
-    "description": "The biggest helper during the pandemic ",
+    "description": "Obi loves service to humanity.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "135",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none blue, teeth:white"
+            "trait_type": ";eyes",
+            "value": "hair:none blue; teeth:white"
         },
         {
-            "trait_type": "clothings",
-            "value": "brown, accessories:cap, expression:happy"
+            "trait_type": "clothing",
+            "value": "brown; accessories:cap; expression:happy"
         },
         {
             "trait_type": "strength",
@@ -407,14 +431,14 @@
 }{
     "format": "CHIP-0007",
     "name": "precious the emotional girl",
-    "description": "Soft hearted and sensitive precious ",
+    "description": "Precious is soft hearted and sensitive.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "136",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
+            "trait_type": ";eyes",
             "value": "hair:none white"
         },
         {
@@ -422,7 +446,7 @@
             "value": "white"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": 0
         }
     ],
@@ -433,7 +457,7 @@
 }{
     "format": "CHIP-0007",
     "name": "ella serious minded",
-    "description": "Ella a dedicated young lady ",
+    "description": "Ella a dedicated young lady.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "137",
@@ -444,15 +468,15 @@
             "value": null
         },
         {
-            "trait_type": "eyes",
+            "trait_type": ";eyes",
             "value": null
         },
         {
-            "trait_type": "white,teeth",
+            "trait_type": "white;teeth",
             "value": "white"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": 0
         }
     ],
@@ -463,18 +487,18 @@
 }{
     "format": "CHIP-0007",
     "name": "cynthia cute eyes",
-    "description": "Cynthia with a priceless cute eyes",
+    "description": "Cynthia with priceless cute eyes.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "138",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:yellow blue,teeth:none"
+            "trait_type": ";eyes",
+            "value": "hair:yellow blue;teeth:none"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "blue and yellow"
         },
         {
@@ -497,7 +521,7 @@
 }{
     "format": "CHIP-0007",
     "name": "mary with hair",
-    "description": "Mary with her beautiful Afro ",
+    "description": "Mary with her beautiful Afro.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "139",
@@ -508,12 +532,12 @@
             "value": null
         },
         {
-            "trait_type": "none,eyes",
-            "value": "none,teeth:none"
+            "trait_type": "none;eyes",
+            "value": "none;teeth:none"
         },
         {
-            "trait_type": "clothings",
-            "value": "casual ankara, accessories:cap, expression:scared, strength:sensitive"
+            "trait_type": "clothing",
+            "value": "casual ankara; accessories:cap; expression:scared; strength:sensitive"
         },
         {
             "trait_type": "weakness",
@@ -527,7 +551,7 @@
 }{
     "format": "CHIP-0007",
     "name": "ada chewing bubble gum",
-    "description": "Ada always chewing gum",
+    "description": "Ada always chewing gum.",
     "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "140",
@@ -538,16 +562,16 @@
             "value": null
         },
         {
-            "trait_type": "none,eyes",
+            "trait_type": "none;eyes",
             "value": null
         },
         {
-            "trait_type": "none,teeth",
+            "trait_type": "none;teeth",
             "value": "white"
         },
         {
-            "trait_type": "clothings",
-            "value": "traditional wear, accessories:cap, expression:sassy, strength:decisive"
+            "trait_type": "clothing",
+            "value": "traditional wear; accessories:cap; expression:sassy; strength:decisive"
         },
         {
             "trait_type": "weakness",

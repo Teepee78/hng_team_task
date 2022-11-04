@@ -1,7 +1,7 @@
 {
     "format": "CHIP-0007",
     "name": "adewale the amebo",
-    "description": "adewale the amebo",
+    "description": "Adewale likes to be in everyone's business. ",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "1",
@@ -139,7 +139,7 @@
 }{
     "format": "CHIP-0007",
     "name": "aminu the carpenter",
-    "description": "Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",
+    "description": "Aminu's hands are blessed; he makes the best furniture in the whole of Kano.",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "4",
@@ -231,7 +231,7 @@
 }{
     "format": "CHIP-0007",
     "name": "chidinma the model",
-    "description": "From Paris' runways, to London's streets, she's always in demand.",
+    "description": "From Paris' runways; to London's streets; she's always in demand.",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "6",
@@ -323,7 +323,7 @@
 }{
     "format": "CHIP-0007",
     "name": "damilare the handsome",
-    "description": "He's a fine boy. Everyone loves his face(and him).",
+    "description": "He's a fine boy; proper eye candy. ",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "8",
@@ -553,7 +553,7 @@
 }{
     "format": "CHIP-0007",
     "name": "mayowa the smallie",
-    "description": "Mayowa is so small but everyone loves him even still.",
+    "description": "Mayowa is so small but everyone loves him still.",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "13",
@@ -645,7 +645,7 @@
 }{
     "format": "CHIP-0007",
     "name": "nina paper chaser",
-    "description": "Nina na Igbo girl wey like money. Finish.",
+    "description": "Nina loves money. It's all she dreams of. ",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "15",
@@ -707,7 +707,11 @@
         },
         {
             "trait_type": "teeth",
-            "value": "none, clothing; yellow and purple agbada"
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow and purple agbada"
         },
         {
             "trait_type": "accessories",
@@ -779,7 +783,7 @@
 }{
     "format": "CHIP-0007",
     "name": "tiwa london",
-    "description": "If she says she's in London and you see her, you're in London too.",
+    "description": "If she says she's in London and you see her; you're in London too.",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "18",
@@ -825,7 +829,7 @@
 }{
     "format": "CHIP-0007",
     "name": "tunde yoruba demon",
-    "description": "Tunde derives joy in breaking girls heart. It's a lifestyle.\"",
+    "description": "Tunde derives joy in breaking hearts. It's a lifestyle.",
     "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "19",

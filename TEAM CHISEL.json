@@ -1,38 +1,38 @@
 {
     "format": "CHIP-0007",
     "name": "adebola omo oba",
-    "description": "Adebola loves soft life with her fathers wealth",
-    "minting_tool": "TEAM CHISEL",
+    "description": "Adebola loves soft life with her fathers wealth.",
+    "minting_tool": "TEAM PRYBAR",
     "sensitive_content": false,
     "series_number": "101",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "brown"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara print , Accessories:none"
+            "trait_type": "clothing",
+            "value": "ankara print; accessories:none"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "staring"
         },
         {
-            "trait_type": "Strength",
-            "value": "bold, outspoken"
+            "trait_type": "strength",
+            "value": "bold and outspoken"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -43,42 +43,42 @@
 }{
     "format": "CHIP-0007",
     "name": "chichi the dancer",
-    "description": "Chichi loves dancing and party",
+    "description": "Chichi loves dancing and party.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "102",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "blue,opened"
+            "trait_type": "eyes",
+            "value": "blue-opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "ankara print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "shocked"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "dancing"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -89,42 +89,42 @@
 }{
     "format": "CHIP-0007",
     "name": "hammed the farmer",
-    "description": "Hammed owns a farm with his family",
+    "description": "Hammed owns a farm with his family.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "103",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": null
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "brown and cream buba"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "nose mask"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "innocent"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "farming"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -135,42 +135,42 @@
 }{
     "format": "CHIP-0007",
     "name": "farida the tivlady",
-    "description": "Farada is a traditional TIv woman",
+    "description": "Farida is a beautiful Tiv woman.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "104",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "brown"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "ankara print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "lipgloss"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "cool"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "cooking"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -181,42 +181,42 @@
 }{
     "format": "CHIP-0007",
     "name": "hannah the singer",
-    "description": "Hannah loves singing and belongs to choir",
+    "description": "Hannah loves singing and belongs to choir.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "105",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "blonde"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "flower print dress"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "earrings"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "angry"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "singing"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -227,42 +227,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nonso the igbogirl",
-    "description": "Nonso is an Igbo girl that loves money",
+    "description": "Nonso is a hardworking Igbo girl.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "106",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "black"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "leopard print blouse"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "happy"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "business"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -273,42 +273,42 @@
 }{
     "format": "CHIP-0007",
     "name": "shade olori",
-    "description": "Shade loves soft life and makeup",
+    "description": "Shade loves soft life and makeup.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "107",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "blue,opened"
+            "trait_type": "eyes",
+            "value": "blue-opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "ankara print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "makeup"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -319,42 +319,42 @@
 }{
     "format": "CHIP-0007",
     "name": "quadri the teacher",
-    "description": "Quadri is a devoted teacher that teaches mathematics",
+    "description": "Quadri is a devoted teacher that teaches mathematics.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "108",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": null
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "yellow on blue jean"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "nose mask"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "teaching"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -365,42 +365,42 @@
 }{
     "format": "CHIP-0007",
     "name": "Ifeanyi the dj",
-    "description": "Ifeanyi is a music dj that performs at events",
+    "description": "Ifeanyi is a music dj that performs at events.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "109",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": null
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "opened"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "animal print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "red cap"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "mixing songs"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -411,42 +411,42 @@
 }{
     "format": "CHIP-0007",
     "name": "fayo the yorubademon",
-    "description": "Fayo is a youruba demon that breaks hearts",
+    "description": "Fayo is a yoruba demon with excellent communication skills.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "110",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "africa print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "mask"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "determined"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -457,42 +457,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nkechi the actress",
-    "description": "Nkechi is an internation actress that acts in hollywood",
+    "description": "Nkechi is an international actress that acts in hollywood.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "111",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "purpule short hair"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "native print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "smoking"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "rugged"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "love"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -503,42 +503,42 @@
 }{
     "format": "CHIP-0007",
     "name": "hamzat the mallam",
-    "description": "Hamsat is a mallam that changes money",
+    "description": "Hamsat is a mallam doing burea de change for a living.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "112",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "wrapper"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "straight"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "traditional"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -549,42 +549,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nnena pretty girl",
-    "description": "Nnena is beautiful girl that loves to talk about her beauty",
+    "description": "Nnena is beautiful girl that loves to talk about her beauty.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "113",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "brown bob marley"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "open"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "covered"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "african print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "sucker"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "giver"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -595,42 +595,42 @@
 }{
     "format": "CHIP-0007",
     "name": "tunde the boss",
-    "description": "Tunde is a boss that orders her helps around",
+    "description": "Tunde is a boss that loves to take charge at work.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "114",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "capped"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "white"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "native cloth"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "cooks well"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -641,42 +641,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nnamdi the barber",
-    "description": "Nnamdi is a baber that does celebrity haircuts",
+    "description": "Nnamdi is a barber that devotes time to perfect his craft.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "115",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "brown afro"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "open"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "smokey"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "africa print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "determined"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -687,42 +687,42 @@
 }{
     "format": "CHIP-0007",
     "name": "amaka the hypepriestess",
-    "description": "Amaka is a very hyper that she hypes in the clubs",
+    "description": "Amaka is can never be intimidated no matter the circumstance. ",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "116",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "black hair"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "open teeth"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "africa print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "laughing"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "independent"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -733,42 +733,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kemi foodie",
-    "description": "Kemi loves food but cannot cook",
+    "description": "Kemi loves food and can also prepare good meals. ",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "117",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "black har with scarf"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "partly opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "one hand style"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "can cook very well"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -779,42 +779,42 @@
 }{
     "format": "CHIP-0007",
     "name": "ada the fashionister",
-    "description": "Ada loves fashion that she rarely repeats cloths",
+    "description": "Ada loves fashion that she rarely repeats cloths.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "118",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "brown afro"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "glasses"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "white"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "africa print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "smiling"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "successful"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -825,42 +825,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kayode the baller",
-    "description": "Kayode loves life and lives it",
+    "description": "Kayode loves life and lives it.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "119",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "wide opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "yellow on jeans"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "swaggy"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -871,42 +871,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kola of lagos",
-    "description": "Kola is the life of the party everywhere he is",
+    "description": "Kola is the life of the party everywhere he is.",
     "minting_tool": "TEAM CHISEL",
     "sensitive_content": false,
     "series_number": "120",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "opened"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "native"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "intelligent"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],

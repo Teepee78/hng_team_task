@@ -1,34 +1,34 @@
 {
     "format": "CHIP-0007",
-    "name": "Paul the comedian",
-    "description": "Paul trying hard to make everyone laugh so hard and fall off the chair",
-    "minting_tool": "TEAM POWERDRILL",
+    "name": "paul the comedian",
+    "description": "Paul is a funny man; he always makes great jokes at parties.",
+    "minting_tool": "TEAM AXLE",
     "sensitive_content": false,
     "series_number": "261",
     "series_total": 420,
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:black, glasses"
+            "value": "hair:black; glasses"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "Black and yellow V neck"
+            "value": "black and yellow v neck"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "cool"
         },
         {
-            "trait_type": "Strength",
-            "value": "Trustworthiness"
+            "trait_type": "strength",
+            "value": "trustworthiness"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -38,8 +38,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Amina lagos housewife",
-    "description": "Amina is always showing the rich housewife vibes",
+    "name": "amina lagos housewife",
+    "description": "Amina is always showing the rich housewife vibes.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "262",
@@ -47,10 +47,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:red, blue"
+            "value": "hair:red; blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -58,12 +58,16 @@
             "value": "blue and yellow ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": "straight face"
         },
         {
-            "trait_type": "Strength",
-            "value": "Fashionista"
+            "trait_type": "strength",
+            "value": "fashionista"
         },
         {
             "trait_type": "weakness",
@@ -76,19 +80,23 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Kiekie the asoebibella",
-    "description": "Kiekie is classfied as the life of the party",
+    "name": "kiekie the asoebibella",
+    "description": "Kiekie is classfied as the life of the party.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "263",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:purple, grey"
+            "trait_type": "hair",
+            "value": "purple"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "grey"
+        },
+        {
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -96,11 +104,19 @@
             "value": "blue and yellow ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": "smile"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
+            "value": "helpful"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -110,8 +126,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Kunle the hunter",
-    "description": "Kunle goes for the best and hits all his targets at bull's eye",
+    "name": "kunle the hunter",
+    "description": "Kunle goes for the best and hits all his targets at bull's eye.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "264",
@@ -119,10 +135,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:black, blue"
+            "value": "hair:black; blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -130,15 +146,19 @@
             "value": "one handed yellow ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": "smile"
         },
         {
-            "trait_type": "Strength",
-            "value": "Fast"
+            "trait_type": "strength",
+            "value": "fast"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -148,7 +168,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Amara the hairstylist",
+    "name": "amara the hairstylist",
     "description": "Amara is truly your one stop shop for all your hair & beauty needs.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
@@ -157,10 +177,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:purple, grey"
+            "value": "hair:purple; grey"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -168,15 +188,19 @@
             "value": "multicolour ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
             "value": "multitasker"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -186,8 +210,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Mary nail technician",
-    "description": "Mary makes magic with her press-on nails",
+    "name": "mary nail technician",
+    "description": "Mary makes magic with her press-on nails.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "266",
@@ -195,10 +219,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:red, grey"
+            "value": "hair:red; grey"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -206,15 +230,19 @@
             "value": "multicolour ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
             "value": "hustler"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -224,8 +252,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Odogwu oil contractor",
-    "description": "From Malaysia to Kaduna, Odogwu's oil is known.",
+    "name": "odogwu oil contractor",
+    "description": "From malaysia to kaduna, odogwu's oil is known.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "267",
@@ -233,10 +261,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:black, black with glasses"
+            "value": "hair:black; black with glasses"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -244,15 +272,19 @@
             "value": "brown and gold guniea"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
             "value": "hustler"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -262,8 +294,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Simisola the kenteprincess",
-    "description": "Simisola rocks kente even in swim outfits",
+    "name": "simisola the kenteprincess",
+    "description": "Simisola rocks kente even in swim outfits.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "268",
@@ -271,10 +303,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:brown, blue"
+            "value": "hair:brown; blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -282,15 +314,19 @@
             "value": "multicolour yellow kente"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": "smiling"
         },
         {
-            "trait_type": "Strength",
-            "value": "Patience"
+            "trait_type": "strength",
+            "value": "patience"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -300,8 +336,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Mariam beauty queen",
-    "description": "Beauty is a fairy tale where Mariam appears.",
+    "name": "mariam beauty queen",
+    "description": "Beauty is a fairy tale where mariam appears.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "269",
@@ -309,10 +345,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:orange, grey"
+            "value": "hair:orange; grey"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -320,15 +356,19 @@
             "value": "multicolour yellow kente"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": "straight face"
         },
         {
-            "trait_type": "Strength",
-            "value": "Disciplined"
+            "trait_type": "strength",
+            "value": "disciplined"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -338,8 +378,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Obinna the musician",
-    "description": "Obinna might never be an a-list artist",
+    "name": "obinna the musician",
+    "description": "Obinna might never be an a-list artist.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "270",
@@ -347,10 +387,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:black, black with glasses"
+            "value": "hair:black; black with glasses"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -358,15 +398,19 @@
             "value": "red v-neck ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
             "value": "delegation"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -376,8 +420,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Sandra the shybaby",
-    "description": "Sandra is too shy at parties",
+    "name": "sandra the shybaby",
+    "description": "Sandra is a shy woman even at parties.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "271",
@@ -385,10 +429,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:orange, blue"
+            "value": "hair:orange; blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -396,15 +440,19 @@
             "value": "yellow off shoulder"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Friendly"
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "friendly"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -414,8 +462,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Chiamaka the dancer",
-    "description": "Chiamaka dances so well and earned the Guinness world record.",
+    "name": "chiamaka the dancer",
+    "description": "Chiamaka dances so well and earned the guinness world record.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "272",
@@ -423,10 +471,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:black, grey"
+            "value": "hair:black; grey"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -434,15 +482,19 @@
             "value": "yellow off shoulder"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Creativity"
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "creativity"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -452,8 +504,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Mensah fashion icon",
-    "description": "Mensah outfits are always giving us Christopher Hemsworth vibes.",
+    "name": "mensah fashion icon",
+    "description": "Mensah outfits are always giving us christopher hemsworth vibes.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "273",
@@ -461,26 +513,30 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:black, black with glasses"
+            "value": "hair:black; black with glasses"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "Gold with kente"
+            "value": "gold with kente"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Public speaking"
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "public speaking"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -490,8 +546,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Lucy the fumigator",
-    "description": "Lucy is nicknamed the pest hilter",
+    "name": "lucy the fumigator",
+    "description": "Lucy is nicknamed the pest exterminator.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "274",
@@ -499,10 +555,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:red, blue"
+            "value": "hair:red; blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -510,15 +566,19 @@
             "value": "multicolour ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Determination"
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "determination"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -528,7 +588,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Nneka wedding planner",
+    "name": "nneka wedding planner",
     "description": "Nneka plans the best weddings with great details.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
@@ -537,10 +597,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:brown braids, grey"
+            "value": "hair:brown braids; grey"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -548,11 +608,15 @@
             "value": "multicolour ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
             "value": 0
         }
     ],
@@ -562,7 +626,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Shakira the gangster",
+    "name": "shakira the gangster",
     "description": "Shakira is the most feared criminal.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
@@ -571,10 +635,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:brown braids, grey"
+            "value": "hair:brown braids; grey"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -582,15 +646,19 @@
             "value": "gold and brown"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Intentional"
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "intentional"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -600,8 +668,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Lola afropopping princess",
-    "description": "Lola licks lollipops like an afropop queen",
+    "name": "lola afropopping princess",
+    "description": "Lola loves to lick lollipops like; she is everyones afropop queen.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "277",
@@ -609,10 +677,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:brown afro, closed"
+            "value": "hair:brown afro; closed"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -620,11 +688,15 @@
             "value": "black ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
             "value": 0
         }
     ],
@@ -634,8 +706,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Sharon walking dead",
-    "description": "When tired Sharon walks like the dead",
+    "name": "sharon walking dead",
+    "description": "sharon cannot work under pressure; she is a soft babe.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "278",
@@ -643,10 +715,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:dark brown, closed"
+            "value": "hair:dark brown; closed"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "open teeth"
         },
         {
@@ -654,11 +726,15 @@
             "value": "blue ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": "loud"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": 0
         }
     ],
@@ -668,8 +744,8 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Olivia great teacher",
-    "description": "Students enjoys Olivia's classes",
+    "name": "olivia great teacher",
+    "description": "Students enjoys olivia's classes.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "279",
@@ -677,10 +753,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:dark brown, closed"
+            "value": "hair:dark brown; closed"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -688,15 +764,19 @@
             "value": "multicolour ankara"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Empathy"
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "empathy"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -706,7 +786,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Nicole sleep warrior",
+    "name": "nicole sleep warrior",
     "description": "Nicole holds the sleep award in our community, she wouldn't wake up at the sound of a detonated nuclear bomb.",
     "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
@@ -715,10 +795,10 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:black, closed"
+            "value": "hair:black; closed"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
@@ -726,15 +806,19 @@
             "value": "multicolour ankara with red base"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Leadership"
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "leadership"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],

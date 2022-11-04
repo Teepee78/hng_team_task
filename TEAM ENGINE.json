@@ -1,26 +1,34 @@
 {
     "format": "CHIP-0007",
     "name": "kim rich aunty",
-    "description": "she loves spoiling her nieces and nephew",
-    "minting_tool": "TEAM ENGINE",
+    "description": "She loves spoiling her nieces and nephew.",
+    "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "41",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "blue. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "pink"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": 0
         }
     ],
@@ -30,27 +38,35 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "barbra vampire bc",
-    "description": "she loves drinking the blood of her victims",
+    "name": "barbra stark",
+    "description": "She loves fine dining and spends time with family.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "42",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "blue. Eyes:none ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "gap."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:chain ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
             "value": 0
         }
     ],
@@ -61,26 +77,42 @@
 }{
     "format": "CHIP-0007",
     "name": "jean art dolger",
-    "description": "loves collecting art for charity ",
+    "description": "Loves collecting art for charity.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "43",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "ginger. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:earings ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "creative"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -91,26 +123,42 @@
 }{
     "format": "CHIP-0007",
     "name": "flora burger eater",
-    "description": "she loves eating burgers",
+    "description": "She loves eating burgers.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "44",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": "gap"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "stripes"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "frowning"
+        },
+        {
+            "trait_type": "strength",
+            "value": "prayerful"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -121,26 +169,42 @@
 }{
     "format": "CHIP-0007",
     "name": "jessie lord rings",
-    "description": "she seeks her 'precious'",
+    "description": "She loves her  (precious) jewelry.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "45",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "satin"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "kind"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -151,26 +215,42 @@
 }{
     "format": "CHIP-0007",
     "name": "pinky monky ponk",
-    "description": "she love to dance the honky tonk",
+    "description": "She love to dance the honky tonk.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "46",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "white. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "maroon"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "linen"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -181,26 +261,42 @@
 }{
     "format": "CHIP-0007",
     "name": "wanjiru hippie glitter",
-    "description": "a hippie that loves her glitters",
+    "description": "A hippie that loves her glitters.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "47",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "maroon. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "wool"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -211,26 +307,42 @@
 }{
     "format": "CHIP-0007",
     "name": "njoki binary coder",
-    "description": "she codes with the best and tops the set",
+    "description": "She codes with the best language and tops the set.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "48",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -241,26 +353,42 @@
 }{
     "format": "CHIP-0007",
     "name": "wangu calaba hustler",
-    "description": "she's a mean hustler so be careful",
+    "description": "She is a passionate hustler you should be careful with her.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "49",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "green. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "fangs ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -271,26 +399,42 @@
 }{
     "format": "CHIP-0007",
     "name": "lulu dey kpako",
-    "description": "she's as skinny as she is beautiful",
+    "description": "She's is as enthusiastic as she is beautiful.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "50",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "loving"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -301,26 +445,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kiki cala flier",
-    "description": "she flies first class and gets the best deals",
+    "description": "She flies first class and gets the best deals.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "51",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -331,30 +491,42 @@
 }{
     "format": "CHIP-0007",
     "name": "purity nft investor",
-    "description": "she is an angel investor looking for the next big thing",
+    "description": "She is an angel investor looking for the next big thing.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "52",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "smiling. Strength:brave ."
+            "trait_type": "clothing",
+            "value": "ankara"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -365,26 +537,42 @@
 }{
     "format": "CHIP-0007",
     "name": "june binary monk",
-    "description": "she has a twin thats from Tibet ",
+    "description": "She has a twin from Tibet and they always play together .",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "53",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -394,27 +582,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "aisha crows damsel",
-    "description": "she is always a damsel in distress",
+    "name": "aisha flying damsel",
+    "description": "She is always a damsel in distress and loves to fly.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "54",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -425,26 +629,42 @@
 }{
     "format": "CHIP-0007",
     "name": "bobo crypto lovely",
-    "description": "she is a crpto guru you can trust all through",
+    "description": "She is a crypto guru you can trust all through.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "55",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -455,26 +675,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nell light embrace",
-    "description": "she is an empath; ready with a kind word or hug",
+    "description": "She is an empathy ready with a kind word or hug.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "56",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -485,26 +721,42 @@
 }{
     "format": "CHIP-0007",
     "name": "rachel mood silent",
-    "description": "introvert  to the core, a mysterious lady",
+    "description": "Introvert  to the core a mysterious lady.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "57",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -515,26 +767,38 @@
 }{
     "format": "CHIP-0007",
     "name": "nana reflector agent",
-    "description": "she loves her chrome fashion stye",
+    "description": "She loves her chrome fashion style.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "58",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "pink"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "clothing",
+            "value": "ankara; accessories:none"
+        },
+        {
+            "trait_type": "expression",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -545,26 +809,26 @@
 }{
     "format": "CHIP-0007",
     "name": "bree busy gossip",
-    "description": "never wisper your secrets to her, except you want the world to know",
+    "description": "Never whisper your secrets to her except you want the world to know.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "59",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "blue; eyes:white"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "clothing",
+            "value": "glitter; accessories:none"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": 0
         }
     ],
@@ -575,26 +839,26 @@
 }{
     "format": "CHIP-0007",
     "name": "jude shadow fighter",
-    "description": "a ninja warrior, the last samurai standing",
+    "description": "A ninja warrior; the last samurai standing.",
     "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "60",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:brown ."
+            "trait_type": "hair",
+            "value": "white; eyes:brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara . Accessories:none ."
+            "trait_type": "clothing",
+            "value": "ankara; accessories:chain"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": 0
         }
     ],

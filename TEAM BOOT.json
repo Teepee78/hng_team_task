@@ -2,41 +2,41 @@
     "format": "CHIP-0007",
     "name": "smirky becky",
     "description": "Becky ends every statement she makes with a smirk.",
-    "minting_tool": "TEAM BOOT",
+    "minting_tool": "TEAM AXE",
     "sensitive_content": false,
     "series_number": "401",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Black low cut."
+            "trait_type": "hair",
+            "value": "black low cut"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Animal print dress."
+            "trait_type": "clothing",
+            "value": "animal print dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Ankara beret."
+            "trait_type": "accessories",
+            "value": "ankara beret"
         },
         {
-            "trait_type": "Expression",
-            "value": "Smirking."
+            "trait_type": "expression",
+            "value": "smirking"
         },
         {
-            "trait_type": "Strength",
-            "value": "Curiosity."
+            "trait_type": "strength",
+            "value": "curiosity"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -54,35 +54,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Orange bun."
+            "trait_type": "hair",
+            "value": "orange bun"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed."
+            "trait_type": "eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Ankara mixed with black material dress."
+            "trait_type": "clothing",
+            "value": "ankara mixed with black material dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Unethusiastic."
+            "trait_type": "expression",
+            "value": "unethusiastic"
         },
         {
-            "trait_type": "Strength",
-            "value": "Fashion."
+            "trait_type": "strength",
+            "value": "fashion"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -93,42 +93,42 @@
 }{
     "format": "CHIP-0007",
     "name": "sea rastafaria",
-    "description": "Ronke is the ghetto goddess that nobody wants to mess with. Stay clear!",
+    "description": "Ronke is the ghetto goddess that nobody wants to mess with; stay clear.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "403",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Purple dreadlocks."
+            "trait_type": "hair",
+            "value": "purple dreadlocks"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed."
+            "trait_type": "eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Blue one hand dress."
+            "trait_type": "clothing",
+            "value": "blue one hand dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Unfazed."
+            "trait_type": "expression",
+            "value": "unfazed"
         },
         {
-            "trait_type": "Strength",
-            "value": "Intellect."
+            "trait_type": "strength",
+            "value": "intellect"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -139,42 +139,42 @@
 }{
     "format": "CHIP-0007",
     "name": "pretty betty",
-    "description": "Betty is always proud of her beauty.",
+    "description": "Betty is very proud of her beauty and does not hesitate to flaunt it.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "404",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Orange bob."
+            "trait_type": "hair",
+            "value": "orange bob"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed."
+            "trait_type": "eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Orange one hand ankara print."
+            "trait_type": "clothing",
+            "value": "orange one hand ankara print"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Stoic."
+            "trait_type": "expression",
+            "value": "stoic"
         },
         {
-            "trait_type": "Strength",
-            "value": "Beauty."
+            "trait_type": "strength",
+            "value": "beauty"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -185,42 +185,42 @@
 }{
     "format": "CHIP-0007",
     "name": "lola medusa",
-    "description": "Lola knows how to seduce every guys she is into.",
+    "description": "Lola is the head maketer at her firm and she is the best at negotiating.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "405",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Long red braids."
+            "trait_type": "hair",
+            "value": "long red braids"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed."
+            "trait_type": "eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Geometric ankara print."
+            "trait_type": "clothing",
+            "value": "geometric ankara print"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Unfazed."
+            "trait_type": "expression",
+            "value": "unfazed"
         },
         {
-            "trait_type": "Strength",
-            "value": "Seduction."
+            "trait_type": "strength",
+            "value": "conviction"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -238,35 +238,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brunette bob."
+            "trait_type": "hair",
+            "value": "brunette bob"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Blue and yellow ankara print dress."
+            "trait_type": "clothing",
+            "value": "blue and yellow ankara print dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Moody."
+            "trait_type": "expression",
+            "value": "moody"
         },
         {
-            "trait_type": "Strength",
-            "value": "Ideation."
+            "trait_type": "strength",
+            "value": "ideation"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -284,35 +284,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Two brunette buns."
+            "trait_type": "hair",
+            "value": "two brunette buns"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Ankara dungarees."
+            "trait_type": "clothing",
+            "value": "ankara dungarees"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Tobacco pipe."
+            "trait_type": "accessories",
+            "value": "tobacco pipe"
         },
         {
-            "trait_type": "Expression",
-            "value": "Happy."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Fighting."
+            "trait_type": "strength",
+            "value": "fighting"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -330,35 +330,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Orange afro."
+            "trait_type": "hair",
+            "value": "orange afro"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Ghana kente cloth."
+            "trait_type": "clothing",
+            "value": "ghana kente dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Inspired."
+            "trait_type": "expression",
+            "value": "inspired"
         },
         {
-            "trait_type": "Strength",
-            "value": "Money."
+            "trait_type": "strength",
+            "value": "money"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -369,42 +369,42 @@
 }{
     "format": "CHIP-0007",
     "name": "fiesty sandra",
-    "description": "Sandra is a social animal, correct owambe ambassador.",
+    "description": "Sandra is a social animal; correct owambe ambassador.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "409",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown bun."
+            "trait_type": "hair",
+            "value": "brown bun"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown"
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow ankara dress."
+            "trait_type": "clothing",
+            "value": "yellow ankara dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Purple bubblegum."
+            "trait_type": "accessories",
+            "value": "purple bubblegum"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Relating with people."
+            "trait_type": "strength",
+            "value": "relating with people"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -415,42 +415,42 @@
 }{
     "format": "CHIP-0007",
     "name": "sister nkechi sabi",
-    "description": "Nkechi is the true definition of amebo, always in peoples business.",
+    "description": "Nkechi is the true definition of amebo; always in peoples business.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "410",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Black low cut."
+            "trait_type": "hair",
+            "value": "black low cut"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow patterned ankara dress."
+            "trait_type": "clothing",
+            "value": "yellow patterned ankara dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Ankara beret."
+            "trait_type": "accessories",
+            "value": "ankara beret"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Amebo."
+            "trait_type": "strength",
+            "value": "amebo"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -461,42 +461,42 @@
 }{
     "format": "CHIP-0007",
     "name": "unfriendly gina",
-    "description": "Gina is an angry one, she has no friends but she has a lot of money.",
+    "description": "Gina is an angry one; she has no friends but has a lot of money.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "411",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Orange bun."
+            "trait_type": "hair",
+            "value": "orange bun"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Animal print dress."
+            "trait_type": "clothing",
+            "value": "animal print dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Stoic."
+            "trait_type": "expression",
+            "value": "stoic"
         },
         {
-            "trait_type": "Strength",
-            "value": "Anger."
+            "trait_type": "strength",
+            "value": "anger"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -507,42 +507,42 @@
 }{
     "format": "CHIP-0007",
     "name": "dada ganster",
-    "description": "Dada respects no one, always finds pleasure terrorising others.",
+    "description": "Zoe got her nickname dada gangster because of her beautiful dreadlocks; she is a sweet one and is ever ready to help others.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "412",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Purple dreadlocks."
+            "trait_type": "hair",
+            "value": "purple dreadlock"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown"
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Vampiric"
+            "trait_type": "teeth",
+            "value": "vampiric"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Ankara mixed with black material dress."
+            "trait_type": "clothing",
+            "value": "ankara mixed with black material dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Annoyed."
+            "trait_type": "expression",
+            "value": "annoyed"
         },
         {
-            "trait_type": "Strength",
-            "value": "Finding trouble."
+            "trait_type": "strength",
+            "value": "finding trouble"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -553,42 +553,42 @@
 }{
     "format": "CHIP-0007",
     "name": "idoncare linda",
-    "description": "Linda is a beautiful but very annoying girl, she turns every thing into an argument.",
+    "description": "Linda is a carefree woman that pays little attention to whatever is happening round her.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "413",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Orange bob."
+            "trait_type": "hair",
+            "value": "orange bob"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Blue one hand dress."
+            "trait_type": "clothing",
+            "value": "blue one hand dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Mischievous."
+            "trait_type": "expression",
+            "value": "mischievous"
         },
         {
-            "trait_type": "Strength",
-            "value": "Instigationg arguments."
+            "trait_type": "strength",
+            "value": "instigating arguments"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -599,42 +599,42 @@
 }{
     "format": "CHIP-0007",
     "name": "doubting vivian",
-    "description": "Vivian just like the thomas in the bible, she doubts all.",
+    "description": "Vivian just like the thomas in the bible; she doubts all.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "414",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Long red braids."
+            "trait_type": "hair",
+            "value": "long red braid"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Red ankara one hand dress."
+            "trait_type": "clothing",
+            "value": "red ankara one hand dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Pissed."
+            "trait_type": "expression",
+            "value": "pissed"
         },
         {
-            "trait_type": "Strength",
-            "value": "Logic."
+            "trait_type": "strength",
+            "value": "logic"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -652,35 +652,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Two orange buns."
+            "trait_type": "hair",
+            "value": "two orange buns"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Geometric ankara dress."
+            "trait_type": "clothing",
+            "value": "geometric ankara dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Annoyed."
+            "trait_type": "expression",
+            "value": "annoyed"
         },
         {
-            "trait_type": "Strength",
-            "value": "Communication."
+            "trait_type": "strength",
+            "value": "communication"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -691,42 +691,42 @@
 }{
     "format": "CHIP-0007",
     "name": "bambi tekno",
-    "description": "Bambi is the dancer of the team.",
+    "description": "Bambi is the dancer of the team; anytime she hears a beat shes on her feet.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "416",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown low buns."
+            "trait_type": "hair",
+            "value": "brown low buns"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Brown ankara dress."
+            "trait_type": "clothing",
+            "value": "brown ankara dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Yellow sunglasses."
+            "trait_type": "accessories",
+            "value": "yellow sunglasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "Cool."
+            "trait_type": "expression",
+            "value": "cool"
         },
         {
-            "trait_type": "Strength",
-            "value": "Dancing."
+            "trait_type": "strength",
+            "value": "dancing"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -744,35 +744,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "None."
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Black and blue shirt."
+            "trait_type": "clothing",
+            "value": "black and blue shirt"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Purple cap and yellow sunglasses."
+            "trait_type": "accessories",
+            "value": "purple cap and yellow sunglasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "None."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Confidence."
+            "trait_type": "strength",
+            "value": "confidence"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -783,42 +783,42 @@
 }{
     "format": "CHIP-0007",
     "name": "king of boys",
-    "description": "Busayo finds her way in ruling the boys and that's why she's king of boys.",
+    "description": "Busayo has her way of convincing people to do things her way.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "418",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Black buns."
+            "trait_type": "hair",
+            "value": "black buns"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "One hand patterned ankara dress."
+            "trait_type": "clothing",
+            "value": "one hand patterned ankara dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cigarette pipe and yellow sunglasses."
+            "trait_type": "accessories",
+            "value": "tobacco pipe and yellow sunglasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "Stoned."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "Confidence."
+            "trait_type": "strength",
+            "value": "confidence"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -829,38 +829,42 @@
 }{
     "format": "CHIP-0007",
     "name": "funky alte pop",
-    "description": "Funke is always the life of every party, strong gen z advocate.",
+    "description": "Funke is always the life of every party; strong gen z advocate.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "419",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Two red buns."
+            "trait_type": "hair",
+            "value": "two red buns"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "One hand patterned ankara dress. Acessories Yellow sun shades"
+            "trait_type": "clothing",
+            "value": "one hand patterned ankara dress"
         },
         {
-            "trait_type": "Expression",
-            "value": "Rugged."
+            "trait_type": "accessories",
+            "value": "yellow sun shades"
         },
         {
-            "trait_type": "Strength",
-            "value": "Music."
+            "trait_type": "expression",
+            "value": "cool"
         },
         {
-            "trait_type": "Weakess",
+            "trait_type": "strength",
+            "value": "music"
+        },
+        {
+            "trait_type": "weakess",
             "value": 0
         }
     ],
@@ -871,42 +875,42 @@
 }{
     "format": "CHIP-0007",
     "name": "madame ngozi",
-    "description": "Ngozi make heads turn with her beautiful collection of materials from all over africa.",
+    "description": "Ngozi make heads turn with her beautiful collection of materials from all over Africa.",
     "minting_tool": "TEAM BOOT",
     "sensitive_content": false,
     "series_number": "420",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Red afro."
+            "trait_type": "hair",
+            "value": "red afro"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "Ghana kente dress."
+            "trait_type": "clothing",
+            "value": "ghana kente dress"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Yellow sunglasses."
+            "trait_type": "accessories",
+            "value": "yellow sunglasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "Pissed."
+            "trait_type": "expression",
+            "value": "pissed"
         },
         {
-            "trait_type": "Strength",
-            "value": "Money."
+            "trait_type": "strength",
+            "value": "money"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],

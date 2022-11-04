@@ -1,8 +1,8 @@
 {
     "format": "CHIP-0007",
-    "name": "Ahmed the merchant",
-    "description": "A rich merchant that sells in babylon",
-    "minting_tool": "TEAM GEAR",
+    "name": "ahmed the merchant",
+    "description": "A rich merchant that sells in babylon.",
+    "minting_tool": "TEAM CRANKSHAFT",
     "sensitive_content": false,
     "series_number": "201",
     "series_total": 420,
@@ -42,12 +42,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb62844-59ca-11ed-9b6a-0242ac120002"
+        "id": "9996ecb6-4d92-4b51-bc50-d962f68f1ecc"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Blind Tonia",
-    "description": "A girl that lost one of her eyes in a street fight",
+    "name": "blind tonia",
+    "description": "A girl that lost one of her eyes in a street fight.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "202",
@@ -88,12 +88,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb62c86-59ca-11ed-9b6a-0242ac120002"
+        "id": "4a5f4c6d-d0dd-4b71-b095-86ef11910962"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Buffy the vampire",
-    "description": "A vampire diary protagonist that got bitten by a vampire in real life",
+    "name": "buffy the vampire",
+    "description": "A vampire diary protagonist that got bitten by a vampire in real life.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "203",
@@ -134,12 +134,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb62e02-59ca-11ed-9b6a-0242ac120002"
+        "id": "bd329fd7-dd90-4180-a7a7-03e2d41535cb"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Caro lipstick",
-    "description": "A girl that puts on lipstick always, even to bed",
+    "name": "caro lipstick",
+    "description": "A girl that puts on lipstick always, even to bed.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "204",
@@ -180,12 +180,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb62f4c-59ca-11ed-9b6a-0242ac120002"
+        "id": "a34d7a7b-d8f6-46fb-9abc-6d6d7293fffb"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Charity the maid",
-    "description": "A maid that works for the fun of it",
+    "name": "charity the maid",
+    "description": "A maid that works for the fun of it.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "205",
@@ -193,19 +193,19 @@
     "attributes": [
         {
             "trait_type": "hair",
-            "value": "brown"
+            "value": null
         },
         {
             "trait_type": "eyes",
-            "value": "blue"
+            "value": "small"
         },
         {
             "trait_type": "teeth",
-            "value": "smoke"
+            "value": "two"
         },
         {
             "trait_type": "clothing",
-            "value": "blouse"
+            "value": "shirt"
         },
         {
             "trait_type": "accessories",
@@ -217,7 +217,7 @@
         },
         {
             "trait_type": "strength",
-            "value": null
+            "value": "biting"
         },
         {
             "trait_type": "weakness",
@@ -226,12 +226,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb63096-59ca-11ed-9b6a-0242ac120002"
+        "id": "22286b60-5f7b-4df3-8cb1-187d02fb83d0"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Charity with fakehair",
-    "description": "A girl with a bald hair but always wears wig to cover her head",
+    "name": "charity with fakehair",
+    "description": "A girl with a bald hair but always wears wig to cover her head.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "206",
@@ -272,12 +272,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb631c2-59ca-11ed-9b6a-0242ac120002"
+        "id": "efc0f7f5-d90b-46cc-be0b-6fcaa23a5422"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Daniel the hustler",
-    "description": "A boy that lives in the streets of Lagos hustling everyday to make ends meet",
+    "name": "daniel the hustler",
+    "description": "A boy that lives in the streets of Lagos hustling everyday to make ends meet.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "207",
@@ -318,12 +318,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb632e4-59ca-11ed-9b6a-0242ac120002"
+        "id": "355be0ea-e500-41e1-add4-ce868759bb72"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Grandma Nanny",
-    "description": "A grandmother that does nothing but sleeps all day",
+    "name": "grandma nanny",
+    "description": "A grandmother that does nothing but sleeps all day.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "208",
@@ -364,12 +364,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb63406-59ca-11ed-9b6a-0242ac120002"
+        "id": "ec8fe198-5c45-42a6-a909-4cfbcbbf6519"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Granpa Willy",
-    "description": "A grandfather that drinks beer and reads newspaper all day",
+    "name": "granpa willy",
+    "description": "A grandfather that drinks beer and reads newspaper all day.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "209",
@@ -410,12 +410,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb6380c-59ca-11ed-9b6a-0242ac120002"
+        "id": "facf7001-d028-4e00-bffc-ed1f7c005ecc"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Joshua gang leader",
-    "description": "A boy born to ritualist parents and now runs his own gang",
+    "name": "joshua gang leader",
+    "description": "A boy born to ritualist parents and now runs his own gang.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "210",
@@ -456,12 +456,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb63956-59ca-11ed-9b6a-0242ac120002"
+        "id": "cc3c5c06-df96-4a0d-a09f-3359c21191f6"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Karashika queen",
-    "description": "A woman of the underworld that influences rich men into giving up their money",
+    "name": "karashika queen",
+    "description": "A woman of the underworld that influences rich men into giving up their money.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "211",
@@ -502,12 +502,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb63a8c-59ca-11ed-9b6a-0242ac120002"
+        "id": "6e697e86-def8-4fb4-96c9-0f43ab9beea6"
     }
 }{
     "format": "CHIP-0007",
-    "name": "King of baldmen",
-    "description": "A man that was born bald and has never seen a hair on his head",
+    "name": "king of baldmek",
+    "description": "A man that was born bald and has never seen a hair on his head.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "212",
@@ -548,12 +548,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb63c62-59ca-11ed-9b6a-0242ac120002"
+        "id": "5142f00b-10b5-47a5-ab8a-8ae71b255b04"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Musa masked mouth",
-    "description": "Musa uses a tape to cover his mouth to prevent him from talking too much",
+    "name": "musa masked mouth",
+    "description": "Musa uses a tape to cover his mouth to prevent him from talking too much.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "213",
@@ -594,12 +594,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb63db6-59ca-11ed-9b6a-0242ac120002"
+        "id": "9a5e7e95-6552-4a92-ab18-2154678943c2"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Queen of smokers",
-    "description": "A chronic smoker looking for a spouse that will join her to die of smoking",
+    "name": "queen of smokers",
+    "description": "A chronic smoker looking for a spouse that will join her to die of smoking.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "214",
@@ -640,12 +640,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb63ee2-59ca-11ed-9b6a-0242ac120002"
+        "id": "eb32dfc0-29ee-49db-8833-37a41a6d6d65"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Redlips man",
-    "description": "A man that kissed a woman and got his lips burnt",
+    "name": "redlips man",
+    "description": "A man that kissed a woman and got his lips burnt.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "215",
@@ -686,12 +686,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb64004-59ca-11ed-9b6a-0242ac120002"
+        "id": "4d649c12-05a5-44a4-b4ef-eb285b291aff"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Sleevless maid",
-    "description": "A girl that nevers wears long cloths and gets herself thrown out of churches for indecent dressing",
+    "name": "sleevless maid",
+    "description": "A girl that nevers wears long cloths and gets herself thrown out of churches for indecent dressing.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "216",
@@ -732,12 +732,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb64338-59ca-11ed-9b6a-0242ac120002"
+        "id": "1cec0f65-2ee4-41a9-a30a-1f7aa9ccd112"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Stephen bluecap",
-    "description": "Stephen always wears blue cap even to the church",
+    "name": "stephen bluecap",
+    "description": "Stephen always wears blue cap even to the church.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "217",
@@ -778,12 +778,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb6446e-59ca-11ed-9b6a-0242ac120002"
+        "id": "9b9de982-0f87-47ee-ae95-0b69b48d0cdf"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Tinubu gateman",
-    "description": "Tinubu has been a gateman all his life. He was born to a gateman and his child will be a gateman",
+    "name": "tinubu gateman",
+    "description": "Tinubu has been a gateman all his life.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "218",
@@ -824,12 +824,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb645a4-59ca-11ed-9b6a-0242ac120002"
+        "id": "c587932b-0b8c-4f70-8465-425a1f53df64"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Vampire girl",
-    "description": "She dresses up as a vampire every haloween",
+    "name": "vampire girl",
+    "description": "She dresses up as a vampire every haloween.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "219",
@@ -870,12 +870,12 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb64752-59ca-11ed-9b6a-0242ac120002"
+        "id": "3bba4477-d84a-440f-af66-12690ea8b2e4"
     }
 }{
     "format": "CHIP-0007",
-    "name": "Yusuf the smoker",
-    "description": "A chronic smoker with damaged lungs",
+    "name": "yusuf the smoker",
+    "description": "A chronic smoker with damaged lungs.",
     "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "220",
@@ -916,6 +916,6 @@
     ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
-        "id": "bfb648d8-59ca-11ed-9b6a-0242ac120002"
+        "id": "2af7b970-e212-4627-b818-13c00c8d3a72"
     }
 }

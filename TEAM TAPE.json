@@ -1,34 +1,42 @@
 {
     "format": "CHIP-0007",
-    "name": "hng newbie",
-    "description": "A confused hng participant that cannot understand her project",
-    "minting_tool": "TEAM TAPE",
+    "name": "lola hng newbie",
+    "description": "A confused hng participant that cannot understand her project.",
+    "minting_tool": "TEAM GEAR",
     "sensitive_content": false,
     "series_number": "221",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "brown."
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "white ."
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Teeth",
-            "value": "white . Clothing:ankara ."
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Accessories",
-            "value": "none."
+            "trait_type": "clothing",
+            "value": "ankara"
         },
         {
-            "trait_type": "Expression",
-            "value": "surprised ."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -39,34 +47,38 @@
 }{
     "format": "CHIP-0007",
     "name": "nene caroline",
-    "description": "A housewife that loves taking care of her family",
+    "description": "A housewife that loves taking care of her family.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "222",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "brown."
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "white ."
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none. Clothing:ankara ."
+            "trait_type": "teeth",
+            "value": "none; clothing:ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "none."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "calm. Strength:loving, relaxed ."
+            "trait_type": "expression",
+            "value": "calm"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "loving"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -77,34 +89,42 @@
 }{
     "format": "CHIP-0007",
     "name": "wazo partystopper",
-    "description": "A Nigerian aunty that loves to attend owambe parties",
+    "description": "A Nigerian aunty that loves to attend owambe parties.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "223",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Eyes",
-            "value": "Hair:black . white."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none."
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "aso oke ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Accessories",
-            "value": "none."
+            "trait_type": "clothing",
+            "value": "aso oke"
         },
         {
-            "trait_type": "Expression",
-            "value": "proud. Strength:energetic ."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "expression",
+            "value": "proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": "energetic"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -115,38 +135,42 @@
 }{
     "format": "CHIP-0007",
     "name": "melanin janet",
-    "description": "A young lady with a soft personality",
+    "description": "A young lady with a soft personality.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "224",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "brownish pink."
+            "trait_type": "hair",
+            "value": "brownish pink"
         },
         {
-            "trait_type": "Eyes",
-            "value": "white. Teeth:none ."
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "english-ankara."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Accessories",
-            "value": "none."
+            "trait_type": "clothing",
+            "value": "english-ankara"
         },
         {
-            "trait_type": "Expression",
-            "value": "none ."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "calm."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": "calm"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -157,30 +181,42 @@
 }{
     "format": "CHIP-0007",
     "name": "leo sugarmummy",
-    "description": "A middle age wild yankee returnee",
+    "description": "A middle age wild yankee returnee.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "225",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "pumpkin. Eyes:blue . Teeth:none ."
+            "trait_type": "hair",
+            "value": "pumpkin"
         },
         {
-            "trait_type": "Clothing",
-            "value": "leopard skin. Accessories:none ."
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "Expression",
-            "value": "wild."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "none."
+            "trait_type": "clothing",
+            "value": "leopard skin"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "wild"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -191,26 +227,42 @@
 }{
     "format": "CHIP-0007",
     "name": "novice joane",
-    "description": "A princess worried about finding true love",
+    "description": "A princess worried about finding true love.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "226",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "pumpkin. Eyes:blue . Teeth:none ."
+            "trait_type": "hair",
+            "value": "pumpkin"
         },
         {
-            "trait_type": "Clothing",
-            "value": "kente."
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "Accessories",
-            "value": "none. Expression:worried ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "clothing",
+            "value": "kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "worried"
+        },
+        {
+            "trait_type": "strength",
+            "value": "diligent"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -221,38 +273,42 @@
 }{
     "format": "CHIP-0007",
     "name": "goofy simbi",
-    "description": "An eccentric teenager that loves music",
+    "description": "An eccentric teenager that loves music.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "227",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "pumpkin."
+            "trait_type": "hair",
+            "value": "pumpkin"
         },
         {
-            "trait_type": "Eyes",
-            "value": "blue."
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "ankara."
+            "trait_type": "clothing",
+            "value": "ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "none. Expression:indifferent ."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "none."
+            "trait_type": "expression",
+            "value": "indifferent"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -263,34 +319,42 @@
 }{
     "format": "CHIP-0007",
     "name": "akwaaba ghana",
-    "description": "A depressed gothic introvert",
+    "description": "A depressed gothic introvert.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "228",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "purple."
+            "trait_type": "hair",
+            "value": "purple"
         },
         {
-            "trait_type": "Eyes",
-            "value": "blue."
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "kente. Accessories:none ."
+            "trait_type": "clothing",
+            "value": "kente"
         },
         {
-            "trait_type": "Expression",
-            "value": "depressed."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "expression",
+            "value": "depressed"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -301,30 +365,42 @@
 }{
     "format": "CHIP-0007",
     "name": "aunty toyin",
-    "description": "An oversabi family member",
+    "description": "An oversabi family member.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "229",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "pumpkin."
+            "trait_type": "hair",
+            "value": "pumpkin"
         },
         {
-            "trait_type": "Eyes",
-            "value": "blue."
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none. Clothing:ankara . Accessories:none ."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "carefree ."
+            "trait_type": "clothing",
+            "value": "ankara"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "carefree"
+        },
+        {
+            "trait_type": "strength",
+            "value": "audacious"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -335,18 +411,42 @@
 }{
     "format": "CHIP-0007",
     "name": "pretty hauwa",
-    "description": "A young bride involved in an early marriage",
+    "description": "A young bride involved in an early marriage.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "230",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "dark brown. Eyes:blue . Teeth:none . Clothing:kente . Accessories:none . Expression:self-sufficient ."
+            "trait_type": "hair",
+            "value": "dark brown"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "self-sufficient"
+        },
+        {
+            "trait_type": "strength",
+            "value": "diligent"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -357,18 +457,42 @@
 }{
     "format": "CHIP-0007",
     "name": "chimamanda enugu",
-    "description": "a young lady born during the war",
+    "description": "A young lady born during the war.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "231",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Eyes",
-            "value": "Hair:brown . black."
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": null
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -379,12 +503,45 @@
 }{
     "format": "CHIP-0007",
     "name": "kente solape",
-    "description": "a respectful and diligent princess",
+    "description": "A respectful and diligent princess.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "232",
     "series_total": 420,
-    "attributes": [],
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "blanch"
+        },
+        {
+            "trait_type": "strength",
+            "value": "bold"
+        },
+        {
+            "trait_type": "weakness",
+            "value": 0
+        }
+    ],
     "collection": {
         "name": "Zuri NFT Tickets for Free Lunch",
         "id": "613ce65c-4b16-43f8-a0d9-b5ea8c5f2195"
@@ -392,14 +549,42 @@
 }{
     "format": "CHIP-0007",
     "name": "vamp karishika",
-    "description": "Queen of the darkness",
+    "description": "Queen of the royal Ghana youths",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "233",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Clothing",
+            "trait_type": "hair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "gele"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "shocked"
+        },
+        {
+            "trait_type": "strength",
+            "value": "tough"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -410,18 +595,42 @@
 }{
     "format": "CHIP-0007",
     "name": "genz monique",
-    "description": "A sassy lady with her own vibe",
+    "description": "A sassy lady with her own vibe.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "234",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "pinkish-brown. Eyes:black . Teeth:none ."
+            "trait_type": "hair",
+            "value": "pinkish-brown"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "despiteful"
+        },
+        {
+            "trait_type": "strength",
+            "value": null
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -432,18 +641,42 @@
 }{
     "format": "CHIP-0007",
     "name": "femi boltz",
-    "description": "A driver hustling his way through life",
+    "description": "A driver hustling his way through life.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "235",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:blue ."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": "smart"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -454,18 +687,42 @@
 }{
     "format": "CHIP-0007",
     "name": "agba tech",
-    "description": "A tech bro that loves to party but has bad communication skill",
+    "description": "A tech bro that loves to party but has bad communication skill.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "236",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:blue ."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": "smart"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -476,18 +733,42 @@
 }{
     "format": "CHIP-0007",
     "name": "brian richkid",
-    "description": "A trust fund baby that does not know how to manage money",
+    "description": "A trust fund baby that does not know how to manage money.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "237",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:blue ."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": "smart"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -498,18 +779,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nandi zulu",
-    "description": "A fierce African Queen",
+    "description": "A fierce African Queen.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "238",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "pumpkin . Eyes:brown . Teeth:none . Clothing:animal skin . Accessories:none . Expression:Energetic ."
+            "trait_type": "hair",
+            "value": "pumpkin"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "animal skin"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "energetic"
+        },
+        {
+            "trait_type": "strength",
+            "value": "smart"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -520,18 +825,42 @@
 }{
     "format": "CHIP-0007",
     "name": "ade demon",
-    "description": "A lekki playboy that makes money from crypto",
+    "description": "A Lekki playboy that makes money from crypto.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "239",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "none. Eyes:blue ."
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": "smart"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -542,18 +871,42 @@
 }{
     "format": "CHIP-0007",
     "name": "karim rapper",
-    "description": "A young and proud Lagos rapper",
+    "description": "A young and proud Lagos rapper.",
     "minting_tool": "TEAM TAPE",
     "sensitive_content": false,
     "series_number": "240",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black. Eyes:blue ."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
+        },
+        {
+            "trait_type": "expression",
+            "value": "proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": "smart"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],

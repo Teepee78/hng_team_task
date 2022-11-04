@@ -1,46 +1,42 @@
 {
     "format": "CHIP-0007",
     "name": "omunyinyi the stoic",
-    "description": "omunyinyi wears a Kitenge coat",
-    "minting_tool": "TEAM SANDPAPER",
+    "description": "Omunyinyi wears a Kitenge coat.",
+    "minting_tool": "TEAM SCALE",
     "sensitive_content": false,
     "series_number": "321",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
+            "value": "teary"
+        },
+        {
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "tearyTeeth",
-            "value": null
-        },
-        {
-            "trait_type": "noneSkin",
-            "value": null
-        },
-        {
-            "trait_type": "brownskinClothing",
+            "trait_type": "clothing",
             "value": "checked ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Teary"
+            "trait_type": "expression",
+            "value": "teary"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "powerful"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -51,46 +47,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kamau the sleeper",
-    "description": "closed eyes meditating",
+    "description": "Kamau has his eyes closed as he meditates.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "322",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Blad"
+            "trait_type": "hair",
+            "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "closed"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "noneSkin",
-            "value": "brownskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "black ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "flat"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "open to suggestion"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -101,38 +93,38 @@
 }{
     "format": "CHIP-0007",
     "name": "mutiso the lastborn",
-    "description": "masked up mutiso dozing off",
+    "description": "Mutiso is masked up but dozes off while waiting for food. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "323",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Eyes",
-            "value": "Hair:bald closed"
+            "trait_type": "hair",
+            "value": "bald"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "brownskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "yellow ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "tired"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "consistency"
         },
         {
@@ -147,42 +139,42 @@
 }{
     "format": "CHIP-0007",
     "name": "omondi the vegeterian",
-    "description": "omondi wears a green coat",
+    "description": "Omondi wears a green coat with lots of patterns. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "324",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Eyes",
-            "value": "Hair:bald sharp eyed"
+            "trait_type": "hair",
+            "value": "bald"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "eyes",
+            "value": "sharp eyed"
+        },
+        {
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "brownskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "green ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "alert"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "leader"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -193,42 +185,38 @@
 }{
     "format": "CHIP-0007",
     "name": "barasa the optimist",
-    "description": "looks up to the sky and makes a wish",
+    "description": "Barasa looks up to the sky and makes a wish.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "325",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "dark skin"
+            "trait_type": "clothing",
+            "value": "brown ankara; accessories:none"
         },
         {
-            "trait_type": "Clothing",
-            "value": "brown ankara Accessories:none"
-        },
-        {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "awake"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "strong willed"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -239,46 +227,42 @@
 }{
     "format": "CHIP-0007",
     "name": "mwembu the elder",
-    "description": "old but not so old, with yellow his favorite color",
+    "description": "Mwembu is old but not so old and yellow is his favorite color.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "326",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "black"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "dark skin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "dark ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "plain"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "fulfilled"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -289,46 +273,42 @@
 }{
     "format": "CHIP-0007",
     "name": "mbogi the fighter",
-    "description": "masked up mbogi after capture",
+    "description": "Mbogi is captured and forced to wear a mask. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "327",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "baldEyes",
+            "trait_type": "clothing",
+            "value": "one side ankara"
+        },
+        {
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "blackTeeth",
-            "value": null
-        },
-        {
-            "trait_type": "noneSkin",
-            "value": "darkskin"
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "onesideankara"
-        },
-        {
-            "trait_type": "Accessories",
-            "value": null
-        },
-        {
-            "trait_type": "noneExpression",
+            "trait_type": "expression",
             "value": "willfull"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "fighter"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -339,46 +319,42 @@
 }{
     "format": "CHIP-0007",
     "name": "mrosho the runner",
-    "description": "masked up mrosho",
+    "description": "Mrosho has his mask on and yet still runs his race. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "328",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "sea blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "darkskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "purple ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "alert"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "visionary"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -389,46 +365,42 @@
 }{
     "format": "CHIP-0007",
     "name": "milele the african",
-    "description": "milele with a nice african print in orange",
+    "description": "Milele wears a dress with a nice african print in orange.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "329",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "dark skin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "orange ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "timid"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "leader"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -439,46 +411,42 @@
 }{
     "format": "CHIP-0007",
     "name": "olebon the oloibon",
-    "description": "olebon in customized buba sokoto",
+    "description": "Olebon is in a customized buba sokoto.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "330",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "closed"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "darkskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "animal print"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "surprised"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "empathy"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -489,46 +457,42 @@
 }{
     "format": "CHIP-0007",
     "name": "chifu the maasai",
-    "description": "clothing inspired by maasai shuka",
+    "description": "Maasai shuka keeps bringing inspiration for new clothings. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "331",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "closed"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": null
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "ankara shirt"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "visionary"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "authentic"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -539,46 +503,42 @@
 }{
     "format": "CHIP-0007",
     "name": "mwangaa the voice",
-    "description": "mwangaa the chief",
+    "description": "Mwangaa the chief is controlling but still loved as he has a calming voice.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "332",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "blue"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "darkskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "white lined ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "kindness"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "brave"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -589,42 +549,38 @@
 }{
     "format": "CHIP-0007",
     "name": "waforte the first",
-    "description": "masked up man who does sleep a lot",
+    "description": "Waforte loves to sleep and does nothing else.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "333",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
-            "value": "closedTeeth:none"
+            "trait_type": "eyes",
+            "value": "closed; teeth:none"
         },
         {
-            "trait_type": "Skin",
-            "value": "darkskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "jean ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "shy"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -635,46 +591,38 @@
 }{
     "format": "CHIP-0007",
     "name": "kariuki the prayerful one",
-    "description": "kariuki closes his eyes",
+    "description": "Kariuki closes his eyes as he watches the sunset.",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "334",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
-            "value": "closed eyes"
+            "trait_type": "eyes",
+            "value": "closed eyes; teeth:none"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "clothing",
             "value": null
         },
         {
-            "trait_type": "Skin",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": null
-        },
-        {
-            "trait_type": "Accessories",
-            "value": null
-        },
-        {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "bored"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "intelligent"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -685,46 +633,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kenyanese the priest",
-    "description": "masked up man with with white cloth",
+    "description": "Kenyaanese is a masked up man with a white cloth as his signature attire. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "335",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "bald"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "white"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "darkskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "white jean shirt"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "calculative"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "kind"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -735,38 +679,38 @@
 }{
     "format": "CHIP-0007",
     "name": "nyimbo the singer",
-    "description": "glasses and a pot for the night",
+    "description": "Nimbo has his glasses on and a pot with hot porridge for the night",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "336",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Eyes",
-            "value": "Hair:dreadlocks glassed up Teeth:none"
+            "trait_type": "hair",
+            "value": "dreadlocks"
         },
         {
-            "trait_type": "Skin",
-            "value": "brownskin"
+            "trait_type": "eyes",
+            "value": "glassed up; teeth:none"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "off shoulder ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": "a pot"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "free spirited"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "fair"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -777,42 +721,42 @@
 }{
     "format": "CHIP-0007",
     "name": "maathai the nobel winner",
-    "description": "mathaai the warrior",
+    "description": "Mathaai the warrior is revered all over the land. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "337",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "pink afro"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "glassed up"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "brownskin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "colored ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "noneExpression",
+            "trait_type": "expression",
             "value": "strict"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
+            "value": "leadership"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -823,42 +767,42 @@
 }{
     "format": "CHIP-0007",
     "name": "tish the angry one",
-    "description": "angry tish with specs on",
+    "description": "Tish is always angry and with specs on he looks really mean. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "338",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "black huge afro"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": null
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "broken teeth"
         },
         {
-            "trait_type": "Skin",
-            "value": "brownskin"
+            "trait_type": "clothing",
+            "value": "off shoulder ankara"
         },
         {
-            "trait_type": "Clothing",
-            "value": "offshoulder ankara"
-        },
-        {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "disgusted"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
+            "value": "blunt"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -869,46 +813,42 @@
 }{
     "format": "CHIP-0007",
     "name": "wamenza the winner",
-    "description": "wamenza the leader",
+    "description": "Wamenza the leader has led his team to yet another thrillig victory. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "339",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "laid back"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": null
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "brownskin"
+            "trait_type": "clothing",
+            "value": "off shoulder ankara"
         },
         {
-            "trait_type": "Clothing",
-            "value": "offshoulder ankara"
-        },
-        {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "noneExpression",
+            "trait_type": "expression",
             "value": "meditative"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "strict"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -919,46 +859,42 @@
 }{
     "format": "CHIP-0007",
     "name": "isaya the track king",
-    "description": "isaya the traveller",
+    "description": "Isaya the traveller has done a lot of travelling round Africa. ",
     "minting_tool": "TEAM SANDPAPER",
     "sensitive_content": false,
     "series_number": "340",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": null
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "glassed up"
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "Skin",
-            "value": "brown skin"
-        },
-        {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "bright ankara"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": "taken aback"
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": "straight forward"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],

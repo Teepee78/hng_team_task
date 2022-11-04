@@ -1,42 +1,42 @@
 {
     "format": "CHIP-0007",
     "name": "viganem the drummer girl",
-    "description": "she loves jumping a fence to play drums after school",
-    "minting_tool": "TEAM PLUG",
+    "description": "She is known for typically playing the drum for 5 hours per day without a break.",
+    "minting_tool": "TEAM BRAINBOX",
     "sensitive_content": false,
     "series_number": "141",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "ankara with drum patterns"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "sumg"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -47,42 +47,42 @@
 }{
     "format": "CHIP-0007",
     "name": "lenusuka the big woman",
-    "description": "The lady that loves spending money and buying everybody asaobi",
+    "description": "The lady that loves spending money and buying everybody asaobi.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "142",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "purple"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "black and blue ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "serious"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -93,42 +93,42 @@
 }{
     "format": "CHIP-0007",
     "name": "enepua the clout queen",
-    "description": "The lady that travels all day and enjoys snapping food at restaurants",
+    "description": "The lady that travels all day and enjoys snapping food at restaurants.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "143",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "purple"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "black ankara with yellow and blue gear pattern"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "chill"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -139,42 +139,42 @@
 }{
     "format": "CHIP-0007",
     "name": "usifong queen of mushin",
-    "description": "Changes her hair every 2 weeks and cannot finish one pure water",
+    "description": "Changes her hair every 2 weeks and cannot finish one pure water.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "144",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "brown afro"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "black ankara with yellow peach and blue gear pattern"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "unbothered"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -184,43 +184,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "akinyim the agbaya",
-    "description": "Always playing with small childrens and mostly small girls",
+    "name": "akinyim the clown",
+    "description": "The most interesting christmas clown, known for dancing in prisons and hospitals on christmas eve.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "145",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "burgundy dreadlocks"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "kente blouse with asymmetric neckline"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "off-standish"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -231,42 +231,42 @@
 }{
     "format": "CHIP-0007",
     "name": "zawadi mr sleep everywhere",
-    "description": "Likes sleeping in the weirdest places especially in clubs",
+    "description": "Likes sleeping in the weirdest places especially in clubs.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "146",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "kente agbada"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "goofy"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -277,42 +277,38 @@
 }{
     "format": "CHIP-0007",
     "name": "chepkirui mr self love",
-    "description": "Likes taking care of himself and spending on himself",
+    "description": "Likes taking care of himself and spending on himself.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "147",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "burgundy"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "black and kente patterned agbada"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "sleepy"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
-        },
-        {
-            "trait_type": "Weakness",
+            "trait_type": "strength",
             "value": 0
         }
     ],
@@ -322,43 +318,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "naserian mr fear fear",
-    "description": "Has never slept with anyone and can not kill cockroach",
+    "name": "naserian the fear fear dancer",
+    "description": "A timid and dancer who is always afraid of a large crowd of audience and yet his dance moves can raise the dead.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "148",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "face"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "yellow and blue ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "warm"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -369,42 +365,42 @@
 }{
     "format": "CHIP-0007",
     "name": "wawuda the ashawo of africa",
-    "description": "Brags about his body count and follows skirt anywhere",
+    "description": "Brags about his body count and follows skirt anywhere.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "149",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "green top with blue overalls"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "fear"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -415,42 +411,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kerubo the igbo smoker",
-    "description": "Loves only his igbo and is happy when he finds an old blunt",
+    "description": "Loves only his igbo and is happy when he finds an old blunt.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "150",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "brown shirt with dog pattern"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "smirking"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -461,42 +457,42 @@
 }{
     "format": "CHIP-0007",
     "name": "rehema the olodo",
-    "description": "Failed primary 5 eight times and like playing football after school",
+    "description": "Failed primary 5 eight times and like playing football after school.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "151",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "teal"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "purple shirt with yellow accent"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "euphoric"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -507,42 +503,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nekesa the brainbox",
-    "description": "A proposed elite who cannot write a simple speech",
+    "description": "A proposed elite who cannot write a simple speech.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "152",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "monostrap black ankara with yellow and red patterns"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "playful"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -553,42 +549,42 @@
 }{
     "format": "CHIP-0007",
     "name": "kiokoli the slowrunner",
-    "description": "Always running in every race but never making it to the first 5",
+    "description": "Always running in every race but never making it to the first 5.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "153",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "maroon agbada with yellow accents"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "clueless"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -599,42 +595,42 @@
 }{
     "format": "CHIP-0007",
     "name": "adjuani uncle wire wire",
-    "description": "Mugu money spender that loves spending on women extravagantly",
+    "description": "Mugu money spender that loves spending on women extravagantly.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "154",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "red"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "plain and patterned ankara shirt"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "anxious"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -644,43 +640,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "ajobaru a serial killer",
-    "description": "High end assasin who cannot survive a day without sex",
+    "name": "ajobaru a creative artist",
+    "description": "A lovely artist who is known for creating magical art pieces that can spark a smile.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "155",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "yelow kente shirt"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "cheerful"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -691,42 +687,42 @@
 }{
     "format": "CHIP-0007",
     "name": "effiadem the fireman",
-    "description": "A retired military general who always loves shooting at sight",
+    "description": "A retired military general who always loves shooting at sight.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "156",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "black and kente agbada"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "high"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -737,42 +733,42 @@
 }{
     "format": "CHIP-0007",
     "name": "deladem the commandoo",
-    "description": "The nerd who has watched all war movies but cannot fight a kid",
+    "description": "The nerd who has watched all war movies but cannot fight a kid.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "157",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "burgundy"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "black and kente agbada"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -783,42 +779,42 @@
 }{
     "format": "CHIP-0007",
     "name": "dogbeda the monger",
-    "description": "A fisherman who pracitically live in the river",
+    "description": "A fisherman who pracitically live in the river.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "158",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "orange"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "orange and blue denim"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "unbothered"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -829,42 +825,38 @@
 }{
     "format": "CHIP-0007",
     "name": "enyonyam our slay mama",
-    "description": "Posts new pictures everyday and can snub for africa",
+    "description": "Posts new pictures everyday and can snub for africa.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "159",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "blue"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "green top with overall"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "none; strength:none"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
-        },
-        {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -875,42 +867,42 @@
 }{
     "format": "CHIP-0007",
     "name": "lumusi pro technician",
-    "description": "The electrician well known for wiring burnt buildings",
+    "description": "The electrician well known for wiring burnt buildings.",
     "minting_tool": "TEAM PLUG",
     "sensitive_content": false,
     "series_number": "160",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "."
+            "trait_type": "hair",
+            "value": "red"
         },
         {
-            "trait_type": "Eyes",
-            "value": "."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "."
+            "trait_type": "clothing",
+            "value": "white top with blue overalls"
         },
         {
-            "trait_type": "Accessories",
-            "value": "."
+            "trait_type": "accessories",
+            "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "."
+            "trait_type": "expression",
+            "value": "high"
         },
         {
-            "trait_type": "Strength",
-            "value": "."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],

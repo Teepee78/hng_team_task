@@ -1,8 +1,8 @@
 {
     "format": "CHIP-0007",
     "name": "abdul the vibe",
-    "description": "abdul the life of the party and can never be caught unfresh",
-    "minting_tool": "TEAM CLUTCH",
+    "description": "Abdul the life of the party and can never be caught un-fresh.",
+    "minting_tool": "TEAM BEVEL",
     "sensitive_content": false,
     "series_number": "21",
     "series_total": 420,
@@ -20,7 +20,7 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "purple and yellow kaftan"
         },
         {
@@ -47,7 +47,7 @@
 }{
     "format": "CHIP-0007",
     "name": "emeka the clown",
-    "description": "emeka the funny man, always making silly jokes",
+    "description": "Emeka the funny man; always making silly joke.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "22",
@@ -66,7 +66,7 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "yellow and black ankara"
         },
         {
@@ -93,7 +93,7 @@
 }{
     "format": "CHIP-0007",
     "name": "salam the odogwu",
-    "description": "salam is a big time textile marketer always sourcing for quality materials",
+    "description": "Salam is a big time textile marketer always sourcing for quality materials.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "23",
@@ -112,7 +112,7 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "wine and yellow"
         },
         {
@@ -139,7 +139,7 @@
 }{
     "format": "CHIP-0007",
     "name": "charles the exporter",
-    "description": "charles a business man an importer and exporter never to be caught idle",
+    "description": "Charles a business man an importer and exporter never to be caught idle.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "24",
@@ -158,7 +158,7 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "orange and blue"
         },
         {
@@ -185,7 +185,7 @@
 }{
     "format": "CHIP-0007",
     "name": "wole the pimp",
-    "description": "wole knows all the babes in town and is always pimping them out",
+    "description": "Wole knows people and his way around his city.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "25",
@@ -201,7 +201,7 @@
         },
         {
             "trait_type": "teeth",
-            "value": "two white teeth with diastema, clothings :yellow dashiki"
+            "value": "two white teeth with diastema; clothing :yellow dashiki"
         },
         {
             "trait_type": "accessories",
@@ -227,7 +227,7 @@
 }{
     "format": "CHIP-0007",
     "name": "saro the baller",
-    "description": "saro is a baller and is always ready to turnup",
+    "description": "Saro is a baller and he is always ready to turn-up",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "26",
@@ -246,7 +246,7 @@
             "value": "two white teeth with diastema"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "black and yellow kente"
         },
         {
@@ -273,7 +273,7 @@
 }{
     "format": "CHIP-0007",
     "name": "ade omo yoruba",
-    "description": "ade a yourba man takes pride in the yourba tribe",
+    "description": "Ade is an influential man and he is revered in his town.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "27",
@@ -292,12 +292,12 @@
             "value": "complete white teeth and a gold tooth"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "black and yellow kente"
         },
         {
             "trait_type": "accessories",
-            "value": "wine cap, expression:happy"
+            "value": "wine cap; expression:happy"
         },
         {
             "trait_type": "strength",
@@ -314,15 +314,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": " shola cool kid",
-    "description": "shola prefers to be alone because he hates stress",
+    "name": "shola cool kid",
+    "description": "Shola prefers to be alone because he hates stress.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "28",
     "series_total": 420,
     "attributes": [
         {
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": null
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow t-shirt and blue dongaris"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "red facecap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "playful"
+        },
+        {
             "trait_type": "strength",
+            "value": "fun"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -333,14 +361,42 @@
 }{
     "format": "CHIP-0007",
     "name": "charlie the smoker",
-    "description": "charlie uses smoking as a coping mechanism",
+    "description": "Charlie uses smoking as a coping mechanism.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "29",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "clothings",
+            "trait_type": "hair",
+            "value": null
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black shirt with lion prints"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "blue cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "nice"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -351,18 +407,42 @@
 }{
     "format": "CHIP-0007",
     "name": "femi the badguy",
-    "description": "femi is the biggest guy in lagos and he has served plenty babes breakfast",
+    "description": "Femi is one of the fliest guys in Lagos.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "30",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "hair:none,eyes",
-            "value": "black, teeth:none, clothings:white t-shirt and blue dongaris, accessories:smoking pipe, expression:none"
+            "trait_type": "hair",
+            "value": "orange"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": null
+        },
+        {
+            "trait_type": "clothing",
+            "value": "white t-shirt and blue dongaris"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "smoking pipe"
+        },
+        {
+            "trait_type": "expression",
+            "value": "unbothered"
         },
         {
             "trait_type": "strength",
+            "value": "fearless"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -373,18 +453,42 @@
 }{
     "format": "CHIP-0007",
     "name": "sinzu money",
-    "description": "sinzu loves spending money on flashy things",
+    "description": "Sinzu loves spending money on flashy things.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "31",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "eyes",
-            "value": "hair:none, blue, teeth:none"
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "white complete teeth and a brown tooth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "purple and yellow kaftan"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "green-stripped fila cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "strength"
+        },
+        {
+            "trait_type": "strength",
+            "value": "generous"
+        },
+        {
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -395,7 +499,7 @@
 }{
     "format": "CHIP-0007",
     "name": "obinna the palmwine tapper",
-    "description": "obinna taps palmwine for a living",
+    "description": "Obinna taps palmwine for a living.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "32",
@@ -407,15 +511,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "blac,k"
+            "value": "black"
         },
         {
             "trait_type": "teeth",
             "value": null
         },
         {
-            "trait_type": "clothings",
-            "value": "yellow, black and a touch of pink ankara"
+            "trait_type": "clothing",
+            "value": "yellow black and a touch of pink ankara"
         },
         {
             "trait_type": "accessories",
@@ -441,7 +545,7 @@
 }{
     "format": "CHIP-0007",
     "name": "aminu maikudi",
-    "description": "aminu is a wealthy man from a family with generational wealth. His exquisite taste shows it",
+    "description": "Aminu is a wealthy man from a family with generational wealth. ",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "33",
@@ -460,7 +564,7 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "maroon and yellow agbada"
         },
         {
@@ -487,7 +591,7 @@
 }{
     "format": "CHIP-0007",
     "name": "sabinus the town crier",
-    "description": "sabinus delivers messages to his town people",
+    "description": "Sabinus delivers messages to his town people.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "34",
@@ -506,7 +610,7 @@
             "value": "two white teeth with diastema"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "orange ankara with touches of blue"
         },
         {
@@ -533,7 +637,7 @@
 }{
     "format": "CHIP-0007",
     "name": "adisa ibadan",
-    "description": "adisa the greatest man in the whole town of ibadan, is authority can never be questioned",
+    "description": "Adisa is an elegant man and he is adored by his people.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "35",
@@ -552,8 +656,8 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
-            "value": "kente accessories:abeti-aja cap"
+            "trait_type": "clothing",
+            "value": "kente; accessories:abeti-aja cap"
         },
         {
             "trait_type": "expression",
@@ -575,7 +679,7 @@
 }{
     "format": "CHIP-0007",
     "name": "linda the navigator",
-    "description": "linda knows how to make a way for herself and people around her",
+    "description": "Linda knows how to make a way for herself and the people around her.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "36",
@@ -591,7 +695,7 @@
         },
         {
             "trait_type": "teeth",
-            "value": "none, clothings:multicolored"
+            "value": "none; clothing:multicolored"
         },
         {
             "trait_type": "accessories",
@@ -617,7 +721,7 @@
 }{
     "format": "CHIP-0007",
     "name": "kemi the iron lady",
-    "description": "kemi the strongest woman known to the town of  igbede people",
+    "description": "Kemi the strongest woman known to the town of Igbede people.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "37",
@@ -636,8 +740,8 @@
             "value": null
         },
         {
-            "trait_type": "clothings",
-            "value": "ankara, accessories:glasses and a pipe"
+            "trait_type": "clothing",
+            "value": "ankara; accessories:glasses and a pipe"
         },
         {
             "trait_type": "expression",
@@ -659,7 +763,7 @@
 }{
     "format": "CHIP-0007",
     "name": "mercy the sassy lady",
-    "description": "mercy only care about spending her father's money and treats people like trash",
+    "description": "Mercy is a confident woman and never hesistate to show it.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "38",
@@ -671,10 +775,10 @@
         },
         {
             "trait_type": "eyes",
-            "value": "none, teeth:none"
+            "value": "none; teeth:none"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "ankara"
         },
         {
@@ -701,7 +805,7 @@
 }{
     "format": "CHIP-0007",
     "name": "sandra money",
-    "description": "sandra likes getting and spending money",
+    "description": "Sandra likes getting and spending money.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "39",
@@ -713,7 +817,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "none, teeth:none, clothings:yellow and black"
+            "value": "none; teeth:none; clothing:yellow and black"
         },
         {
             "trait_type": "accessories",
@@ -739,7 +843,7 @@
 }{
     "format": "CHIP-0007",
     "name": "bimpe the fashionista",
-    "description": "bimpe loves wearing trendy clothes and looking gorgeous",
+    "description": "Bimpe loves wearing trendy clothes and looking gorgeous.",
     "minting_tool": "TEAM CLUTCH",
     "sensitive_content": false,
     "series_number": "40",
@@ -751,10 +855,10 @@
         },
         {
             "trait_type": "eyes",
-            "value": "none, teeth:gap teeth"
+            "value": "none; teeth:gap teeth"
         },
         {
-            "trait_type": "clothings",
+            "trait_type": "clothing",
             "value": "black cold shoulder shirt"
         },
         {

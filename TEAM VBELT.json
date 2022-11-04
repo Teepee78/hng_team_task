@@ -1,42 +1,42 @@
 {
     "format": "CHIP-0007",
     "name": "osas the ceo",
-    "description": "Meet Osas, a Gen-Z CEO with the British accent.",
-    "minting_tool": "TEAM VBELT",
+    "description": "Meet Osas; a Gen-Z CEO with the British accent.",
+    "minting_tool": "TEAM RULER",
     "sensitive_content": false,
     "series_number": "361",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "purple dreadlocks."
+            "trait_type": "hair",
+            "value": "purple dreadlocks"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "danshiki."
+            "trait_type": "clothing",
+            "value": "danshiki"
         },
         {
-            "trait_type": "Accessory",
-            "value": "gold glasses."
+            "trait_type": "accessories",
+            "value": "gold glasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "none."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "none."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -47,42 +47,42 @@
 }{
     "format": "CHIP-0007",
     "name": "nneka the rainbow babe",
-    "description": "Nneka, the happy rainbow babe with the vibes",
+    "description": "Nneka; the happy rainbow babe with the vibes.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "362",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "pink."
+            "trait_type": "hair",
+            "value": "pink"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "blue and black bichrome."
+            "trait_type": "clothing",
+            "value": "blue and black bichrome"
         },
         {
-            "trait_type": "Accessory",
-            "value": "Pink."
+            "trait_type": "accessories",
+            "value": "gold glasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "none."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "trength",
-            "value": "none."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -93,42 +93,42 @@
 }{
     "format": "CHIP-0007",
     "name": "temitope the spoilt girl",
-    "description": "Temitope, our favourite Daddy's girl.",
+    "description": "Temitope; our favourite daddy's girl.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "363",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "none."
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Eyes",
-            "value": "none."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "vampire teeth."
+            "trait_type": "teeth",
+            "value": "vampire teeth"
         },
         {
-            "trait_type": "Clothing",
-            "value": "right one-shoulder wax print."
+            "trait_type": "clothing",
+            "value": "right one-shoulder wax print"
         },
         {
-            "trait_type": "Accessory",
-            "value": "gold glasses."
+            "trait_type": "accessories",
+            "value": "gold glasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "none."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "none."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -139,42 +139,42 @@
 }{
     "format": "CHIP-0007",
     "name": "bekeh the party animal",
-    "description": "Baby Bekeh, Life of the party that goes home with your charger.",
+    "description": "Baby Bekeh is life of the party that goes home with your charger.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "364",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "dark brown."
+            "trait_type": "hair",
+            "value": "dark brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "left one-shoulder wax print."
+            "trait_type": "clothing",
+            "value": "left one-shoulder wax print"
         },
         {
-            "trait_type": "Accessory",
-            "value": "gold glasses."
+            "trait_type": "accessories",
+            "value": "gold glasses"
         },
         {
-            "trait_type": "Expression",
-            "value": "none."
+            "trait_type": "expression",
+            "value": null
         },
         {
-            "trait_type": "Strength",
-            "value": "none."
+            "trait_type": "strength",
+            "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -185,31 +185,31 @@
 }{
     "format": "CHIP-0007",
     "name": "nana the tech lady",
-    "description": "Nana, the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
+    "description": "Nana; the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "365",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "None."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
-            "value": "None."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
-            "value": "None."
+            "trait_type": "clothing",
+            "value": "print kente"
         },
         {
-            "trait_type": "Accessory",
-            "value": "gold glasses, beret"
+            "trait_type": "accessories",
+            "value": "gold glasses"
         },
         {
             "trait_type": "expression",
@@ -231,31 +231,31 @@
 }{
     "format": "CHIP-0007",
     "name": "rofiat the marketer",
-    "description": "Rofiat, the distressed marketing intern.",
+    "description": "Rofiat; the distressed marketing intern.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "366",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Purple dreadlocks."
+            "trait_type": "hair",
+            "value": "purple dreadlocks"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Brown"
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "danshiki"
         },
         {
-            "trait_type": "Accessories",
-            "value": "none."
+            "trait_type": "accessories",
+            "value": null
         },
         {
             "trait_type": "expression",
@@ -277,31 +277,31 @@
 }{
     "format": "CHIP-0007",
     "name": "zarifa the righteous",
-    "description": "Meet Zarifa, a proper baddie for Christ.",
+    "description": "Meet Zarifa; a proper baddie for Christ.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "367",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Pink."
+            "trait_type": "hair",
+            "value": "pink"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Blue"
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
-            "trait_type": "teth",
-            "value": "none."
+            "trait_type": "teeth",
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": "v-neck original kente"
         },
         {
             "trait_type": "accessories",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "expression",
@@ -323,42 +323,42 @@
 }{
     "format": "CHIP-0007",
     "name": "modinat the troublesome",
-    "description": "Modinat, The queen of Gbas Gbos.",
+    "description": "Modinat; The queen of gbas gbos.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "368",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "long maroon hair"
         },
         {
-            "trait_type": "Eye",
+            "trait_type": "eye",
             "value": null
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "vampire teeth"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "right one-shoulder wax print"
         },
         {
-            "trait_type": "Accessory",
+            "trait_type": "accessories",
             "value": "brown glasses"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
-            "trait_type": "Strength",
+            "trait_type": "strength",
             "value": null
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -369,31 +369,31 @@
 }{
     "format": "CHIP-0007",
     "name": "amaka our mummy g.o",
-    "description": "Here's Amaka, our one and only mummy G.O who's been to hell and back.",
+    "description": "Here's Amaka; our one and only mummy G.O who's been to hell and back.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "369",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "dark"
+            "trait_type": "hair",
+            "value": "dark brown"
         },
         {
-            "trait_type": "brown..Eyes",
+            "trait_type": "eyes",
             "value": "blue"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": "blue v-neck wax print"
         },
         {
             "trait_type": "accessories",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "expression",
@@ -415,30 +415,30 @@
 }{
     "format": "CHIP-0007",
     "name": "mawusi the patient",
-    "description": "Meet Mawusi, the sweet sister waiting for her Canadian bobo.",
+    "description": "Meet Mawusi; the sweet sister waiting for her Canadian bobo.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "370",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Black."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Blue"
+            "trait_type": "eyes",
+            "value": "blue"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": "print kente"
         },
         {
-            "trait_type": "Accessory",
+            "trait_type": "accessories",
             "value": "beret"
         },
         {
@@ -461,31 +461,31 @@
 }{
     "format": "CHIP-0007",
     "name": "nesta the difficult",
-    "description": "Meet Nesta,the National Chairlady, Shege Administrators of Nigeria. (SAN)",
+    "description": "Meet Nesta;the National Chairlady; (SAN)Shege Administrators of Nigeria.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "371",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "double puffy hair"
         },
         {
-            "trait_type": "Eyes",
-            "value": "brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": "bow neck wax print"
         },
         {
-            "trait_type": "Accessory",
-            "value": "hair bands."
+            "trait_type": "accessories",
+            "value": "hair bands"
         },
         {
             "trait_type": "expression",
@@ -507,30 +507,30 @@
 }{
     "format": "CHIP-0007",
     "name": "adaora the choir mistress",
-    "description": "Adaora, our able choir mistress that will take your boyfriend for vanishing.",
+    "description": "Adaora; a lovely choir mistress who loves her boyfriend.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "372",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "black."
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "brown"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": null
         },
         {
-            "trait_type": "Accessory",
+            "trait_type": "accessories",
             "value": "choker necklace"
         },
         {
@@ -553,31 +553,31 @@
 }{
     "format": "CHIP-0007",
     "name": "busayo the husband snatcher",
-    "description": "Miss Busayo, Can transplant your husband with the blink of her eyes",
+    "description": "Miss Busayo; loves being around her husband.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "373",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "brown."
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "brown"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "accessories",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "expression",
@@ -599,7 +599,7 @@
 }{
     "format": "CHIP-0007",
     "name": "wangari the waitress",
-    "description": "Wangari, the aspiring musician that doubles as a waitress.",
+    "description": "Wangari; the aspiring musician that doubles as a waitress.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "374",
@@ -607,7 +607,7 @@
     "attributes": [
         {
             "trait_type": "hair",
-            "value": "purple dreadlocks."
+            "value": "purple dreadlocks"
         },
         {
             "trait_type": "eyes",
@@ -615,15 +615,15 @@
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": null
         },
         {
-            "trait_type": "Accessory",
-            "value": "Purple earrings."
+            "trait_type": "accessories",
+            "value": "purple earrings"
         },
         {
             "trait_type": "expression",
@@ -645,23 +645,23 @@
 }{
     "format": "CHIP-0007",
     "name": "charlene the shy lady",
-    "description": "Meet Charlene, the shy sweetheart next door.",
+    "description": "Meet Charlene; the shy sweetheart next door.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "375",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "brown afro"
         },
         {
-            "trait_type": "Eyes",
-            "value": "brown."
+            "trait_type": "eyes",
+            "value": "brown"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
@@ -669,7 +669,7 @@
         },
         {
             "trait_type": "accessories",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "expression",
@@ -691,34 +691,34 @@
 }{
     "format": "CHIP-0007",
     "name": "addae the unretired",
-    "description": "Mummy Addae, the hot grandma that has refused to retire.",
+    "description": "Mummy Addae; the hot grandma that has refused to retire.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "376",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
+            "trait_type": "hair",
             "value": "brown"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "brown"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "danshiki"
         },
         {
-            "trait_type": "Accessory",
+            "trait_type": "accessories",
             "value": "choker necklace"
         },
         {
-            "trait_type": "Expression",
+            "trait_type": "expression",
             "value": null
         },
         {
@@ -737,31 +737,31 @@
 }{
     "format": "CHIP-0007",
     "name": "abena the slay queen",
-    "description": "Abena, the gang's slay queen",
+    "description": "Abena; the gang's slay queen.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "377",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "long brown braids."
+            "trait_type": "hair",
+            "value": "long brown braids"
         },
         {
-            "trait_type": "Eyes",
+            "trait_type": "eyes",
             "value": "squinting"
         },
         {
             "trait_type": "teeth",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "clothing",
-            "value": "none."
+            "value": "v-neck original kente"
         },
         {
             "trait_type": "accessories",
-            "value": "none."
+            "value": null
         },
         {
             "trait_type": "expression",
@@ -783,31 +783,31 @@
 }{
     "format": "CHIP-0007",
     "name": "gasira the violence mama",
-    "description": "Sister Gasira, wipes people Oraimo cord for a living.",
+    "description": "Sister Gasira; wipes people Oraimo cord for a living.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "378",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "brown bun."
+            "trait_type": "hair",
+            "value": "brown bun"
         },
         {
-            "trait_type": "Eyes",
-            "value": "none."
+            "trait_type": "eyes",
+            "value": null
         },
         {
-            "trait_type": "Teeth",
+            "trait_type": "teeth",
             "value": "vampire teeth"
         },
         {
-            "trait_type": "Clothing",
+            "trait_type": "clothing",
             "value": "right one-shoulder wax print"
         },
         {
-            "trait_type": "Accessories",
-            "value": "None."
+            "trait_type": "accessories",
+            "value": null
         },
         {
             "trait_type": "expression",
@@ -829,31 +829,31 @@
 }{
     "format": "CHIP-0007",
     "name": "salamatou the exchange student",
-    "description": "Salamatou, An Ivorian exchange student who's in love with Amala.",
+    "description": "Salamatou; an Ivorian exchange student who's in love with amala.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "379",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Black"
+            "trait_type": "hair",
+            "value": "black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Squinted."
+            "trait_type": "eyes",
+            "value": "squinted"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Cothing",
-            "value": "none."
+            "trait_type": "cothing",
+            "value": null
         },
         {
-            "trait_type": "Accessory",
-            "value": "beret."
+            "trait_type": "accessories",
+            "value": "beret"
         },
         {
             "trait_type": "expression",
@@ -875,27 +875,31 @@
 }{
     "format": "CHIP-0007",
     "name": "nguyen the foreigner",
-    "description": "Meet Nguyen, the Asian Aunt that's addicted to Waakaye.",
+    "description": "Meet Nguyen; the Asian aunt that's addicted to waakaye.",
     "minting_tool": "TEAM VBELT",
     "sensitive_content": false,
     "series_number": "380",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "dark brown."
+            "trait_type": "hair",
+            "value": "dark brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Squinted"
+            "trait_type": "eyes",
+            "value": "squinted"
         },
         {
-            "trait_type": "Teeth",
-            "value": "none. Clothing:none."
+            "trait_type": "teeth",
+            "value": null
         },
         {
-            "trait_type": "Accessories",
-            "value": "none."
+            "trait_type": "clothing",
+            "value": "print kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": null
         },
         {
             "trait_type": "expression",

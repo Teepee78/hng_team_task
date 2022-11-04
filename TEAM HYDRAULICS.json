@@ -1,42 +1,42 @@
 {
     "format": "CHIP-0007",
-    "name": "Busola the shakara",
+    "name": "busola the shakara",
     "description": "She is a fashion icon that loves luxurious items.",
-    "minting_tool": "TEAM HYDRAULICS",
+    "minting_tool": "TEAM POWERDRILL",
     "sensitive_content": false,
     "series_number": "281",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown"
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Shades"
+            "trait_type": "eyes",
+            "value": "shades"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow and blue Ankara"
+            "trait_type": "clothing",
+            "value": "yellow and blue ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Shades"
+            "trait_type": "accessories",
+            "value": "shades"
         },
         {
-            "trait_type": "Expression",
-            "value": "Passive"
+            "trait_type": "expression",
+            "value": "passive"
         },
         {
-            "trait_type": "Strength",
-            "value": "Confident"
+            "trait_type": "strength",
+            "value": "confident"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -46,7 +46,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Bella the artist",
+    "name": "bella the artist",
     "description": "A lady that host a fashion week show",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -54,35 +54,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Blond"
+            "trait_type": "hair",
+            "value": "blond"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Shades"
+            "trait_type": "eyes",
+            "value": "shades"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Black and yellow Ankara"
+            "trait_type": "clothing",
+            "value": "black and yellow ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Shades"
+            "trait_type": "accessories",
+            "value": "shades"
         },
         {
-            "trait_type": "Expression",
-            "value": "Straight-face"
+            "trait_type": "expression",
+            "value": "straight face"
         },
         {
-            "trait_type": "Strength",
-            "value": "Creativity"
+            "trait_type": "strength",
+            "value": "creativity"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -92,7 +92,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Queen the extrovert",
+    "name": "queen the extrovert",
     "description": "A woman who enjoys being high all the time",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -100,35 +100,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown"
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Shades"
+            "trait_type": "eyes",
+            "value": "shades"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Multi-colored Ankara"
+            "trait_type": "clothing",
+            "value": "multi colored ankara"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Shades, smoking pipe"
+            "trait_type": "accessories",
+            "value": "shades and smoking pipe"
         },
         {
-            "trait_type": "Expression",
-            "value": "Sassy"
+            "trait_type": "expression",
+            "value": "sassy"
         },
         {
-            "trait_type": "Strength",
-            "value": "Self-assured"
+            "trait_type": "strength",
+            "value": "self assured"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -138,43 +138,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Mary toxic lady",
-    "description": "A lady who's toxic around people",
+    "name": "mary toxic lady",
+    "description": "A lady who is toxic around people",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
     "series_number": "284",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Two buns"
+            "trait_type": "hair",
+            "value": "two buns"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Shades"
+            "trait_type": "eyes",
+            "value": "shades"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Animal prints"
+            "trait_type": "clothing",
+            "value": "animal prints"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Shades"
+            "trait_type": "accessories",
+            "value": "shades"
         },
         {
-            "trait_type": "Expression",
-            "value": "Angry"
+            "trait_type": "expression",
+            "value": "angry"
         },
         {
-            "trait_type": "Strength",
-            "value": "Bully"
+            "trait_type": "strength",
+            "value": "bully"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -184,7 +184,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Elizabeth the richkid",
+    "name": "elizabeth the richkid",
     "description": "A university undergraduate from a rich background",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -192,35 +192,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Blond"
+            "trait_type": "hair",
+            "value": "blond"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Shades"
+            "trait_type": "eyes",
+            "value": "shades"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Blacktop"
+            "trait_type": "clothing",
+            "value": "blacktop"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Shades"
+            "trait_type": "accessories",
+            "value": "shades"
         },
         {
-            "trait_type": "Expression",
-            "value": "Straight-face"
+            "trait_type": "expression",
+            "value": "straight face"
         },
         {
-            "trait_type": "Strength",
-            "value": "Wealth"
+            "trait_type": "strength",
+            "value": "wealth"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -230,7 +230,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Larry the westerner",
+    "name": "larry the westerner",
     "description": "A Yoruba Man who smokes his pipe in peace",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -238,35 +238,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "White"
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Purple and yellow Agbada"
+            "trait_type": "clothing",
+            "value": "purple and yellow agbada"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap, smoking pipe"
+            "trait_type": "accessories",
+            "value": "cap and smoking pipe"
         },
         {
-            "trait_type": "Expression",
-            "value": "Passive"
+            "trait_type": "expression",
+            "value": "passive"
         },
         {
-            "trait_type": "Strength",
-            "value": "Likes to be in control"
+            "trait_type": "strength",
+            "value": "likes to be in control"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -276,7 +276,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Danjuma the shocked",
+    "name": "danjuma the shocked",
     "description": "A pensioneer who got told his bank is on distress",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -284,35 +284,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "White"
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Wrapper across one shoulder"
+            "trait_type": "clothing",
+            "value": "wrapper across one shoulder"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Shocked"
+            "trait_type": "expression",
+            "value": "shocked"
         },
         {
-            "trait_type": "Strength",
-            "value": "Hard-worker"
+            "trait_type": "strength",
+            "value": "hard worker"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -322,7 +322,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Yomi the fashionista",
+    "name": "yomi the fashionista",
     "description": "Winner of the Lagos GT Bank fashion week.",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -330,35 +330,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "White"
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Wrapper across one shoulder"
+            "trait_type": "clothing",
+            "value": "wrapper across one shoulder"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Shocked"
+            "trait_type": "expression",
+            "value": "shocked"
         },
         {
-            "trait_type": "Strength",
-            "value": "Hard-worker"
+            "trait_type": "strength",
+            "value": "hard worker"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -368,43 +368,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Ibu the importer",
-    "description": "A rich igbo trader who imports goods in onitsha market",
+    "name": "ibu the importer",
+    "description": "A rich man who steps on people's toes",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
     "series_number": "289",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Light blue"
+            "trait_type": "eyes",
+            "value": "light blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White and a gold tooth"
+            "trait_type": "teeth",
+            "value": "white and a gold tooth"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Isi-agu"
+            "trait_type": "clothing",
+            "value": "isi-agu"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Straight-face"
+            "trait_type": "expression",
+            "value": "straight face"
         },
         {
-            "trait_type": "Strength",
-            "value": "Wealth"
+            "trait_type": "strength",
+            "value": "wealth"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -414,43 +414,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Massa the ghanian",
-    "description": "A rich Ghanian trader.",
+    "name": "massa the ghanian",
+    "description": "A rich trader who loves giving back to the community",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
     "series_number": "290",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed"
+            "trait_type": "eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Akan"
+            "trait_type": "clothing",
+            "value": "akan"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Happy"
+            "trait_type": "expression",
+            "value": "happy"
         },
         {
-            "trait_type": "Strength",
-            "value": "Wealth"
+            "trait_type": "strength",
+            "value": "wealth"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -460,43 +460,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "James the musician",
-    "description": "A yoruba juju artist",
+    "name": "james the musician",
+    "description": "A Nigerian based musician who host shows",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
     "series_number": "291",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown"
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed"
+            "trait_type": "eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Akan"
+            "trait_type": "clothing",
+            "value": "akan"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Happy"
+            "trait_type": "expression",
+            "value": "happy"
         },
         {
-            "trait_type": "Strength",
-            "value": "Good voice"
+            "trait_type": "strength",
+            "value": "good voice"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -506,43 +506,43 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Gbenga titled man",
-    "description": "A yoruba chief who is also a car dealer",
+    "name": "gbenga titled man",
+    "description": "A chief who is very ambitious in his pursuits for fame",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
     "series_number": "292",
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Light blue"
+            "trait_type": "eyes",
+            "value": "light blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White with a gold tooth"
+            "trait_type": "teeth",
+            "value": "white with a gold tooth"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Akan"
+            "trait_type": "clothing",
+            "value": "akan"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Emotional"
+            "trait_type": "expression",
+            "value": "emotional"
         },
         {
-            "trait_type": "Strength",
-            "value": "Friendly"
+            "trait_type": "strength",
+            "value": "friendly"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -552,7 +552,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Abaga the rapper",
+    "name": "abaga the rapper",
     "description": "A flashy millionaire and a music rapper",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -560,35 +560,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": null
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed"
+            "trait_type": "covered;eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Dongri and yellow T-shirt"
+            "trait_type": "clothing",
+            "value": "dongri and yellow t-shirt"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Happy"
+            "trait_type": "expression",
+            "value": "happy"
         },
         {
-            "trait_type": "Strength",
-            "value": "Wealth"
+            "trait_type": "strength",
+            "value": "wealth"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -598,7 +598,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Izuchukwu the fisherman",
+    "name": "izuchukwu the fisherman",
     "description": "A fisherman who knows how to paddle well",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -606,35 +606,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Closed"
+            "trait_type": "eyes",
+            "value": "closed"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White with a gap tooth"
+            "trait_type": "teeth",
+            "value": "white with a gap tooth"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Green shirt"
+            "trait_type": "clothing",
+            "value": "green shirt"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Dozzy"
+            "trait_type": "expression",
+            "value": "dozzy"
         },
         {
-            "trait_type": "Strength",
-            "value": "Great body-build"
+            "trait_type": "strength",
+            "value": "great body-build"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -644,7 +644,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Mark the philanthropist",
+    "name": "mark the philanthropist",
     "description": "A London based philantropist.",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -652,35 +652,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Brown"
+            "trait_type": "hair",
+            "value": "brown"
         },
         {
-            "trait_type": "Eyes",
-            "value": "White"
+            "trait_type": "eyes",
+            "value": "white"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "White and blue shirt"
+            "trait_type": "clothing",
+            "value": "white and blue shirt"
         },
         {
-            "trait_type": "Accessories",
+            "trait_type": "accessories",
             "value": null
         },
         {
-            "trait_type": "Expression",
-            "value": "Irritated"
+            "trait_type": "expression",
+            "value": "irritated"
         },
         {
-            "trait_type": "Strength",
-            "value": "Philanthropist"
+            "trait_type": "strength",
+            "value": "philanthropist"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -690,7 +690,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Desmond the politician",
+    "name": "desmond the politician",
     "description": "A young politician who just became a minister",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -698,35 +698,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Grey"
+            "trait_type": "eyes",
+            "value": "grey"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Yellow and purple agbada"
+            "trait_type": "clothing",
+            "value": "yellow and purple agbada"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Ila"
+            "trait_type": "accessories",
+            "value": "ila"
         },
         {
-            "trait_type": "Expression",
-            "value": "Smirk"
+            "trait_type": "expression",
+            "value": "smirk"
         },
         {
-            "trait_type": "Strength",
-            "value": "Team player"
+            "trait_type": "strength",
+            "value": "team player"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -736,7 +736,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Okoro the bachelor",
+    "name": "okoro the bachelor",
     "description": "A local palm wine tapper with hopes and dreams",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -744,35 +744,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Grey"
+            "trait_type": "eyes",
+            "value": "grey"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White and a gold tooth"
+            "trait_type": "teeth",
+            "value": "white and a gold tooth"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Wrapper across one shoulder"
+            "trait_type": "clothing",
+            "value": "wrapper across one shoulder"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Pretense"
+            "trait_type": "expression",
+            "value": "pretense"
         },
         {
-            "trait_type": "Strength",
-            "value": "Motivated"
+            "trait_type": "strength",
+            "value": "motivated"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -782,7 +782,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Saro the clothemaker",
+    "name": "saro the clothemaker",
     "description": "The yoruba man that stole the king's wife.",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -790,35 +790,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Grey"
+            "trait_type": "eyes",
+            "value": "grey"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Red and yellow agbada"
+            "trait_type": "clothing",
+            "value": "red and yellow agbada"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Straight face"
+            "trait_type": "expression",
+            "value": "straight face"
         },
         {
-            "trait_type": "Strength",
-            "value": "Good-looking"
+            "trait_type": "strength",
+            "value": "good-looking"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -828,7 +828,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Kalu the ichie",
+    "name": "kalu the ichie",
     "description": "A man of wealth with afluence spreading all over the east",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -836,35 +836,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Sky-blue"
+            "trait_type": "eyes",
+            "value": "sky-blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "White"
+            "trait_type": "teeth",
+            "value": "white"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Orange Plain and pattern shirt"
+            "trait_type": "clothing",
+            "value": "orange plain and pattern shirt"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Happy"
+            "trait_type": "expression",
+            "value": "happy"
         },
         {
-            "trait_type": "Strength",
-            "value": "Wealth"
+            "trait_type": "strength",
+            "value": "wealth"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],
@@ -874,7 +874,7 @@
     }
 }{
     "format": "CHIP-0007",
-    "name": "Tamuno the prince",
+    "name": "tamuno the prince",
     "description": "An Ijaw prince who is also the heir to the throne",
     "minting_tool": "TEAM HYDRAULICS",
     "sensitive_content": false,
@@ -882,35 +882,35 @@
     "series_total": 420,
     "attributes": [
         {
-            "trait_type": "Hair",
-            "value": "Covered"
+            "trait_type": "hair",
+            "value": "covered"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Sky-blue"
+            "trait_type": "eyes",
+            "value": "sky-blue"
         },
         {
-            "trait_type": "Teeth",
-            "value": "Closed"
+            "trait_type": "teeth",
+            "value": "closed"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Akan"
+            "trait_type": "clothing",
+            "value": "akan"
         },
         {
-            "trait_type": "Accessories",
-            "value": "Cap"
+            "trait_type": "accessories",
+            "value": "cap"
         },
         {
-            "trait_type": "Expression",
-            "value": "Straight-face"
+            "trait_type": "expression",
+            "value": "straight-face"
         },
         {
-            "trait_type": "Strength",
-            "value": "Caring"
+            "trait_type": "strength",
+            "value": "caring"
         },
         {
-            "trait_type": "Weakness",
+            "trait_type": "weakness",
             "value": 0
         }
     ],

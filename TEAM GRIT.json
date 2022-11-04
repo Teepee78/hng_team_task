@@ -1,8 +1,8 @@
 {
     "format": "CHIP-0007",
     "name": "toy soldier",
-    "description": "a man stronger than an army",
-    "minting_tool": "TEAM GRIT",
+    "description": "A man stronger than an army.",
+    "minting_tool": "TEAM ENGINE",
     "sensitive_content": false,
     "series_number": "61",
     "series_total": 420,
@@ -32,7 +32,7 @@
             "value": "happy"
         },
         {
-            "trait_type": "strengths",
+            "trait_type": "strength",
             "value": "powerful"
         },
         {
@@ -47,7 +47,7 @@
 }{
     "format": "CHIP-0007",
     "name": "pipey rivers",
-    "description": "a man who loves the water so much and fixes its path",
+    "description": "A man who loves the water so much and fixes it's path.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "62",
@@ -55,7 +55,7 @@
     "attributes": [
         {
             "trait_type": "eyes",
-            "value": "hair:bald, opened, teeth:none"
+            "value": "hair:bald; opened; teeth:none"
         },
         {
             "trait_type": "clothing",
@@ -66,7 +66,7 @@
             "value": "nose mask"
         },
         {
-            "trait_type": "strengths",
+            "trait_type": "strength",
             "value": "calculative"
         },
         {
@@ -81,7 +81,7 @@
 }{
     "format": "CHIP-0007",
     "name": "phiri of zambia",
-    "description": "an african woman with strength and beauty",
+    "description": "An african woman with strength and beauty.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "63",
@@ -89,7 +89,7 @@
     "attributes": [
         {
             "trait_type": "hair",
-            "value": "two purple bun, eyes:nose"
+            "value": "purple buns; eyes:nose"
         },
         {
             "trait_type": "teeth",
@@ -108,7 +108,7 @@
             "value": "jiggy"
         },
         {
-            "trait_type": "strengths",
+            "trait_type": "strength",
             "value": "free spirit"
         },
         {
@@ -123,7 +123,7 @@
 }{
     "format": "CHIP-0007",
     "name": "patrick of bikinibottom",
-    "description": "a white man who loves the African culture and associates with their dressing",
+    "description": "A white man who loves the african culture and associates with their dressing.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "64",
@@ -154,7 +154,7 @@
             "value": "confused"
         },
         {
-            "trait_type": "strengths",
+            "trait_type": "strength",
             "value": "adaptation"
         },
         {
@@ -169,7 +169,7 @@
 }{
     "format": "CHIP-0007",
     "name": "nobuhle of zulu",
-    "description": "a woman well endowed with beauty",
+    "description": "A woman; well endowed with beauty.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "65",
@@ -200,7 +200,7 @@
             "value": "astonished"
         },
         {
-            "trait_type": "strengths",
+            "trait_type": "strength",
             "value": "cool headed"
         },
         {
@@ -215,7 +215,7 @@
 }{
     "format": "CHIP-0007",
     "name": "nkosazana of xhosa",
-    "description": "an african princess always proud of her culture",
+    "description": "An african princess; always proud of her culture.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "66",
@@ -223,11 +223,11 @@
     "attributes": [
         {
             "trait_type": "hair",
-            "value": "ginger afro, eyes:none"
+            "value": "ginger afro; eyes:none"
         },
         {
             "trait_type": "teeth",
-            "value": "gap teeth, clothing:umbaco"
+            "value": "gap teeth; clothing:umbaco"
         },
         {
             "trait_type": "accessories",
@@ -238,7 +238,7 @@
             "value": "fufilled"
         },
         {
-            "trait_type": "strengths",
+            "trait_type": "strength",
             "value": "confidence"
         },
         {
@@ -253,7 +253,7 @@
 }{
     "format": "CHIP-0007",
     "name": "mandla of zulu",
-    "description": "a simple and an introvert who keeps to himself",
+    "description": "A simple and introverted guy who keeps to himself.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "67",
@@ -299,7 +299,7 @@
 }{
     "format": "CHIP-0007",
     "name": "john doe",
-    "description": "a principled guy who is conscious of his health and ensures protection from infection",
+    "description": "A principled guy who is conscious of his health and ensures protection from infection.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "68",
@@ -326,7 +326,7 @@
             "value": "nose mask"
         },
         {
-            "trait_type": "expressions",
+            "trait_type": "expression",
             "value": "cold"
         },
         {
@@ -345,7 +345,7 @@
 }{
     "format": "CHIP-0007",
     "name": "ghost of power",
-    "description": "a woman stronger than ten men combined",
+    "description": "A woman; stronger than ten men combined.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "69",
@@ -391,7 +391,7 @@
 }{
     "format": "CHIP-0007",
     "name": "freida",
-    "description": "a man who is always peaceful",
+    "description": "A man who is always peaceful.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "70",
@@ -437,7 +437,7 @@
 }{
     "format": "CHIP-0007",
     "name": "flamboyant tree",
-    "description": "beautiful african woman",
+    "description": "A beautiful african woman; billionaire in the making.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "71",
@@ -483,7 +483,7 @@
 }{
     "format": "CHIP-0007",
     "name": "david of accra",
-    "description": "a combatant who fights and defends his people",
+    "description": "A combatant who fights and defends his people",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "72",
@@ -529,7 +529,7 @@
 }{
     "format": "CHIP-0007",
     "name": "cally lily",
-    "description": "a man who is a breath of fresh air",
+    "description": "A man who is a breathe of fresh air.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "73",
@@ -575,7 +575,7 @@
 }{
     "format": "CHIP-0007",
     "name": "bubune of accra",
-    "description": "a man with honor, always conscious of his health",
+    "description": "A man with honor; always conscious of his health.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "74",
@@ -621,7 +621,7 @@
 }{
     "format": "CHIP-0007",
     "name": "bediako of accra",
-    "description": "a strong man always ready to fight for what is right",
+    "description": "A strong man; always ready to fight for what is right.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "75",
@@ -667,7 +667,7 @@
 }{
     "format": "CHIP-0007",
     "name": "avatar aang",
-    "description": "a man who is ready to save the world",
+    "description": "A man who is ready to save the world.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "76",
@@ -713,7 +713,7 @@
 }{
     "format": "CHIP-0007",
     "name": "argus greek",
-    "description": "a man who you will always find on the look out ",
+    "description": "A man who you will always find on the look out.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "77",
@@ -759,7 +759,7 @@
 }{
     "format": "CHIP-0007",
     "name": "amahle of zulu",
-    "description": "A traditional man, feeling fulfilled",
+    "description": "A traditional man; feeling fulfilled.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "78",
@@ -805,7 +805,7 @@
 }{
     "format": "CHIP-0007",
     "name": "agnar ole",
-    "description": "a man who feels like an outcast and always has a battle with his mind",
+    "description": "A man who feels like an outcast and always has a battle with his mind.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "79",
@@ -851,7 +851,7 @@
 }{
     "format": "CHIP-0007",
     "name": "adom kulu",
-    "description": "a Ghanaian model, proud of his culture",
+    "description": "A ghanaian model; proud of his culture.",
     "minting_tool": "TEAM GRIT",
     "sensitive_content": false,
     "series_number": "80",
