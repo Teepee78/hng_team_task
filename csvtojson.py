@@ -7,7 +7,17 @@ How to run;
 """
 import csv
 import json
+import hashlib
 from sys import argv
+
+
+team_list = [
+        "TEAM AXE", "TEAM AXLE", "TEAM BEVEL", "TEAM BOOT",
+        "TEAM BRAINBOX", "TEAM CHISEL", "TEAM CLUTCH", "TEAM CRANKSHAFT",
+        "TEAM ENGINE", "TEAM GEAR", "TEAM GRIT", "TEAM HEADLIGHT",
+        "TEAM HYDRAULICS", "TEAM PLUG", "TEAM POWERDRILL", "TEAM PRYBAR",
+        "TEAM RULER", "TEAM SANDPAPER", "TEAM SCALE", "TEAM TAPE", "TEAM VBELT"
+    ]
 
 
 def parse_attributes(attributes):
@@ -116,8 +126,56 @@ def make_json(csvFilePath):
                 jsonf.write(json.dumps(result, indent=4))
 
 
+def hash_jsonfile():
+    # hash team json files
+    team_dict = {}
+
+    hasher = hashlib.sha256()
+    for team in team_list:
+        with open(f"{team}.json", 'rb') as f:
+            buf = f.read()
+            hasher.update(buf)
+            team_dict[team] = hasher.hexdigest()
+
+    return team_dict
+
+
+def add_hash_to_csv():
+    # Map hash of team json files with to a csv file
+
+    result_list = []
+    with open(argv[1], 'r') as file:
+
+        reader = csv.DictReader(file)
+
+        for row in reader:
+            if row["TEAM NAMES"] in team_list:
+                new_team = team_dict[row["TEAM NAMES"]]
+                row["HASH"] = team_dict[row["TEAM NAMES"]]
+            else:
+                row["HASH"] = new_team
+            new_dict = row
+            result_list.append(new_dict)
+
+    with open("sample.output.csv", 'w', newline='') as file:
+        fieldlist = [
+            'TEAM NAMES', 'Series Number',
+            'Filename', 'Name', 'Description',
+            'Gender', 'Attributes', 'UUID', 'HASH'
+        ]
+        writer = csv.writer(file)
+        writer.writerow(fieldlist)
+        for dicts in result_list:
+            values = []
+            for k, v in dicts.items():
+                values.append(v)
+            writer.writerow(values)
+
+
 # Driver Code
 # csvFilePath = first argument to script
-# Call the make_json function
+# Call the functions
 if __name__ == "__main__":
     make_json(argv[1])
+    team_dict = hash_jsonfile()
+    add_hash_to_csv()
